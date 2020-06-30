@@ -1,0 +1,22 @@
+title{color: green}
+.contenedor {
+  margin: 10px;
+  margin-left: 5px;
+}
+.wrapper{
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+}
+head{font-family: 'Slabo 27px', serif;}
+body{font-family: 'Slabo 27px', serif;}
+div{margin: 0}
+h1{color: red}
+.container{color: green}
+div id= "container"{color:green}
+h6{color: grey;
+width: auto;
+}
+div id="imagen" {color: grey}
