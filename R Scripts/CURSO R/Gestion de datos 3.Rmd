@@ -1,0 +1,163 @@
+---
+title: "Gestion de datos 3"
+author: "Marc Cabanas"
+date: "4/6/2020"
+output: pdf_document
+---
+**SELECCIÓN Y FUSION DE DATOS**
+```{r}
+arrests <- read.csv("arrests.csv",
+                    sep = ",")
+head(arrests)
+```
+Utilizamos tidyvers
+```{r}
+library(tidyverse)
+```
+
+*1. Selección de variables*
+```{r}
+names(arrests)
+```
+Para seleccionar solo aquellas que nos interesan, hay varias formas de hacerlo. La más clásica es la siguiente:
+```{r}
+vars <- c("released", "age","employed","checks")
+arrests2 <- arrests[vars]
+head(arrests2)
+```
+
+Pero hay una forma más sencilla de hacerlo:
+```{r}
+arrests2 <- select(arrests, released, age, employed, checks)
+head(arrests2)
+```
+Pero lo podemos simplificar con : para las variables que esten contíguas:
+```{r}
+arrests2 <- select(arrests, colour:employed)
+head(arrests2)
+```
+*1.2 selección de observaciones*
+Para elegir aquellas filas que nos interesan, hacemos lo siguiente: (en este caso cogemos las 2500 primeras obs.)
+```{r}
+arrests3 <- arrests[c(1:2500),]
+```
+Y tambien si queremos que lo haga en función de una variable, en este caso "black". En este caso lo haremos con _filter()_
+```{r}
+arrests3 <- filter(arrests, colour=="Black")
+head(arrests3)
+```
+Si ponemos == quiere decir que el filter responde a lo que es igual a ese valor. En cambio, si podemos > nos coge aquellos que son mayor a lo que pedimos:
+```{r}
+arrests3 <- filter(arrests, age>25)
+head(arrests3)
+```
+```{r}
+nrow(arrests3)
+```
+Podemos ampliarlo a 25 y que sean negros y desempleados
+```{r}
+arrests3 <- filter(arrests, colour=="Black"&
+                     age>25&
+                     employed=="No")
+head(arrests3)
+```
+Con el indicador *&* decimos que tiene que cumplir esa condicion, en cambio con *|* la puede cumplir o no:
+```{r}
+arrests3 <- filter(arrests, year==2000|
+                     year==2001)
+
+head(arrests3)
+```
+
+*1.3 Reordenación*
+```{r}
+arrests4 <- arrange(arrests, age) #arrange nos sirve para ordenar la tabla, en este caso, de más joven a menos
+head(arrests4)
+```
+Para ponerlo en orden inverso, utilizamos _desc()_:
+```{r}
+arrests4 <- arrange(arrests, desc(age))
+head(arrests4)
+```
+*1.4 Muestra de datos*
+```{r}
+mostra <- sample(1:nrow(arrests), size = 25, 
+                 replace = FALSE)     #Muestra aleatorio de 25 individuos dentro de la muestra y sin repetidos (replace = FALSE)
+mostra
+```
+```{r}
+arrests2 <- arrests[mostra,]
+arrests2
+```
+
+**2 Fusión de bases de datos**
+*2.1 fusión vertical*
+```{r}
+ass14 <- read.csv("biblioteques-assistentsactivitatsfomentlectura_2014.csv", 
+                  sep = ",",
+                  fileEncoding = "utf-8")
+                 
+head(ass14)
+```
+```{r}
+ass15 <- read.csv("biblioteques-assistentsactivitatsfomentlectura_2015.csv",
+                  sep = ",",
+                  fileEncoding = "utf-8")
+head(ass15)
+```
+Como que las estructuras son idénticas podemos unirlo mediante a rbind()
+```{r}
+m <- rbind(ass14,ass15)
+nrow(m)
+```
+
+```{r}
+head(m)
+```
+*2.2 fusión horizontal*
+```{r}
+bcn.est <- read.csv("barris_poblacio.csv",
+                    fileEncoding = "utf-8")
+head(bcn.est)
+```
+```{r}
+bcn.llog <- read.csv("lloguer_barris.csv",
+                     fileEncoding = "latin1",
+                     sep = ",",
+                     dec=",")
+head(bcn.llog)
+```
+Si probamos con _merge()_ directamente nos saldrá esto:
+```{r}
+bcn.merged <- merge(x=bcn.llog, y=bcn.est)
+```
+```{r}
+head(bcn.merged)
+```
+Como vemos, no tiene valores que coincidan en columnas, así que hay que buscar en filas, como por ejemplo los barrios.
+
+```{r}
+bcn.est$nombarri[1:5]
+```
+
+```{r}
+bcn.llog$barri[1:5]
+```
+```{r}
+m3 <- data.frame(bcn.llog, bcn.est[,c(4,5)])
+head(m3)
+```
+```{r}
+bcn.llog$barrID <- seq(1, nrow(bcn.llog), by=1)
+
+bcn.est$barriID <- bcn.est$barri
+m3 <- merge(x=bcn.llog, 
+            y=bcn.est,
+            by=("barriID", "distrcite"),
+            all=TRUE)
+m3 <- merge(x=bcn.llog, y=bcn.est,
+            by=c("barriID","districte"),
+            all = TRUE)
+m3
+```
+

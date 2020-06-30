@@ -1,0 +1,75 @@
+---
+title: 'Práctica1: Estadísitca'
+author: "MarcCabanas"
+date: "12/30/2019"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+Cargamos las libreriras:
+```{r}
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+library(ggthemes)
+```
+
+
+Abrimos los datos:
+```{r}
+library(readxl)
+datos <- read_excel("Desktop/per_excl_social_08_15.xls", 
+na = "0")
+datos
+```
+
+```
+Separamos el dataset en dos para trabajarlos por separados y limpiamos NAs en el de 2008
+```{r}
+datos08 <- datos
+datos08$`2015` <- NULL
+datos08
+datos15 <- datos
+datos15$`2008` <- NULL
+datos08 <- na.omit(datos08)
+datos08
+```
+Calculamos algunas métricas básicas:
+```{r}
+summary(datos08$`2008`)
+```
+Calculamos la desviación típica:
+```{r}
+sd(datos08$`2008`)
+```
+Mostramos los cuantiles:
+```{r}
+quantile(datos08$`2008`)
+q1 <- 17.75
+q2 <- 20.80
+q3 <- 27.05
+q4 <- 63.90
+```
+calculamos el rango intercuartilico:
+```{r}
+iqr <- IQR(datos08$`2008`)
+iqr
+```
+Buscamos los outliers:
+Primero los superiores leves:
+```{r}
+q1+1.5*iqr
+```
+y ahora los inferiores:
+```{r}
+q1-1.5*iqr
+```
+Si lo observamos gráficamente:
+```{r}
+boxplot(datos08$`2008`,
+        border = c("black"),
+        main= "Medias riesgo de exclusión social 2008 en Europa",
+        col = c("cadetblue2"))
+```
+

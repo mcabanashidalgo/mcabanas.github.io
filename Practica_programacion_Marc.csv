@@ -1,0 +1,3178 @@
+Comarca,Garantía_juv,Servei_Ocu,Cod_com,Personas,Municipi,Any,Import
+Baix Llobregat,N,CCFI,11,15,Cornellà de Llobregat,'15,83808
+Barcelonès,N,FPOS,13,20354,Barcelona,'15,7006245.13
+Baix Llobregat,S,XIMP,11,1,Castelldefels,'15,32000
+Vallès Oriental,S,XIMP,41,2,Granollers,'15,62829.32
+Vallès Occidental,N,PRMI,40,55,Terrassa,'15,454989.48000000004
+Vallès Occidental,N,PRMI,40,7,Castellar del Vallès,'15,55920.06
+Vallès Oriental,N,FOQ,41,15,Montornès del Vallès,'15,30495
+Baix Llobregat,S,SUMA,11,40,Cornellà de Llobregat,'15,181600
+Vallès Occidental,S,SUMA,40,17,Rubí,'15,48493.689999999995
+Barcelonès,S,SUMA,13,8,Sant Adrià de Besòs,'15,33920
+Vallès Oriental,S,ARIF,41,150,Mollet del Vallès,'15,74800
+Baix Llobregat,N,AODL,11,1,Vallirana,'15,27045.55
+Vallès Oriental,S,PIGJ,41,15,Montornès del Vallès,'15,51075.05
+Barcelonès,N,APRE,13,75,Barcelona,'15,109062.07
+Baix Llobregat,S,PSGJ,11,116,Sant Feliu de Llobregat,'15,232019.78
+Baix Llobregat,S,XIMP,11,1,Gavà,'15,32000
+Vallès Occidental,N,FOQ,40,1396,Terrassa,'15,2857145.82
+Vallès Occidental,N,FPOS,40,344,Barberà del Vallès,'15,191634.46
+Vallès Occidental,N,AODL,40,4,Santa Perpètua de Mogoda,'15,108182.2
+Barcelonès,N,FVIA,13,1047,Barcelona,'15,97470
+Vallès Occidental,N,TRFO,40,5,Palau-solità i Plegamans,'15,37054.5
+Baix Llobregat,S,SUMA,11,110,Sant Feliu de Llobregat,'15,458570
+Vallès Oriental,N,TB,41,114,Granollers,'15,243107.22
+Barcelonès,N,PRMI,13,83,Barcelona,'15,686975.16
+Vallès Oriental,S,SUMA,41,1,Lliçà de Vall,'15,2918.7
+Vallès Oriental,N,TB,41,8,Canovelles,'15,110999.76
+Barcelonès,S,ARIF,13,600,Barcelona,'15,299200
+Vallès Oriental,N,SAC,41,420,Granollers,'15,185623.2
+Baix Llobregat,N,PRMI,11,25,Sant Boi de Llobregat,'15,202617
+Vallès Oriental,N,IPIS,41,400,Mollet del Vallès,'15,132084.18
+Baix Llobregat,S,ARIF,11,150,Cornellà de Llobregat,'15,74800
+Vallès Oriental,N,AODL,41,1,Sant Celoni,'15,27045.55
+Vallès Oriental,N,AODL,41,1,Cardedeu,'15,25143.920000000002
+Barcelonès,N,ARIF,13,150,Santa Coloma de Gramenet,'15,74800
+Barcelonès,N,FPOT,13,29667,Barcelona,'15,8918161.07
+Vallès Occidental,S,FEM,40,15,Cerdanyola del Vallès,'15,66000
+Vallès Occidental,N,PRMI,40,9,Montcada i Reixac,'15,71897.76
+Vallès Occidental,N,FOQ,40,105,Montcada i Reixac,'15,131784
+Barcelonès,S,FEM,13,40,Santa Coloma de Gramenet,'15,176000
+Vallès Occidental,S,XIMP,40,2,Terrassa,'15,64000
+Baix Llobregat,S,SUMA,11,55,"Prat de Llobregat, el",'15,249790
+Barcelonès,N,TB,13,2296,Barcelona,'15,3838596.9899999998
+Vallès Occidental,N,PRMI,40,5,Sant Cugat del Vallès,'15,39943.2
+Vallès Occidental,N,APRE,40,35,Sabadell,'15,6260.26
+Barcelonès,N,CC,13,10,"Hospitalet de Llobregat, l'",'15,27564
+Baix Llobregat,S,TICI,11,23,Sant Feliu de Llobregat,'15,16496.480000000003
+Baix Llobregat,N,AODL,11,2,Sant Vicenç dels Horts,'15,54091.1
+Vallès Occidental,N,CIF,40,547,Sabadell,'15,675033.76
+Vallès Oriental,S,FEM,41,40,Mollet del Vallès,'15,176000
+Vallès Occidental,N,FPOT,40,1218,Terrassa,'15,410293.1
+Baix Llobregat,N,FVIA,11,264,Cornellà de Llobregat,'15,25020
+Vallès Oriental,S,SUMA,41,45,Granollers,'15,202050
+Vallès Oriental,N,FPOT,41,166,Mollet del Vallès,'15,39840.28999999999
+Vallès Oriental,N,FPOT,41,141,Granollers,'15,39609.06
+Barcelonès,N,TB,13,10,Sant Adrià de Besòs,'15,111583.86
+Baix Llobregat,N,AODL,11,1,Castelldefels,'15,27045.55
+Baix Llobregat,S,SUMA,11,3,Sant Feliu de Llobregat,'15,9729
+Vallès Occidental,S,TICI,40,80,Castellar del Vallès,'15,47770.5
+Vallès Occidental,N,FPOS,40,440,Terrassa,'15,184488.44
+Vallès Occidental,N,TRFO,40,69,Sabadell,'15,609370.56
+Vallès Occidental,N,FOQ,40,60,Santa Perpètua de Mogoda,'15,189621
+Baix Llobregat,N,TB,11,16,"Prat de Llobregat, el",'15,131185.91999999998
+Baix Llobregat,N,DAM,11,15,Viladecans,'15,35028
+Barcelonès,N,CIF,13,412,Santa Coloma de Gramenet,'15,570725.99
+Vallès Occidental,N,AODL,40,1,Barberà del Vallès,'15,24746.12
+Barcelonès,N,CIF,13,768,"Hospitalet de Llobregat, l'",'15,467555.49000000005
+Baix Llobregat,S,TICI,11,46,Castelldefels,'15,32713.35
+Vallès Occidental,S,FEM,40,30,Rubí,'15,132000
+Vallès Oriental,N,IPIS,41,800,Granollers,'15,264168.36
+Barcelonès,N,PRMI,13,20,Santa Coloma de Gramenet,'15,143029.91999999998
+Vallès Oriental,N,FI45,41,1,Caldes de Montbui,'15,2357.57
+Vallès Occidental,N,IPIS,40,800,Terrassa,'15,264168.36
+Vallès Oriental,S,SUMA,41,2,Santa Maria de Palautordera,'15,7783.2
+Baix Llobregat,N,TB,11,9,Gavà,'15,94007.78
+Vallès Oriental,N,FOQ,41,15,Sant Fost de Campsentelles,'15,29502
+Vallès Occidental,N,PRMI,40,13,Rubí,'15,105655.2
+Vallès Oriental,N,TRFO,41,4,"Garriga, la",'15,35916.48
+Barcelonès,N,SAC,13,410,Badalona,'15,181203.6
+Barcelonès,N,IPIS,13,400,Santa Coloma de Gramenet,'15,132084.18
+Barcelonès,S,SUMA,13,60,"Hospitalet de Llobregat, l'",'15,269790
+Vallès Occidental,S,FEM,40,80,Terrassa,'15,352000
+Baix Llobregat,N,FOQ,11,90,Esplugues de Llobregat,'15,204186
+Barcelonès,N,APRE,13,85,"Hospitalet de Llobregat, l'",'15,15650.65
+Vallès Oriental,N,SAC,41,55,Parets del Vallès,'15,24307.8
+Barcelonès,N,DAM,13,105,Santa Coloma de Gramenet,'15,403770
+Baix Llobregat,S,SUMA,11,8,Sant Joan Despí,'15,25781.85
+Baix Llobregat,N,SAC,11,40,Martorell,'15,17678.4
+Barcelonès,N,AODL,13,1,Barcelona,'15,27045.55
+Vallès Oriental,N,AODL,41,3,Granollers,'15,81136.65000000001
+Vallès Occidental,S,SUMA,40,18,Montcada i Reixac,'15,67326
+Vallès Occidental,S,PIGJ,40,215,Terrassa,'15,999680.8600000001
+Baix Llobregat,N,TB,11,159,Olesa de Montserrat,'15,101126.55
+Baix Llobregat,N,TRFO,11,12,Esplugues de Llobregat,'15,102208.73999999999
+Vallès Oriental,S,XIMP,41,1,Mollet del Vallès,'15,28944.960000000003
+Barcelonès,N,FPOT,13,1118,Badalona,'15,454354.59
+Barcelonès,S,SUMA,13,103,Barcelona,'15,305269
+Barcelonès,N,PRMI,13,41,Badalona,'15,293262.06
+Vallès Occidental,S,SUMA,40,5,Montcada i Reixac,'15,12647.7
+Vallès Occidental,S,TICI,40,37,Badia del Vallès,'15,26910.7
+Vallès Occidental,S,FEM,40,80,Sabadell,'15,352000
+Vallès Occidental,S,SUMA,40,20,Barberà del Vallès,'15,90800
+Baix Llobregat,N,FOQ,11,240,Gavà,'15,443568
+Baix Llobregat,S,FEM,11,20,Viladecans,'15,88000
+Baix Llobregat,N,AODL,11,1,Pallejà,'15,24945.960000000003
+Vallès Occidental,N,FI45,40,1,Sant Cugat del Vallès,'15,6000
+Baix Llobregat,S,SUMA,11,80,Sant Boi de Llobregat,'15,356525
+Barcelonès,S,PFI,13,276,Barcelona,'15,909860
+Vallès Occidental,N,TRFO,40,10,Castellar del Vallès,'15,87024
+Baix Llobregat,S,PIGJ,11,180,"Prat de Llobregat, el",'15,769197.12
+Vallès Occidental,N,AODL,40,9,Terrassa,'15,243409.94999999998
+Barcelonès,N,FOQ,13,5155,Barcelona,'15,11831137.32
+Baix Llobregat,N,TRFO,11,28,Sant Boi de Llobregat,'15,251248.81
+Barcelonès,S,NOGJ,13,270,Barcelona,'15,3193750
+Barcelonès,S,TICI,13,45,Santa Coloma de Gramenet,'15,43311.94
+Baix Llobregat,N,SAC,11,75,Sant Andreu de la Barca,'15,33147
+Vallès Occidental,N,FPOT,40,67,Sabadell,'15,18783.12
+Barcelonès,N,IPIS,13,800,"Hospitalet de Llobregat, l'",'15,264168.35
+Baix Llobregat,N,FOQ,11,210,Viladecans,'15,428679
+Vallès Occidental,S,SUMA,40,60,Rubí,'15,273480
+Baix Llobregat,N,AODL,11,3,Viladecans,'15,81136.65000000001
+Barcelonès,S,PIGJ,13,938,Barcelona,'15,4759612.6
+Vallès Occidental,N,SAC,40,840,Sabadell,'15,383398.4
+Baix Llobregat,S,XIMP,11,1,"Prat de Llobregat, el",'15,32000
+Barcelonès,N,FOQ,13,645,Santa Coloma de Gramenet,'15,1441876.5
+Barcelonès,N,SAC,13,450,Sant Adrià de Besòs,'15,198882
+Barcelonès,N,ARIF,13,750,Barcelona,'15,374000
+Baix Llobregat,N,AODL,11,4,Cornellà de Llobregat,'15,104006.92
+Vallès Occidental,N,AODL,40,1,Cerdanyola del Vallès,'15,27045.55
+Vallès Occidental,N,FPOT,40,29,Barberà del Vallès,'15,6724.18
+Vallès Oriental,S,SUMA,41,2,Montornès del Vallès,'15,6680.58
+Vallès Occidental,S,SUMA,40,1,Ripollet,'15,2918.7
+Baix Llobregat,N,AODL,11,2,Gavà,'15,54091.1
+Vallès Occidental,N,AODL,40,3,Sant Cugat del Vallès,'15,81136.65000000001
+Baix Llobregat,N,FOQ,11,120,Molins de Rei,'15,167313
+Barcelonès,N,FI45,13,1,Badalona,'15,4778.29
+Vallès Occidental,N,ARIF,40,150,Cerdanyola del Vallès,'15,74800
+Baix Llobregat,N,TRFO,11,7,Molins de Rei,'15,60480
+Barcelonès,S,PIGJ,13,40,Santa Coloma de Gramenet,'15,149152.5
+Baix Llobregat,N,IPIS,11,1000,Cornellà de Llobregat,'15,330210.45
+Baix Llobregat,S,XIMP,11,2,Sant Feliu de Llobregat,'15,64000
+Vallès Occidental,N,SAC,40,388,Rubí,'15,171259.5
+Baix Llobregat,N,PRMI,11,7,Sant Andreu de la Barca,'15,55920.06
+Baix Llobregat,N,AODL,11,1,Esplugues de Llobregat,'15,27045.55
+Vallès Oriental,S,PSGJ,41,15,Mollet del Vallès,'15,32154.260000000002
+Baix Llobregat,N,ARIF,11,150,Cornellà de Llobregat,'15,74800
+Barcelonès,S,FEM,13,376,Barcelona,'15,1654400
+Vallès Oriental,S,TICI,41,13,Mollet del Vallès,'15,9314.62
+Vallès Oriental,S,PFI,41,16,"Garriga, la",'15,41537
+Baix Llobregat,N,TB,11,229,Cornellà de Llobregat,'15,139276.65
+Baix Llobregat,N,FOQ,11,423,Castelldefels,'15,1193028.6
+Vallès Occidental,N,PRMI,40,12,Cerdanyola del Vallès,'15,95863.68000000001
+Barcelonès,N,IPIS,13,200,Sant Adrià de Besòs,'15,66042.09
+Baix Llobregat,N,PRMI,11,16,Cornellà de Llobregat,'15,127338.23999999999
+Vallès Oriental,N,TB,41,24,"Franqueses del Vallès, les",'15,188337.84
+Vallès Occidental,N,ARIF,40,150,Terrassa,'15,74800
+Baix Llobregat,S,SUMA,11,9,Cornellà de Llobregat,'15,28413
+Vallès Oriental,N,TRFO,41,5,Sant Celoni,'15,43702.32
+Barcelonès,N,SAC,13,3659,Barcelona,'15,1658743.8
+Vallès Occidental,N,TRFO,40,8,Santa Perpètua de Mogoda,'15,69120
+Baix Llobregat,N,IPIS,11,200,Martorell,'15,66042.09
+Vallès Oriental,N,TB,41,5,Caldes de Montbui,'15,66972.73
+Vallès Oriental,N,PRMI,41,1,Granollers,'15,7979.7
+Barcelonès,S,PFI,13,16,Santa Coloma de Gramenet,'15,60491
+Vallès Occidental,S,ARIF,40,150,Sabadell,'15,74800
+Vallès Occidental,N,AODL,40,1,Sant Quirze del Vallès,'15,27045.55
+Baix Llobregat,N,ARIF,11,150,Olesa de Montserrat,'15,74800
+Vallès Oriental,N,AODL,41,1,"Franqueses del Vallès, les",'15,24634.18
+Vallès Occidental,N,TRFO,40,98,Terrassa,'15,881186.53
+Vallès Occidental,N,PRMI,40,10,Badia del Vallès,'15,81046.2
+Baix Llobregat,N,CIF,11,437,Sant Feliu de Llobregat,'15,545935.43
+Vallès Oriental,N,FOQ,41,60,Sant Celoni,'15,121243.5
+Vallès Occidental,N,PRMI,40,1,Badia del Vallès,'15,7988.64
+Barcelonès,S,SUMA,13,3,"Hospitalet de Llobregat, l'",'15,11188.349999999999
+Baix Llobregat,N,AODL,11,2,Molins de Rei,'15,54091.1
+Barcelonès,S,ARIF,13,150,Badalona,'15,74800
+Baix Llobregat,N,TB,11,85,Castelldefels,'15,372895.61
+Vallès Oriental,S,SUMA,41,80,Mollet del Vallès,'15,370400
+Vallès Occidental,N,PRMI,40,9,Santa Perpètua de Mogoda,'15,74332.08
+Barcelonès,N,FVIA,13,30,"Hospitalet de Llobregat, l'",'15,1800
+Baix Llobregat,S,TICI,11,61,Martorell,'15,78362.03
+Baix Llobregat,S,SUMA,11,1,Pallejà,'15,3891.6
+Barcelonès,N,TRFO,13,253,Barcelona,'15,2262973.68
+Baix Llobregat,N,FOQ,11,240,Cornellà de Llobregat,'15,618715.5
+Vallès Oriental,N,TRFO,41,7,Montornès del Vallès,'15,60750.48
+Baix Llobregat,N,PRMI,11,12,Viladecans,'15,95503.68000000001
+Baix Llobregat,N,TRFO,11,20,"Prat de Llobregat, el",'15,177835.36
+Vallès Occidental,S,XIMP,40,1,Sabadell,'15,31876.32
+Vallès Oriental,S,SUMA,41,9,"Llagosta, la",'15,34051.5
+Barcelonès,N,APRE,13,85,Badalona,'15,15650.65
+Baix Llobregat,N,AODL,11,1,Martorell,'15,27045.55
+Vallès Occidental,S,SUMA,40,10,Sabadell,'15,34051.5
+Vallès Oriental,N,FI45,41,1,Martorelles,'15,17000
+Vallès Occidental,S,SUMA,40,5,Sant Cugat del Vallès,'15,12647.7
+Baix Llobregat,N,PRMI,11,10,Olesa de Montserrat,'15,79886.4
+Baix Llobregat,S,SUMA,11,5,"Prat de Llobregat, el",'15,17901.36
+Vallès Occidental,S,XIMP,40,1,Cerdanyola del Vallès,'15,32000
+Baix Llobregat,N,PIN,11,50,Castelldefels,'15,37341.46
+Vallès Occidental,N,FPOT,40,197,Cerdanyola del Vallès,'15,52915.28
+Barcelonès,N,PNL,13,8,Barcelona,'15,29342.22
+Barcelonès,N,ARIF,13,150,"Hospitalet de Llobregat, l'",'15,74800
+Baix Llobregat,N,DAM,11,75,Castelldefels,'15,244050
+Vallès Oriental,N,AODL,41,5,Mollet del Vallès,'15,129615.07
+Vallès Oriental,S,SUMA,41,1,Montmeló,'15,3891.6
+Baix Llobregat,S,PFI,11,10,Viladecans,'15,43618
+Vallès Occidental,N,DAM,40,15,Terrassa,'15,43695
+Baix Llobregat,N,TRFO,11,7,Esparreguera,'15,61377.9
+Barcelonès,S,XIMP,13,2,"Hospitalet de Llobregat, l'",'15,60808.32
+Baix Llobregat,N,TB,11,148,Sant Joan Despí,'15,260618.05
+Barcelonès,N,DAM,13,210,Barcelona,'15,547378.5
+Vallès Occidental,N,TRFO,40,16,Sant Cugat del Vallès,'15,151468.3
+Baix Llobregat,N,TRFO,11,8,Sant Andreu de la Barca,'15,69428.64
+Vallès Occidental,N,SAC,40,125,Sant Cugat del Vallès,'15,55245
+Vallès Oriental,N,CC,41,15,Mollet del Vallès,'15,53730
+Baix Llobregat,N,SAC,11,55,Viladecans,'15,24307.8
+Baix Llobregat,S,XIMP,11,1,Esplugues de Llobregat,'15,32000
+Vallès Oriental,N,AODL,41,1,Santa Eulàlia de Ronçana,'15,23544.02
+Barcelonès,N,FOQ,13,1245,"Hospitalet de Llobregat, l'",'15,3020005.5
+Barcelonès,N,CIF,13,586,Barcelona,'15,392185.99000000005
+Barcelonès,S,FEM,13,30,Badalona,'15,132000
+Baix Llobregat,S,PSGJ,11,20,Sant Boi de Llobregat,'15,127293.43999999999
+Baix Llobregat,S,FEM,11,20,Sant Feliu de Llobregat,'15,88000
+Vallès Occidental,N,ARIF,40,150,Montcada i Reixac,'15,74800
+Barcelonès,N,AODL,13,8,"Hospitalet de Llobregat, l'",'15,216364.4
+Vallès Occidental,S,TICI,40,153,Terrassa,'15,145436.09
+Vallès Oriental,N,AODL,41,1,Parets del Vallès,'15,26102.3
+Vallès Occidental,N,PIN,40,210,Terrassa,'15,215915.1
+Baix Llobregat,N,TRFO,11,10,Martorell,'15,86837.22
+Vallès Occidental,N,FOQ,40,150,Sant Cugat del Vallès,'15,368781
+Baix Llobregat,N,AODL,11,2,"Prat de Llobregat, el",'15,53838.09
+Barcelonès,N,TB,13,685,Badalona,'15,499770.63999999996
+Vallès Oriental,S,FEM,41,30,Granollers,'15,132000
+Vallès Occidental,N,SAC,40,27,Montcada i Reixac,'15,12153.9
+Baix Llobregat,N,TB,11,203,Sant Boi de Llobregat,'15,729313.06
+Vallès Occidental,N,FPOT,40,34,Badia del Vallès,'15,20132.66
+Baix Llobregat,N,TB,11,65,Viladecans,'15,579318.48
+Vallès Occidental,S,PFI,40,16,Barberà del Vallès,'15,35618
+Vallès Oriental,S,PFI,41,32,Granollers,'15,102040
+Vallès Oriental,S,PFI,41,16,"Franqueses del Vallès, les",'15,53144
+Vallès Occidental,S,PSGJ,40,90,Sant Cugat del Vallès,'15,196312
+Baix Llobregat,N,PRMI,11,9,Sant Vicenç dels Horts,'15,71762.76
+Vallès Occidental,N,TRFO,40,5,Sant Quirze del Vallès,'15,37751.4
+Vallès Oriental,N,CCFI,41,15,Martorelles,'15,43438.5
+Baix Llobregat,S,SUMA,11,5,Viladecans,'15,9339.84
+Baix Llobregat,N,FOQ,11,15,Sant Esteve Sesrovires,'15,43203
+Barcelonès,S,SUMA,13,7,Badalona,'15,21836.2
+Vallès Oriental,N,SAC,41,255,Mollet del Vallès,'15,112699.8
+Baix Llobregat,S,ARIF,11,150,Viladecans,'15,74800
+Vallès Occidental,N,APRE,40,40,Sant Cugat del Vallès,'15,6260.26
+Barcelonès,N,IPIS,13,3400,Barcelona,'15,1122715.53
+Vallès Occidental,N,FI45,40,1,Castellar del Vallès,'15,6000
+Baix Llobregat,N,IPIS,11,400,Sant Vicenç dels Horts,'15,132084.18
+Baix Llobregat,S,TICI,11,63,Cornellà de Llobregat,'15,58441.810000000005
+Barcelonès,S,PSGJ,13,2545,Barcelona,'15,3739467.07
+Vallès Occidental,N,AODL,40,9,Sabadell,'15,243409.94999999998
+Baix Llobregat,N,FPOT,11,153,Sant Boi de Llobregat,'15,35756.58
+Baix Llobregat,S,PIGJ,11,30,Esparreguera,'15,195195.68
+Vallès Occidental,N,IPIS,40,400,Rubí,'15,132084.18
+Vallès Occidental,S,ARIF,40,300,Terrassa,'15,149600
+Barcelonès,S,SUMA,13,100,Santa Coloma de Gramenet,'15,361900
+Vallès Oriental,N,FVIA,41,210,Granollers,'15,18000
+Vallès Oriental,N,TRFO,41,21,Mollet del Vallès,'15,185547.27000000002
+Vallès Occidental,N,PRMI,40,14,Sant Cugat del Vallès,'15,114417.48
+Vallès Occidental,N,PRMI,40,7,Barberà del Vallès,'15,56976.18
+Baix Llobregat,N,PRMI,11,8,Esplugues de Llobregat,'15,64918.2
+Vallès Oriental,N,ARIF,41,150,Granollers,'15,74800
+Vallès Oriental,N,FPOS,41,111,Mollet del Vallès,'15,66456.18000000001
+Barcelonès,N,FPOS,13,342,Badalona,'15,80147.19
+Baix Llobregat,N,AODL,11,1,Sant Joan Despí,'15,27045.55
+Barcelonès,N,PRMI,13,13,Sant Adrià de Besòs,'15,88988.64
+Barcelonès,N,PRMI,13,27,"Hospitalet de Llobregat, l'",'15,215693.28
+Barcelonès,N,CC,13,68,Barcelona,'15,120574.88
+Barcelonès,N,AODL,13,7,Santa Coloma de Gramenet,'15,188777.94
+Baix Llobregat,N,FOQ,11,105,Sant Feliu de Llobregat,'15,249784.5
+Baix Llobregat,N,PRMI,11,7,Sant Joan Despí,'15,55710.48
+Baix Llobregat,N,APRE,11,40,Viladecans,'15,6260.26
+Baix Llobregat,N,TRFO,11,8,Olesa de Montserrat,'15,69429.12000000001
+Baix Llobregat,S,XIMP,11,1,Sant Boi de Llobregat,'15,32000
+Barcelonès,S,XIMP,13,1,Santa Coloma de Gramenet,'15,32000
+Baix Llobregat,N,PRMI,11,11,"Prat de Llobregat, el",'15,90850.32
+Baix Llobregat,N,PRMI,11,12,Castelldefels,'15,98688.48
+Vallès Occidental,N,ARIF,40,150,Sabadell,'15,74800
+Vallès Occidental,N,TRFO,40,6,Badia del Vallès,'15,52214.4
+Barcelonès,N,UNIS,13,7008,Barcelona,'15,924967.23
+Vallès Occidental,N,SAC,40,180,Cerdanyola del Vallès,'15,79552.8
+Vallès Occidental,N,UNIS,40,2633,Cerdanyola del Vallès,'15,291165.63
+Barcelonès,S,XIMP,13,5,Barcelona,'15,160000
+Barcelonès,N,FOQ,13,252,Badalona,'15,675634.8
+Barcelonès,N,ARIF,13,150,Badalona,'15,74800
+Vallès Oriental,N,TRFO,41,5,"Franqueses del Vallès, les",'15,43173.3
+Vallès Occidental,N,IPIS,40,200,Montcada i Reixac,'15,66042.09
+Vallès Occidental,N,TRFO,40,31,Rubí,'15,275659.48000000004
+Vallès Occidental,N,TB,40,849,Sabadell,'15,1867625.34
+Barcelonès,S,SUMA,13,26,Badalona,'15,115700
+Baix Llobregat,N,TRFO,11,4,Vallirana,'15,35916.48
+Baix Llobregat,S,ARIF,11,150,"Prat de Llobregat, el",'15,74800
+Baix Llobregat,N,SAC,11,900,Cornellà de Llobregat,'15,397764
+Vallès Occidental,N,FVIA,40,110,Terrassa,'15,11100
+Vallès Occidental,S,PSGJ,40,8,Cerdanyola del Vallès,'15,104923
+Baix Llobregat,S,PFI,11,16,Sant Boi de Llobregat,'15,51080
+Baix Llobregat,S,SUMA,11,15,Castelldefels,'15,69450
+Vallès Occidental,S,XIMP,40,1,Rubí,'15,31948.56
+Vallès Oriental,N,FOQ,41,45,Caldes de Montbui,'15,70537.5
+Baix Llobregat,N,FOQ,11,165,Martorell,'15,415737
+Baix Llobregat,S,SUMA,11,45,Gavà,'15,176400
+Baix Llobregat,S,PFI,11,48,Cornellà de Llobregat,'15,164828
+Vallès Occidental,N,TB,40,5,Sant Cugat del Vallès,'15,40995.6
+Baix Llobregat,N,TRFO,11,11,Sant Vicenç dels Horts,'15,95465.04
+Baix Llobregat,N,FOQ,11,15,Sant Andreu de la Barca,'15,61578
+Vallès Occidental,N,FVIA,40,60,Barberà del Vallès,'15,3600
+Vallès Occidental,N,IPIS,40,200,Badia del Vallès,'15,66042.09
+Baix Llobregat,S,SUMA,11,40,Sant Joan Despí,'15,176075
+Vallès Occidental,S,SUMA,40,18,Cerdanyola del Vallès,'15,81720
+Baix Llobregat,N,AODL,11,3,Sant Boi de Llobregat,'15,81136.65000000001
+Barcelonès,N,SAC,13,680,"Hospitalet de Llobregat, l'",'15,304974
+Baix Llobregat,S,PFI,11,32,Castelldefels,'15,95038
+Vallès Oriental,S,ARIF,41,150,Granollers,'15,74800
+Vallès Occidental,N,AODL,40,3,Rubí,'15,81136.65000000001
+Vallès Occidental,N,SAC,40,255,Barberà del Vallès,'15,112699.8
+Baix Llobregat,N,AODL,11,1,Sant Andreu de la Barca,'15,27045.55
+Vallès Occidental,N,DAM,40,30,Viladecavalls,'15,87630
+Baix Llobregat,N,SAC,11,355,Esplugues de Llobregat,'15,156895.8
+Vallès Occidental,S,PIGJ,40,140,Cerdanyola del Vallès,'15,91071.68000000001
+Baix Llobregat,N,FOQ,11,207,Sant Boi de Llobregat,'15,447525.48000000004
+Vallès Occidental,N,TB,40,268,Terrassa,'15,882031.55
+Vallès Occidental,N,FOQ,40,30,Castellar del Vallès,'15,84519
+Vallès Oriental,N,TB,41,2,Martorelles,'15,21548.58
+Baix Llobregat,N,TRFO,11,39,Sant Feliu de Llobregat,'15,344855.62
+Baix Llobregat,N,FPOT,11,106,Sant Just Desvern,'15,22213.86
+Vallès Oriental,N,TRFO,41,4,Lliçà d'Amunt,'15,35493
+Baix Llobregat,S,NOGJ,11,270,Cornellà de Llobregat,'15,3182097.5
+Baix Llobregat,S,SUMA,11,24,Viladecans,'15,101760
+Vallès Oriental,S,PIGJ,41,60,Granollers,'15,144375
+Barcelonès,N,MINA,13,1222,Sant Adrià de Besòs,'15,291514.32
+Barcelonès,N,TRFO,13,85,"Hospitalet de Llobregat, l'",'15,741799.6699999999
+Vallès Occidental,S,SUMA,40,6,Sentmenat,'15,21403.8
+Vallès Oriental,N,TB,41,205,Mollet del Vallès,'15,129059.84
+Barcelonès,S,ARIF,13,150,"Hospitalet de Llobregat, l'",'15,74800
+Baix Llobregat,N,TB,11,647,Sant Feliu de Llobregat,'15,467393.22000000003
+Vallès Oriental,N,TRFO,41,5,Parets del Vallès,'15,43392.9
+Baix Llobregat,N,PIN,11,20,Sant Boi de Llobregat,'15,135480
+Vallès Oriental,N,TB,41,267,Montornès del Vallès,'15,294445.68
+Barcelonès,S,TICI,13,2123,Barcelona,'15,1737337.26
+Vallès Occidental,S,FEM,40,33,Montcada i Reixac,'15,145200
+Vallès Oriental,N,FI45,41,1,Santa Eulàlia de Ronçana,'15,3000
+Baix Llobregat,N,APRE,11,40,"Prat de Llobregat, el",'15,6260.26
+Vallès Occidental,S,TICI,40,120,Sabadell,'15,66904.31
+Vallès Occidental,N,TRFO,40,10,Barberà del Vallès,'15,89790.6
+Baix Llobregat,N,FOQ,11,30,Abrera,'15,85650
+Vallès Occidental,N,FPOS,40,115,Sabadell,'15,41814.8
+Vallès Occidental,S,PFI,40,32,Terrassa,'15,84255
+Vallès Oriental,N,TRFO,41,55,Granollers,'15,497383.94
+Baix Llobregat,S,FEM,11,15,Sant Boi de Llobregat,'15,66000
+Baix Llobregat,N,PRMI,11,5,Molins de Rei,'15,40505.52
+Vallès Oriental,S,TICI,41,74,Granollers,'15,107744.73999999999
+Baix Llobregat,S,SUMA,11,6,Gavà,'15,17512.2
+Baix Llobregat,N,TRFO,11,13,Gavà,'15,112822.32
+Vallès Oriental,N,TB,41,6,Sant Feliu de Codines,'15,32321.52
+Baix Llobregat,N,FOQ,11,15,Sant Vicenç dels Horts,'15,38829
+Vallès Oriental,S,NOGJ,41,270,Mollet del Vallès,'15,3111600
+Barcelonès,S,PIGJ,13,60,"Hospitalet de Llobregat, l'",'15,268596.75
+Vallès Occidental,N,PRMI,40,36,Sabadell,'15,294124.32
+Baix Llobregat,N,CC,11,10,Cornellà de Llobregat,'15,31751
+Vallès Occidental,N,FPOS,40,143,Cerdanyola del Vallès,'15,40400.78999999999
+Barcelonès,N,FPOT,13,1098,"Hospitalet de Llobregat, l'",'15,308271.06
+Baix Llobregat,N,FOQ,11,255,Sant Just Desvern,'15,760882.5
+Baix Llobregat,N,IPIS,11,200,Sant Boi de Llobregat,'15,66042.09
+Barcelonès,N,IPIS,13,800,Badalona,'15,264168.36
+Vallès Occidental,S,SUMA,40,19,Terrassa,'15,52763.61
+Baix Llobregat,N,FPOT,11,14,Gavà,'15,6573.929999999999
+Baix Llobregat,N,PRMI,11,7,Martorell,'15,57260.52
+Barcelonès,N,TB,13,390,"Hospitalet de Llobregat, l'",'15,812724.4
+Barcelonès,S,PFI,13,64,Badalona,'15,209132
+Barcelonès,N,TRFO,13,14,Sant Adrià de Besòs,'15,123333.84
+Vallès Oriental,N,TRFO,41,5,"Llagosta, la",'15,43994.159999999996
+Vallès Oriental,N,PRMI,41,44,Granollers,'15,359427
+Barcelonès,S,SUMA,13,3,Sant Adrià de Besòs,'15,6323.85
+Vallès Oriental,N,TRFO,41,5,Cardedeu,'15,43878.24
+Vallès Occidental,N,TB,40,66,Rubí,'15,147886.57
+Barcelonès,N,FPOT,13,56,Santa Coloma de Gramenet,'15,16930.56
+Barcelonès,S,PSGJ,13,35,"Hospitalet de Llobregat, l'",'15,98192.48
+Barcelonès,N,FPOS,13,577,"Hospitalet de Llobregat, l'",'15,267615.1
+Baix Llobregat,S,FEM,11,15,Castelldefels,'15,66000
+Baix Llobregat,N,FOQ,11,195,"Prat de Llobregat, el",'15,429588
+Barcelonès,N,SAC,13,410,Santa Coloma de Gramenet,'15,181203.6
+Vallès Oriental,N,FOQ,41,40,Cardedeu,'15,97291
+Baix Llobregat,S,SUMA,11,1,Castelldefels,'15,3891.6
+Barcelonès,N,PIN,13,150,"Hospitalet de Llobregat, l'",'15,124037.39
+Vallès Occidental,S,SUMA,40,140,Terrassa,'15,569250
+Barcelonès,N,TRFO,13,48,Santa Coloma de Gramenet,'15,396257.71
+Baix Llobregat,N,TRFO,11,23,Viladecans,'15,177999.05
+Vallès Occidental,S,SUMA,40,60,Sabadell,'15,276825
+Vallès Oriental,N,SAC,41,90,Sant Celoni,'15,39776.4
+Barcelonès,S,FEM,13,60,"Hospitalet de Llobregat, l'",'15,264000
+Baix Llobregat,S,PFI,11,16,Martorell,'15,53144
+Vallès Oriental,S,SUMA,41,2,Parets del Vallès,'15,5837.4
+Baix Llobregat,N,FOQ,11,90,Pallejà,'15,150285
+Baix Llobregat,S,TICI,11,28,Sant Boi de Llobregat,'15,16460.93
+Baix Llobregat,N,AODL,11,1,Sant Just Desvern,'15,27045.55
+Barcelonès,N,FI45,13,3,Barcelona,'15,18795.69
+Vallès Occidental,S,XIMP,40,1,Sant Cugat del Vallès,'15,32000
+Barcelonès,S,FEM,13,26,Sant Adrià de Besòs,'15,114400
+Vallès Oriental,N,ARIF,41,150,Mollet del Vallès,'15,74800
+Vallès Occidental,N,FI45,40,2,Sabadell,'15,17000
+Baix Llobregat,N,ARIF,11,150,"Prat de Llobregat, el",'15,74800
+Vallès Oriental,N,TB,41,2,Figaró-Montmany,'15,21210
+Baix Llobregat,S,PIGJ,11,15,Sant Feliu de Llobregat,'15,84161.28
+Vallès Oriental,S,PSGJ,41,15,Montmeló,'15,60000
+Vallès Occidental,N,PIN,40,84,Santa Perpètua de Mogoda,'15,150000
+Vallès Occidental,N,CCFI,40,10,Sant Cugat del Vallès,'15,41600
+Vallès Occidental,N,FOQ,40,60,Barberà del Vallès,'15,127138.5
+Vallès Occidental,N,IPIS,40,1000,Sabadell,'15,330210.45
+Vallès Occidental,N,PIN,40,336,Sabadell,'15,141199.88999999998
+Barcelonès,N,APRE,13,40,Santa Coloma de Gramenet,'15,6260.26
+Baix Llobregat,N,FPOT,11,105,Cornellà de Llobregat,'15,24366.6
+Baix Llobregat,N,FPOS,11,31,Sant Just Desvern,'15,108066.95999999999
+Baix Llobregat,N,TB,11,7,Sant Vicenç dels Horts,'15,83901.12000000001
+Vallès Oriental,N,FOQ,41,905,Granollers,'15,1775000.5
+Baix Llobregat,N,FPOS,11,50,"Prat de Llobregat, el",'15,18418.609999999997
+Barcelonès,S,TICI,13,87,"Hospitalet de Llobregat, l'",'15,82007.70999999999
+Baix Llobregat,N,PRMI,11,28,Sant Feliu de Llobregat,'15,225574.02
+Vallès Occidental,N,FOQ,40,45,Badia del Vallès,'15,123652.5
+Vallès Oriental,N,TRFO,41,4,Caldes de Montbui,'15,35916.48
+Vallès Occidental,S,SUMA,40,15,Castellbisbal,'15,55779.63
+Baix Llobregat,N,IPIS,11,200,Sant Feliu de Llobregat,'15,66042.09
+Baix Llobregat,N,TB,11,416,Esplugues de Llobregat,'15,261219.13
+Baix Llobregat,N,ARIF,11,150,Castelldefels,'15,74800
+Vallès Occidental,N,TRFO,40,17,Cerdanyola del Vallès,'15,157787.94
+Baix Llobregat,N,PRMI,11,10,Gavà,'15,80472.78
+Baix Llobregat,N,TRFO,11,29,Cornellà de Llobregat,'15,226527.81999999998
+Barcelonès,S,TICI,13,248,Badalona,'15,201622.91999999998
+Barcelonès,N,APRE,13,50,Sant Adrià de Besòs,'15,9390.39
+Vallès Occidental,S,PIGJ,40,60,Sabadell,'15,345307.94
+Barcelonès,N,CCFI,13,60,Badalona,'15,99216
+Vallès Occidental,N,APRE,40,20,Terrassa,'15,3130.13
+Barcelonès,N,TB,13,1184,Santa Coloma de Gramenet,'15,2079641.96
+Vallès Occidental,N,SAC,40,740,Terrassa,'15,327050.4
+Baix Llobregat,N,AUTO,11,120,Martorell,'15,201708.24000000002
+Vallès Occidental,S,SUMA,40,1,Matadepera,'15,1945.8
+Vallès Oriental,N,PRMI,41,13,Mollet del Vallès,'15,105708.6
+Vallès Occidental,N,FOQ,40,210,Cerdanyola del Vallès,'15,447871.5
+Vallès Occidental,N,PNL,40,1,Barberà del Vallès,'15,3048
+Vallès Occidental,N,TB,40,126,Santa Perpètua de Mogoda,'15,337963.83
+Barcelonès,S,SUMA,13,100,Barcelona,'15,433375
+Barcelonès,N,CCFI,13,13,Barcelona,'15,22003.8
+Barcelonès,S,SUMA,13,4,Santa Coloma de Gramenet,'15,8269.65
+Vallès Oriental,N,FPOS,41,87,Granollers,'15,28191.79
+Barcelonès,N,AODL,13,4,Badalona,'15,108182.2
+Vallès Oriental,N,APRE,41,50,Mollet del Vallès,'15,9390.39
+Baix Llobregat,N,FOQ,11,90,Sant Joan Despí,'15,150916.5
+Vallès Occidental,S,TICI,40,24,Santa Perpètua de Mogoda,'15,17065.32
+Vallès Oriental,N,CC,41,10,Cardedeu,'15,35776
+Barcelonès,S,ARIF,13,150,Santa Coloma de Gramenet,'15,74800
+Vallès Occidental,S,PSGJ,40,10,Rubí,'15,102654.2
+Baix Llobregat,S,SUMA,11,5,Sant Boi de Llobregat,'15,19458
+Vallès Occidental,N,APRE,40,20,Ripollet,'15,3130.13
+Vallès Occidental,N,FOQ,40,255,Rubí,'15,653638.5
+Vallès Occidental,S,PFI,40,48,Sabadell,'15,154725
+Baix Llobregat,N,FOQ,11,15,Vallirana,'15,30757.5
+Vallès Occidental,N,FOQ,40,900,Sabadell,'15,2156844
+Barcelonès,N,PRMI,13,34,Barcelona,'15,271215.6
+Baix Llobregat,S,XIMP,11,1,Cornellà de Llobregat,'15,23895.84
+Baix Llobregat,S,PFI,11,16,Esplugues de Llobregat,'15,53144
+Barcelonès,N,TRFO,13,85,Badalona,'15,711884.8300000001
+Vallès Occidental,S,SUMA,40,6,Sant Quirze del Vallès,'15,18485.1
+Barcelonès,N,CCFI,13,10,"Hospitalet de Llobregat, l'",'15,24108
+Vallès Occidental,S,SUMA,40,1,Santa Perpètua de Mogoda,'15,1945.8
+Baix Llobregat,S,XIMP,11,1,Viladecans,'15,32000
+Vallès Oriental,N,FOQ,41,375,Mollet del Vallès,'15,925030.5
+Vallès Occidental,S,SUMA,40,3,Castellar del Vallès,'15,8756.1
+Baix Llobregat,N,FPOS,11,195,Cornellà de Llobregat,'15,90816.29
+Baix Llobregat,N,TRFO,11,17,Castelldefels,'15,155298.33
+Vallès Occidental,N,TRFO,40,12,Montcada i Reixac,'15,104143.68000000001
+Barcelonès,N,DAM,13,45,"Hospitalet de Llobregat, l'",'15,119137.5
+Barcelonès,S,PFI,13,64,"Hospitalet de Llobregat, l'",'15,219350
+Baix Llobregat,N,SAC,11,300,Sant Vicenç dels Horts,'15,132588
+Baix Llobregat,N,PRMI,11,13,Cornellà de Llobregat,'15,103346.1
+Vallès Oriental,N,SAC,41,10,Llinars del Vallès,'15,6850
+Vallès Oriental,N,TRFO,41,7,Canovelles,'15,61562.759999999995
+Baix Llobregat,S,FEM,11,25,Gavà,'15,110000
+Barcelonès,S,PIGJ,13,140,Badalona,'15,529699.81
+Vallès Oriental,N,SAC,41,290,"Franqueses del Vallès, les",'15,128168.4
+Baix Llobregat,N,TRFO,11,8,Sant Joan Despí,'15,69429.12000000001
+Baix Llobregat,N,AODL,11,4,Sant Feliu de Llobregat,'15,108182.2
+Baix Llobregat,N,TB,11,58,Martorell,'15,181495.34
+Barcelonès,S,XIMP,13,1,Santa Coloma de Gramenet,'16,32000
+Vallès Occidental,N,TRFO,40,17,Cerdanyola del Vallès,'16,191341.2
+Vallès Occidental,N,TRFO,40,16,Ripollet,'16,173757
+Barcelonès,N,REEM,13,30,"Hospitalet de Llobregat, l'",'16,7489.44
+Vallès Occidental,N,REEM,40,15,Rubí,'16,3744.72
+Vallès Occidental,N,TRFO,40,31,Rubí,'16,347954
+Vallès Oriental,N,TB,41,2,Figaró-Montmany,'16,21210
+Vallès Occidental,N,PRMI,40,8,Badia del Vallès,'16,85020
+Vallès Occidental,N,FEM,40,15,Montcada i Reixac,'16,66000
+Vallès Oriental,N,FOQ,41,60,Sant Celoni,'16,145336.5
+Barcelonès,S,SUMA,13,40,Badalona,'16,176880
+Baix Llobregat,N,COOR,11,1,"Prat de Llobregat, el",'16,28000
+Baix Llobregat,N,SAC,11,260,Viladecans,'16,129480
+Baix Llobregat,N,30P,11,30,Viladecans,'16,132000
+Baix Llobregat,N,REEM,11,5,Sant Vicenç dels Horts,'16,1248.24
+Barcelonès,S,XIMP,13,2,"Hospitalet de Llobregat, l'",'16,64000
+Vallès Oriental,N,FI45,41,1,Bigues i Riells,'16,8911.54
+Baix Llobregat,N,30P,11,50,"Prat de Llobregat, el",'16,220000
+Baix Llobregat,S,JENP,11,10,Esparreguera,'16,110000
+Vallès Oriental,N,TRFO,41,6,"Llagosta, la",'16,69216.8
+Baix Llobregat,S,PSGJ,11,115,Sant Feliu de Llobregat,'16,293415.07
+Baix Llobregat,S,FEM,11,1,Esplugues de Llobregat,'16,2918.7
+Vallès Oriental,S,JENP,41,10,Canovelles,'16,110000
+Baix Llobregat,N,FOQ,11,105,Sant Joan Despí,'16,201331.5
+Vallès Occidental,N,IPIS,40,300,Rubí,'16,122192.42
+Vallès Occidental,N,FOQ,40,75,Polinyà,'16,130828.5
+Baix Llobregat,N,AODL,11,3,Sant Boi de Llobregat,'16,81136.65000000001
+Barcelonès,N,UNIS,13,7047,Barcelona,'16,942457.31
+Vallès Oriental,S,FEM,41,1,Sant Fost de Campsentelles,'16,2918.7
+Baix Llobregat,S,SUMA,11,1,"Palma de Cervelló, la",'16,1945.8
+Vallès Oriental,N,FI45,41,2,Granollers,'16,24000
+Baix Llobregat,N,TB,11,26,Sant Vicenç dels Horts,'16,169120.87
+Vallès Occidental,N,AODL,40,1,Sant Quirze del Vallès,'16,27045.55
+Baix Llobregat,N,COOR,11,1,Sant Boi de Llobregat,'16,28000
+Barcelonès,N,AODL,13,5,Badalona,'16,135227.75
+Barcelonès,N,TB,13,1181,Santa Coloma de Gramenet,'16,2225139.86
+Vallès Occidental,S,XIMP,40,3,Terrassa,'16,96000
+Baix Llobregat,S,SUMA,11,1,Castelldefels,'16,2334.96
+Baix Llobregat,S,JENP,11,30,Sant Feliu de Llobregat,'16,330000
+Vallès Occidental,S,FEM,40,15,Montcada i Reixac,'16,38104.15
+Vallès Oriental,N,FPOS,41,168,Granollers,'16,60020
+Vallès Occidental,S,SUMA,40,1,Sant Cugat del Vallès,'16,2801.74
+Vallès Occidental,N,FI45,40,2,Santa Perpètua de Mogoda,'16,17000
+Vallès Oriental,N,FOQ,41,60,Caldes de Montbui,'16,100039.5
+Barcelonès,N,ARIF,13,125,"Hospitalet de Llobregat, l'",'16,64850
+Vallès Oriental,S,JENP,41,1,Figaró-Montmany,'16,11000
+Vallès Occidental,S,JENP,40,37,Cerdanyola del Vallès,'16,407000
+Vallès Oriental,S,JENP,41,1,Sant Feliu de Codines,'16,11000
+Vallès Oriental,N,FOQ,41,15,Sant Fost de Campsentelles,'16,29502
+Vallès Oriental,N,FI45,41,1,Parets del Vallès,'16,5000
+Barcelonès,N,IPIS,13,600,Badalona,'16,244384.84
+Barcelonès,S,SUMA,13,3,Santa Coloma de Gramenet,'16,11674.8
+Vallès Occidental,N,SAC,40,500,Sabadell,'16,249000
+Vallès Occidental,S,PSGJ,40,20,Rubí,'16,208101
+Vallès Oriental,S,FEM,41,1,"Franqueses del Vallès, les",'16,2918.7
+Baix Llobregat,S,JENP,11,4,Cervelló,'16,44000
+Baix Llobregat,N,TRFO,11,15,Castelldefels,'16,168208
+Vallès Occidental,S,JENP,40,13,Sant Cugat del Vallès,'16,143000
+Baix Llobregat,S,SUMA,11,11,"Prat de Llobregat, el",'16,26187.55
+Barcelonès,N,TB,13,10,Sant Adrià de Besòs,'16,112533
+Vallès Oriental,N,CC,41,15,Mollet del Vallès,'16,29502
+Vallès Occidental,S,FEM,40,1,Ripollet,'16,1264.77
+Vallès Oriental,S,JENP,41,5,Parets del Vallès,'16,55000
+Vallès Occidental,N,TRFO,40,77,Sabadell,'16,848410
+Vallès Oriental,N,AODL,41,2,Parets del Vallès,'16,54091.1
+Vallès Occidental,N,TRFO,40,8,Santa Perpètua de Mogoda,'16,87919.2
+Vallès Occidental,N,TB,40,273,Terrassa,'16,1030430.6
+Vallès Oriental,N,PRMI,41,9,Mollet del Vallès,'16,94340
+Barcelonès,N,ARIF,13,125,Badalona,'16,64850
+Baix Llobregat,N,FEM,11,24,Gavà,'16,105600
+Baix Llobregat,N,TRFO,11,8,Sant Joan Despí,'16,90252
+Baix Llobregat,N,FOQ,11,105,Sant Feliu de Llobregat,'16,249784.5
+Vallès Occidental,S,FEM,40,28,Sabadell,'16,63895.18
+Vallès Occidental,N,REEM,40,10,Barberà del Vallès,'16,2496.48
+Vallès Occidental,S,XIMP,40,1,Rubí,'16,32000
+Baix Llobregat,N,TB,11,154,Olesa de Montserrat,'16,102926.58
+Baix Llobregat,S,SUMA,11,3,Esplugues de Llobregat,'16,10701.9
+Vallès Occidental,S,SUMA,40,60,Rubí,'16,273480
+Vallès Occidental,N,FOQ,40,180,Cerdanyola del Vallès,'16,462682.5
+Vallès Occidental,N,CC,40,30,Cerdanyola del Vallès,'16,51052.5
+Baix Llobregat,N,REEM,11,10,Viladecans,'16,2496.48
+Baix Llobregat,N,FOQ,11,345,Cornellà de Llobregat,'16,762924
+Vallès Oriental,N,30P,41,20,Mollet del Vallès,'16,88000
+Vallès Occidental,S,FEM,40,48,Terrassa,'16,102729.87000000001
+Baix Llobregat,S,JENP,11,10,Sant Andreu de la Barca,'16,110000
+Baix Llobregat,N,REEM,11,15,Sant Feliu de Llobregat,'16,3744.72
+Vallès Oriental,S,JENP,41,5,Vilanova del Vallès,'16,55000
+Baix Llobregat,N,AODL,11,2,Martorell,'16,54091.1
+Baix Llobregat,N,AODL,11,1,Corbera de Llobregat,'16,27045.55
+Baix Llobregat,N,PRMI,11,6,Esplugues de Llobregat,'16,66020
+Vallès Oriental,N,SAC,41,10,Llinars del Vallès,'16,6900
+Vallès Occidental,N,TB,40,115,Santa Perpètua de Mogoda,'16,415594.27
+Barcelonès,N,FPOS,13,28925,Barcelona,'16,10170312
+Baix Llobregat,S,JENP,11,10,Olesa de Montserrat,'16,110000
+Vallès Occidental,N,FEM,40,77,Terrassa,'16,338800
+Vallès Oriental,S,SUMA,41,8,"Llagosta, la",'16,21187.6
+Vallès Occidental,N,COOR,40,1,Ripollet,'16,28000
+Vallès Oriental,N,TRFO,41,8,Canovelles,'16,89143.2
+Baix Llobregat,N,FPOS,11,308,Castelldefels,'16,1077540
+Vallès Oriental,N,CCFI,41,11,Cardedeu,'16,39353.6
+Baix Llobregat,N,TRFO,11,12,Esplugues de Llobregat,'16,136460.8
+Barcelonès,S,SUMA,13,3,Badalona,'16,9729
+Vallès Oriental,S,FEM,41,2,"Roca del Vallès, la",'16,5837.4
+Vallès Oriental,N,SAC,41,330,Granollers,'16,164340
+Vallès Occidental,N,FEM,40,29,Rubí,'16,127600
+Barcelonès,N,TRFO,13,15,Sant Adrià de Besòs,'16,165575
+Vallès Occidental,N,FI45,40,1,Sant Llorenç Savall,'16,12000
+Baix Llobregat,S,XIMP,11,1,Gavà,'16,32000
+Vallès Oriental,S,XIMP,41,2,Granollers,'16,64000
+Vallès Occidental,N,PRMI,40,5,Barberà del Vallès,'16,57815.4
+Baix Llobregat,S,SUMA,11,8,Gavà,'16,27189.309999999998
+Vallès Occidental,S,JENP,40,48,Sabadell,'16,528000
+Vallès Occidental,N,CC,40,24,Terrassa,'16,98524.8
+Baix Llobregat,N,AODL,11,3,Gavà,'16,81136.65000000001
+Baix Llobregat,N,DAM,11,45,"Prat de Llobregat, el",'16,93888
+Barcelonès,S,JENP,13,10,"Hospitalet de Llobregat, l'",'16,110000
+Baix Llobregat,N,REEM,11,15,Gavà,'16,3744.72
+Barcelonès,S,SUMA,13,100,Barcelona,'16,415890
+Barcelonès,N,FEM,13,39,"Hospitalet de Llobregat, l'",'16,171600
+Baix Llobregat,N,SAC,11,590,Cornellà de Llobregat,'16,293820
+Vallès Oriental,N,IPIS,41,150,"Franqueses del Vallès, les",'16,61096.21
+Baix Llobregat,S,SUMA,11,20,Castelldefels,'16,84800
+Vallès Occidental,S,FEM,40,26,Barberà del Vallès,'16,97844.48
+Baix Llobregat,N,PRMI,11,4,Molins de Rei,'16,49232.8
+Barcelonès,N,TRFO,13,85,Badalona,'16,949194.4
+Baix Llobregat,N,30P,11,20,Sant Boi de Llobregat,'16,88000
+Vallès Occidental,N,CC,40,30,Sabadell,'16,123156
+Barcelonès,N,COOR,13,1,Sant Adrià de Besòs,'16,28000
+Vallès Oriental,S,FEM,41,4,Lliçà d'Amunt,'16,12647.7
+Baix Llobregat,N,APRE,11,53,Viladecans,'16,8426.03
+Vallès Occidental,N,COOR,40,1,Sant Cugat del Vallès,'16,28000
+Barcelonès,N,PIN,13,270,"Hospitalet de Llobregat, l'",'16,148155.5
+Baix Llobregat,N,FPOS,11,998,"Prat de Llobregat, el",'16,262005
+Baix Llobregat,S,FEM,11,2,Sant Climent de Llobregat,'16,3891.6
+Baix Llobregat,N,SAC,11,165,Sant Vicenç dels Horts,'16,82170
+Vallès Occidental,N,REEM,40,30,Terrassa,'16,7489.44
+Baix Llobregat,N,FPOS,11,45,Pallejà,'16,13200
+Vallès Oriental,S,SUMA,41,80,Granollers,'16,348280
+Barcelonès,N,TB,13,262,"Hospitalet de Llobregat, l'",'16,825329.75
+Vallès Occidental,S,JENP,40,50,Terrassa,'16,550000
+Baix Llobregat,N,COOR,11,2,Cornellà de Llobregat,'16,44333.33
+Vallès Oriental,N,PRMI,41,33,Granollers,'16,331270
+Baix Llobregat,N,REEM,11,5,"Prat de Llobregat, el",'16,1248.24
+Barcelonès,N,FPOT,13,115,Santa Coloma de Gramenet,'16,44880
+Baix Llobregat,N,FEM,11,15,Castelldefels,'16,66000
+Barcelonès,N,FOQ,13,930,Santa Coloma de Gramenet,'16,1841718
+Vallès Oriental,N,APRE,41,67,Mollet del Vallès,'16,12639.05
+Baix Llobregat,N,AUTO,11,120,Martorell,'16,201708.24000000002
+Vallès Occidental,N,UNIS,40,2548,Cerdanyola del Vallès,'16,286530.61
+Baix Llobregat,N,FOQ,11,15,Sant Vicenç dels Horts,'16,38829
+Baix Llobregat,N,AODL,11,4,"Prat de Llobregat, el",'16,108182.2
+Vallès Oriental,N,AODL,41,4,Mollet del Vallès,'16,101200.68000000001
+Vallès Occidental,S,PSGJ,40,20,Sabadell,'16,162807.87999999998
+Baix Llobregat,N,AODL,11,3,Castelldefels,'16,81136.65000000001
+Vallès Occidental,N,FPOT,40,68,Barberà del Vallès,'16,14504
+Barcelonès,N,COOR,13,2,Badalona,'16,44333.33
+Baix Llobregat,N,TB,11,54,Viladecans,'16,544114.62
+Vallès Oriental,N,SAC,41,130,"Franqueses del Vallès, les",'16,64740
+Vallès Oriental,S,SUMA,41,1,Granollers,'16,3405.15
+Baix Llobregat,N,TRFO,11,13,Martorell,'16,143324.2
+Baix Llobregat,N,TB,11,414,Esplugues de Llobregat,'16,262669.13
+Vallès Oriental,N,FI45,41,1,Mollet del Vallès,'16,12000
+Vallès Oriental,N,REEM,41,10,Mollet del Vallès,'16,2496.48
+Vallès Occidental,S,SUMA,40,6,Montcada i Reixac,'16,18485.1
+Baix Llobregat,N,IPIS,11,150,Sant Boi de Llobregat,'16,61096.21
+Baix Llobregat,N,30P,11,20,Castelldefels,'16,88000
+Baix Llobregat,N,TRFO,11,5,Sant Andreu de la Barca,'16,85643.4
+Vallès Oriental,N,TB,41,28,"Franqueses del Vallès, les",'16,232588.8
+Baix Llobregat,S,DPGJ,11,5,"Prat de Llobregat, el",'16,651
+Baix Llobregat,N,FI45,11,1,"Prat de Llobregat, el",'16,7547.41
+Vallès Occidental,N,DAM,40,45,Terrassa,'16,118320
+Baix Llobregat,S,XIMP,11,1,Sant Boi de Llobregat,'16,32000
+Baix Llobregat,N,SAC,11,45,Sant Andreu de la Barca,'16,22410
+Vallès Occidental,N,FOQ,40,150,Sant Cugat del Vallès,'16,349077
+Vallès Oriental,N,FEM,41,29,Granollers,'16,127600
+Barcelonès,N,SAC,13,390,"Hospitalet de Llobregat, l'",'16,196380
+Barcelonès,N,COOR,13,2,Santa Coloma de Gramenet,'16,56000
+Vallès Oriental,N,TB,41,2,Martorelles,'16,23278.74
+Vallès Occidental,S,SUMA,40,3,Sant Quirze del Vallès,'16,9840.19
+Baix Llobregat,N,TB,11,636,Sant Feliu de Llobregat,'16,477332.85
+Vallès Occidental,N,IPIS,40,900,Sabadell,'16,366577.26
+Vallès Oriental,N,FOQ,41,420,Mollet del Vallès,'16,941370
+Vallès Occidental,N,30P,40,20,Rubí,'16,88000
+Vallès Oriental,N,FI45,41,1,"Llagosta, la",'16,5000
+Vallès Occidental,S,PSGJ,40,90,Terrassa,'16,547861
+Vallès Oriental,N,AODL,41,1,Cardedeu,'16,25980.27
+Vallès Occidental,N,AODL,40,1,Polinyà,'16,27045.55
+Vallès Occidental,S,FEM,40,7,Rubí,'16,12728.78
+Barcelonès,N,ARIF,13,625,Barcelona,'16,324250
+Vallès Oriental,S,JENP,41,21,Granollers,'16,231000
+Vallès Oriental,N,FPOT,41,106,Sant Fost de Campsentelles,'16,39680
+Baix Llobregat,N,CCFI,11,12,Cornellà de Llobregat,'16,32518.6
+Vallès Occidental,N,FI45,40,1,Rubí,'16,5000
+Barcelonès,N,30P,13,30,Badalona,'16,132000
+Baix Llobregat,S,JENP,11,10,Martorell,'16,110000
+Vallès Occidental,N,AODL,40,1,Barberà del Vallès,'16,24746.12
+Barcelonès,N,FPOT,13,339,Badalona,'16,64150
+Barcelonès,N,SAC,13,270,Santa Coloma de Gramenet,'16,134460
+Barcelonès,N,FI45,13,2,Sant Adrià de Besòs,'16,5000
+Baix Llobregat,N,FOQ,11,405,"Prat de Llobregat, el",'16,706174.5
+Vallès Occidental,N,PRMI,40,25,Sabadell,'16,265150
+Barcelonès,N,SAC,13,490,Badalona,'16,244020
+Baix Llobregat,S,JENP,11,1,Sant Climent de Llobregat,'16,11000
+Vallès Occidental,N,FOQ,40,1448,Terrassa,'16,2711740.38
+Baix Llobregat,N,FOQ,11,90,Pallejà,'16,158094
+Vallès Occidental,N,REEM,40,10,Sant Cugat del Vallès,'16,2496.48
+Vallès Oriental,N,FOQ,41,25,Cardedeu,'16,66533.5
+Vallès Oriental,S,SUMA,41,2,Mollet del Vallès,'16,4172.660000000001
+Baix Llobregat,N,PRMI,11,9,Viladecans,'16,94340
+Baix Llobregat,S,SUMA,11,60,Sant Boi de Llobregat,'16,267600
+Vallès Occidental,S,FEM,40,7,Cerdanyola del Vallès,'16,18971.55
+Baix Llobregat,S,JENP,11,56,Sant Boi de Llobregat,'16,616000
+Baix Llobregat,N,FI45,11,3,Cornellà de Llobregat,'16,29206.72
+Vallès Oriental,S,JENP,41,5,"Franqueses del Vallès, les",'16,55000
+Baix Llobregat,N,AODL,11,1,Pallejà,'16,25383.5
+Baix Llobregat,S,SUMA,11,40,Cornellà de Llobregat,'16,181600
+Vallès Occidental,S,FEM,40,1,Santa Perpètua de Mogoda,'16,2918.7
+Barcelonès,N,AODL,13,8,Santa Coloma de Gramenet,'16,215536.55
+Barcelonès,S,XIMP,13,2,Badalona,'16,64000
+Vallès Occidental,N,FOQ,40,330,Rubí,'16,770065.5
+Vallès Oriental,N,FI45,41,2,Montornès del Vallès,'16,17799.2
+Vallès Occidental,N,SAC,40,330,Rubí,'16,164340
+Baix Llobregat,N,PRMI,11,11,Cornellà de Llobregat,'16,113220
+Vallès Oriental,S,FEM,41,2,Canovelles,'16,5837.4
+Baix Llobregat,S,SUMA,11,10,Sant Joan Despí,'16,31716.54
+Baix Llobregat,N,COOR,11,1,Castelldefels,'16,28000
+Vallès Oriental,N,TRFO,41,22,Mollet del Vallès,'16,235820
+Barcelonès,N,DAM,13,330,Barcelona,'16,723865.5
+Baix Llobregat,N,TRFO,11,28,Sant Boi de Llobregat,'16,312407.2
+Vallès Occidental,N,FPOS,40,459,Cerdanyola del Vallès,'16,170900
+Baix Llobregat,N,FPOT,11,27,Gavà,'16,12960
+Vallès Occidental,N,TB,40,3,Sant Cugat del Vallès,'16,28560
+Baix Llobregat,N,FOQ,11,225,Gavà,'16,392863.5
+Vallès Occidental,N,FOQ,40,45,Castellar del Vallès,'16,142992
+Baix Llobregat,N,FI45,11,1,Castelldefels,'16,17000
+Vallès Occidental,S,FEM,40,5,Matadepera,'16,3794.3100000000004
+Barcelonès,N,CC,13,69,Barcelona,'16,158515.8
+Barcelonès,N,FOQ,13,1380,"Hospitalet de Llobregat, l'",'16,3175101
+Baix Llobregat,N,FOQ,11,105,Molins de Rei,'16,179250
+Baix Llobregat,N,IPIS,11,150,Pallejà,'16,61096.21
+Barcelonès,S,SUMA,13,8,Sant Adrià de Besòs,'16,32632
+Barcelonès,N,APRE,13,100,Barcelona,'16,146792.75
+Barcelonès,N,IPIS,13,2850,Barcelona,'16,1160827.99
+Baix Llobregat,S,SUMA,11,40,Sant Joan Despí,'16,176465
+Vallès Occidental,N,SAC,40,125,Barberà del Vallès,'16,62250
+Vallès Oriental,N,TRFO,41,6,"Franqueses del Vallès, les",'16,68284.4
+Vallès Oriental,S,FEM,41,7,Mollet del Vallès,'16,12405.02
+Vallès Occidental,S,SUMA,40,20,Terrassa,'16,63335.78999999999
+Vallès Occidental,N,CIF,40,312,Sabadell,'16,365116.11
+Vallès Occidental,N,PIN,40,88,Santa Perpètua de Mogoda,'16,150000
+Vallès Occidental,N,COOR,40,2,Sabadell,'16,56000
+Vallès Oriental,N,SAC,41,95,Parets del Vallès,'16,47310
+Vallès Occidental,N,FPOT,40,186,Sabadell,'16,81600
+Barcelonès,N,CIF,13,857,"Hospitalet de Llobregat, l'",'16,499819.05
+Baix Llobregat,S,SUMA,11,1,Corbera de Llobregat,'16,1945.8
+Vallès Oriental,N,SAC,41,165,Mollet del Vallès,'16,82170
+Vallès Oriental,N,CC,41,24,Granollers,'16,98524.8
+Vallès Occidental,N,REEM,40,30,Sabadell,'16,7489.44
+Baix Llobregat,N,TRFO,11,7,Molins de Rei,'16,79122.4
+Baix Llobregat,N,FOQ,11,195,Martorell,'16,434634
+Vallès Occidental,N,SAC,40,580,Terrassa,'16,288840
+Vallès Occidental,N,APRE,40,27,Terrassa,'16,4213.02
+Vallès Occidental,N,TB,40,70,Rubí,'16,156849.15
+Baix Llobregat,N,COOR,11,1,Martorell,'16,28000
+Vallès Occidental,N,AODL,40,1,Ripollet,'16,27045.55
+Barcelonès,N,FOQ,13,345,Badalona,'16,850720.5
+Vallès Oriental,N,AODL,41,2,Granollers,'16,54091.1
+Vallès Oriental,S,FEM,41,34,"Llagosta, la",'16,114368.48999999999
+Baix Llobregat,N,IPIS,11,150,Sant Feliu de Llobregat,'16,61096.21
+Baix Llobregat,S,JENP,11,2,Begues,'16,22000
+Baix Llobregat,N,CC,11,45,"Prat de Llobregat, el",'16,137793
+Barcelonès,N,FEM,13,39,Santa Coloma de Gramenet,'16,171600
+Baix Llobregat,N,TB,11,27,Castelldefels,'16,351877.95
+Barcelonès,N,FEM,13,29,Badalona,'16,127600
+Vallès Occidental,S,FEM,40,1,Castellar del Vallès,'16,1945.8
+Vallès Occidental,N,COOR,40,1,Rubí,'16,28000
+Barcelonès,N,IPIS,13,600,"Hospitalet de Llobregat, l'",'16,244384.84
+Baix Llobregat,N,PRMI,11,6,Sant Andreu de la Barca,'16,103720
+Baix Llobregat,N,FOQ,11,444,Castelldefels,'16,1151551.2
+Baix Llobregat,N,ARIF,11,125,Esparreguera,'16,64850
+Baix Llobregat,N,FEM,11,19,Sant Feliu de Llobregat,'16,83600
+Vallès Oriental,S,XIMP,41,1,Mollet del Vallès,'16,32000
+Baix Llobregat,N,TRFO,11,32,Cornellà de Llobregat,'16,356342.4
+Vallès Occidental,S,SUMA,40,20,Cerdanyola del Vallès,'16,90800
+Barcelonès,N,COOR,13,2,Barcelona,'16,56000
+Barcelonès,N,CC,13,30,Santa Coloma de Gramenet,'16,123156
+Baix Llobregat,S,SUMA,11,1,Sant Just Desvern,'16,1945.8
+Baix Llobregat,N,TB,11,53,Martorell,'16,186764.14
+Vallès Occidental,N,FI45,40,4,Barberà del Vallès,'16,42600
+Vallès Occidental,N,SAC,40,110,Montcada i Reixac,'16,54780
+Baix Llobregat,S,PSGJ,11,30,"Prat de Llobregat, el",'16,285050.44
+Barcelonès,S,SUMA,13,2,"Hospitalet de Llobregat, l'",'16,7783.2
+Barcelonès,N,FI45,13,3,Badalona,'16,23000
+Barcelonès,N,COOR,13,2,"Hospitalet de Llobregat, l'",'16,44333.33
+Vallès Occidental,S,SUMA,40,5,Castellbisbal,'16,12487.34
+Baix Llobregat,S,XIMP,11,1,Cornellà de Llobregat,'16,31442.2
+Baix Llobregat,N,AODL,11,1,Vallirana,'16,27045.55
+Vallès Oriental,S,JENP,41,5,Bigues i Riells,'16,55000
+Barcelonès,N,AODL,13,1,Barcelona,'16,27045.55
+Vallès Occidental,N,CCFI,40,20,Sant Cugat del Vallès,'16,83200
+Vallès Oriental,N,FI45,41,2,Caldes de Montbui,'16,7500
+Vallès Oriental,N,FPOT,41,93,Granollers,'16,50120
+Barcelonès,S,SUMA,13,43,Barcelona,'16,132176.17
+Baix Llobregat,N,PRMI,11,10,Martorell,'16,103780
+Baix Llobregat,S,SUMA,11,4,Viladecans,'16,12701.75
+Vallès Occidental,N,ARIF,40,125,Cerdanyola del Vallès,'16,64850
+Baix Llobregat,N,REEM,11,15,Sant Boi de Llobregat,'16,3744.72
+Vallès Oriental,S,FEM,41,4,Parets del Vallès,'16,12161.25
+Barcelonès,S,FEM,13,113,Barcelona,'16,312728.83999999997
+Vallès Oriental,S,FEM,41,3,Lliçà de Vall,'16,7783.2
+Vallès Oriental,S,PSGJ,41,30,Montmeló,'16,168750
+Vallès Occidental,S,DPGJ,40,17,Terrassa,'16,1236
+Barcelonès,N,TRFO,13,149,Barcelona,'16,2073590.2
+Vallès Oriental,N,TRFO,41,5,Parets del Vallès,'16,60045
+Baix Llobregat,N,SAC,11,135,Martorell,'16,67230
+Baix Llobregat,N,FOQ,11,30,Sant Esteve Sesrovires,'16,59290.5
+Barcelonès,N,REEM,13,5,Sant Adrià de Besòs,'16,1248.24
+Vallès Occidental,N,PRMI,40,6,Sant Cugat del Vallès,'16,66020
+Vallès Occidental,N,FEM,40,77,Sabadell,'16,338800
+Vallès Occidental,S,SUMA,40,18,Montcada i Reixac,'16,67326
+Vallès Oriental,N,TRFO,41,5,Sant Celoni,'16,59114.8
+Baix Llobregat,S,JENP,11,43,"Prat de Llobregat, el",'16,473000
+Vallès Occidental,N,FI45,40,1,Montcada i Reixac,'16,12000
+Vallès Occidental,N,FOQ,40,60,Santa Perpètua de Mogoda,'16,189621
+Baix Llobregat,S,FEM,11,22,Viladecans,'16,56893.03
+Vallès Oriental,N,REEM,41,40,Granollers,'16,9985.92
+Vallès Occidental,S,JENP,40,5,Montcada i Reixac,'16,55000
+Baix Llobregat,N,ARIF,11,125,"Prat de Llobregat, el",'16,64850
+Vallès Occidental,N,REEM,40,15,Cerdanyola del Vallès,'16,3744.72
+Baix Llobregat,N,AODL,11,2,Molins de Rei,'16,54091.1
+Vallès Oriental,N,TRFO,41,6,Montornès del Vallès,'16,70178
+Vallès Occidental,N,FPOT,40,301,Cerdanyola del Vallès,'16,112800
+Vallès Oriental,N,FOQ,41,15,"Franqueses del Vallès, les",'16,38115
+Vallès Occidental,N,FOQ,40,60,Badia del Vallès,'16,157645.5
+Baix Llobregat,S,FEM,11,7,Sant Boi de Llobregat,'16,26268.3
+Baix Llobregat,S,SUMA,11,1,Sant Feliu de Llobregat,'16,1945.8
+Vallès Occidental,S,XIMP,40,2,Sabadell,'16,64000
+Baix Llobregat,S,XIMP,11,1,Esplugues de Llobregat,'16,32000
+Baix Llobregat,N,FEM,11,24,Viladecans,'16,105600
+Vallès Oriental,S,JENP,41,4,"Ametlla del Vallès, l'",'16,44000
+Baix Llobregat,N,CC,11,15,Viladecans,'16,66528
+Barcelonès,N,PRMI,13,81,Barcelona,'16,921692.1
+Vallès Oriental,S,JENP,41,1,Santa Eulàlia de Ronçana,'16,11000
+Vallès Oriental,N,SAC,41,130,"Garriga, la",'16,64740
+Vallès Occidental,S,SUMA,40,135,Terrassa,'16,558145
+Vallès Oriental,N,ARIF,41,125,Granollers,'16,64850
+Vallès Occidental,N,CCFI,40,15,Cerdanyola del Vallès,'16,50392.5
+Barcelonès,N,FPOS,13,838,"Hospitalet de Llobregat, l'",'16,1144530
+Vallès Oriental,N,IPIS,41,300,Mollet del Vallès,'16,122192.42
+Baix Llobregat,N,TB,11,7,Gavà,'16,66669.1
+Vallès Occidental,N,CC,40,30,Rubí,'16,123156
+Baix Llobregat,N,APRE,11,53,"Prat de Llobregat, el",'16,8426.03
+Baix Llobregat,N,DAM,11,90,Castelldefels,'16,326610
+Baix Llobregat,S,SUMA,11,1,Sant Andreu de la Barca,'16,3891.6
+Vallès Oriental,N,FI45,41,1,Martorelles,'16,9951.28
+Vallès Occidental,N,TRFO,40,7,Badia del Vallès,'16,82346.6
+Baix Llobregat,N,AODL,11,1,Esplugues de Llobregat,'16,27045.55
+Vallès Oriental,N,PIN,41,20,Mollet del Vallès,'16,44632.37
+Baix Llobregat,N,TB,11,225,Cornellà de Llobregat,'16,140669.41999999998
+Vallès Occidental,N,AODL,40,2,Rubí,'16,54091.1
+Vallès Occidental,N,FPOS,40,843,Terrassa,'16,332720
+Vallès Oriental,S,JENP,41,1,Santa Maria de Palautordera,'16,11000
+Baix Llobregat,N,IPIS,11,150,Martorell,'16,61096.21
+Baix Llobregat,N,TRFO,11,13,Gavà,'16,146168.4
+Vallès Occidental,N,CCFI,40,15,Sabadell,'16,50392.5
+Baix Llobregat,S,SUMA,11,55,"Prat de Llobregat, el",'16,235665
+Baix Llobregat,S,SUMA,11,1,Abrera,'16,2527
+Baix Llobregat,N,FOQ,11,178,Viladecans,'16,339454.3
+Baix Llobregat,S,SUMA,11,120,Sant Feliu de Llobregat,'16,503840
+Baix Llobregat,N,REEM,11,25,Martorell,'16,6241.2
+Baix Llobregat,N,PIN,11,200,Castelldefels,'16,116583.8
+Vallès Occidental,N,PRMI,40,9,Rubí,'16,94610
+Barcelonès,S,SUMA,13,60,"Hospitalet de Llobregat, l'",'16,245850
+Baix Llobregat,S,FEM,11,2,Molins de Rei,'16,5837.4
+Barcelonès,N,30P,13,60,Santa Coloma de Gramenet,'16,264000
+Baix Llobregat,S,JENP,11,10,Castelldefels,'16,110000
+Vallès Occidental,N,FI45,40,4,Terrassa,'16,18226.609999999997
+Barcelonès,S,PSGJ,13,1224,Barcelona,'16,5669880.24
+Barcelonès,S,PSGJ,13,36,"Hospitalet de Llobregat, l'",'16,115708.6
+Baix Llobregat,N,PRMI,11,8,Gavà,'16,84900
+Baix Llobregat,N,PRMI,11,9,Castelldefels,'16,94340
+Vallès Occidental,N,30P,40,66,Sabadell,'16,290400
+Vallès Oriental,N,FOQ,41,45,Canovelles,'16,152658
+Vallès Occidental,S,DPGJ,40,64,Sabadell,'16,8071.5
+Baix Llobregat,N,AODL,11,1,Sant Just Desvern,'16,27045.55
+Barcelonès,N,APRE,13,53,Santa Coloma de Gramenet,'16,8426.03
+Vallès Oriental,N,TB,41,5,Canovelles,'16,71447.22
+Vallès Oriental,N,AODL,41,1,"Franqueses del Vallès, les",'16,25129.1
+Vallès Oriental,N,ARIF,41,125,Mollet del Vallès,'16,64850
+Baix Llobregat,N,COOR,11,1,Viladecans,'16,28000
+Baix Llobregat,N,TB,11,118,Sant Joan Despí,'16,284700.25
+Barcelonès,N,APRE,13,113,"Hospitalet de Llobregat, l'",'16,21065.08
+Vallès Occidental,N,COOR,40,1,Montcada i Reixac,'16,28000
+Vallès Occidental,S,SUMA,40,2,Barberà del Vallès,'16,6810.3
+Barcelonès,N,ARIF,13,125,Santa Coloma de Gramenet,'16,64850
+Baix Llobregat,S,JENP,11,6,Sant Just Desvern,'16,66000
+Vallès Occidental,N,PRMI,40,40,Terrassa,'16,428029.8
+Vallès Occidental,N,TRFO,40,10,Castellar del Vallès,'16,109012
+Barcelonès,N,AODL,13,10,"Hospitalet de Llobregat, l'",'16,270455.5
+Vallès Occidental,N,IPIS,40,150,Montcada i Reixac,'16,61096.21
+Vallès Oriental,N,SAC,41,130,Sant Celoni,'16,64740
+Vallès Oriental,S,JENP,41,1,Montmeló,'16,11000
+Vallès Occidental,S,SUMA,40,2,Sabadell,'16,6422.76
+Vallès Oriental,S,SUMA,41,85,Mollet del Vallès,'16,393550
+Baix Llobregat,S,JENP,11,2,Pallejà,'16,22000
+Vallès Oriental,N,TB,41,360,Montornès del Vallès,'16,317868.79000000004
+Vallès Oriental,N,COOR,41,3,Granollers,'16,72333.33
+Vallès Oriental,N,COOR,41,1,Mollet del Vallès,'16,28000
+Baix Llobregat,S,XIMP,11,2,Sant Feliu de Llobregat,'16,64000
+Barcelonès,S,DPGJ,13,331,Barcelona,'16,23785.5
+Vallès Occidental,N,ARIF,40,125,Sabadell,'16,64850
+Vallès Occidental,N,TRFO,40,22,Sant Cugat del Vallès,'16,244966.4
+Barcelonès,N,SAC,13,2235,Barcelona,'16,1121310
+Vallès Occidental,S,JENP,40,10,Barberà del Vallès,'16,110000
+Baix Llobregat,N,IPIS,11,600,Cornellà de Llobregat,'16,244384.84
+Vallès Occidental,N,AODL,40,13,Terrassa,'16,349899.24
+Vallès Oriental,N,CCFI,41,10,Granollers,'16,8352
+Baix Llobregat,N,REEM,11,10,Esplugues de Llobregat,'16,2496.48
+Baix Llobregat,N,TRFO,11,8,Esparreguera,'16,85140
+Barcelonès,N,PRMI,13,9,Sant Adrià de Besòs,'16,94837.4
+Baix Llobregat,N,TB,11,199,Sant Boi de Llobregat,'16,751664.74
+Barcelonès,N,DAM,13,105,"Hospitalet de Llobregat, l'",'16,310494
+Vallès Occidental,N,FPOS,40,186,Sabadell,'16,69920
+Baix Llobregat,N,FOQ,11,15,Vallirana,'16,30757.5
+Baix Llobregat,S,SUMA,11,4,Sant Boi de Llobregat,'16,10723.52
+Vallès Occidental,N,PIN,40,215,Sabadell,'16,140223.41999999998
+Baix Llobregat,N,ARIF,11,125,Viladecans,'16,64850
+Vallès Occidental,N,REEM,40,15,Ripollet,'16,3744.72
+Baix Llobregat,S,XIMP,11,1,"Prat de Llobregat, el",'16,32000
+Barcelonès,N,FEM,13,388,Barcelona,'16,1707200
+Vallès Oriental,S,FEM,41,1,Cardedeu,'16,2334.96
+Vallès Occidental,N,APRE,40,47,Sabadell,'16,8426.03
+Baix Llobregat,S,FEM,11,1,Sant Joan Despí,'16,3834.4500000000003
+Barcelonès,S,SUMA,13,100,Santa Coloma de Gramenet,'16,367425
+Barcelonès,N,SAC,13,295,Sant Adrià de Besòs,'16,146910
+Vallès Occidental,S,JENP,40,12,Ripollet,'16,132000
+Baix Llobregat,S,JENP,11,10,Viladecans,'16,110000
+Vallès Occidental,N,FOQ,40,765,Sabadell,'16,1718238
+Baix Llobregat,N,FOQ,11,45,Sant Andreu de la Barca,'16,132160.5
+Baix Llobregat,S,SUMA,11,23,Cornellà de Llobregat,'16,69268.04
+Baix Llobregat,N,IPIS,11,300,Sant Vicenç dels Horts,'16,122192.42
+Vallès Oriental,S,FEM,41,1,"Ametlla del Vallès, l'",'16,2432.25
+Barcelonès,S,FEM,13,30,"Hospitalet de Llobregat, l'",'16,94864.79
+Baix Llobregat,N,TRFO,11,47,Sant Feliu de Llobregat,'16,519250
+Vallès Occidental,N,PRMI,40,16,Cerdanyola del Vallès,'16,175392
+Vallès Occidental,N,PIN,40,40,Sant Cugat del Vallès,'16,109000.05
+Baix Llobregat,N,COOR,11,1,Sant Feliu de Llobregat,'16,28000
+Baix Llobregat,N,FOQ,11,75,Sant Just Desvern,'16,257184
+Baix Llobregat,N,FPOS,11,393,Cornellà de Llobregat,'16,167568
+Barcelonès,N,FPOT,13,1286,"Hospitalet de Llobregat, l'",'16,629480
+Vallès Oriental,S,JENP,41,5,Cànoves i Samalús,'16,55000
+Baix Llobregat,N,TRFO,11,11,Sant Vicenç dels Horts,'16,115287
+Baix Llobregat,N,FI45,11,2,Gavà,'16,16659.53
+Baix Llobregat,S,FEM,11,17,Sant Feliu de Llobregat,'16,60838.68
+Vallès Oriental,N,FI45,41,2,Lliçà de Vall,'16,26741.85
+Vallès Oriental,N,TB,41,66,Granollers,'16,244801.16
+Barcelonès,N,CIF,13,423,Barcelona,'16,290243.13
+Vallès Occidental,S,XIMP,40,1,Sant Cugat del Vallès,'16,32000
+Vallès Oriental,S,JENP,41,10,Mollet del Vallès,'16,110000
+Baix Llobregat,N,CC,11,30,Molins de Rei,'16,123156
+Barcelonès,N,FEM,13,25,Sant Adrià de Besòs,'16,110000
+Vallès Occidental,N,SAC,40,120,Sant Cugat del Vallès,'16,59760
+Barcelonès,N,TB,13,2199,Barcelona,'16,4254879.79
+Barcelonès,S,JENP,13,35,Badalona,'16,385000
+Baix Llobregat,N,SAC,11,330,Esplugues de Llobregat,'16,164340
+Vallès Occidental,N,FPOS,40,155,Sant Cugat del Vallès,'16,24672
+Barcelonès,N,REEM,13,20,Santa Coloma de Gramenet,'16,4992.96
+Barcelonès,S,JENP,13,50,Santa Coloma de Gramenet,'16,550000
+Vallès Oriental,N,FPOS,41,322,Mollet del Vallès,'16,154660
+Barcelonès,N,TRFO,13,89,"Hospitalet de Llobregat, l'",'16,966281.8
+Barcelonès,N,PRMI,13,20,"Hospitalet de Llobregat, l'",'16,207860
+Vallès Occidental,S,JENP,40,1,Santa Perpètua de Mogoda,'16,11000
+Vallès Occidental,N,TB,40,859,Sabadell,'16,2099706.2600000002
+Barcelonès,N,REEM,13,210,Barcelona,'16,52426.08
+Barcelonès,S,PSGJ,13,50,Badalona,'16,420759.22000000003
+Baix Llobregat,N,AODL,11,9,Sant Feliu de Llobregat,'16,243409.94999999998
+Vallès Occidental,N,FI45,40,12,Sabadell,'16,68897.14
+Vallès Occidental,S,JENP,40,5,Sant Quirze del Vallès,'16,55000
+Vallès Occidental,N,COOR,40,4,Terrassa,'16,112000
+Vallès Occidental,N,SAC,40,110,Cerdanyola del Vallès,'16,54780
+Barcelonès,N,CIF,13,249,Santa Coloma de Gramenet,'16,453394.94
+Vallès Occidental,N,FOQ,40,30,Montcada i Reixac,'16,38196
+Baix Llobregat,N,PRMI,11,14,Sant Feliu de Llobregat,'16,153939.2
+Vallès Occidental,N,PRMI,40,7,Montcada i Reixac,'16,79650.1
+Baix Llobregat,N,TB,11,12,"Prat de Llobregat, el",'16,155373.74000000002
+Baix Llobregat,N,FPOS,11,22,Martorell,'16,25520
+Vallès Oriental,S,FEM,41,10,Granollers,'16,21079.5
+Vallès Occidental,S,JENP,40,10,Rubí,'16,110000
+Baix Llobregat,S,JENP,11,5,Molins de Rei,'16,55000
+Baix Llobregat,N,PRMI,11,8,"Prat de Llobregat, el",'16,85140
+Baix Llobregat,S,SUMA,11,24,Viladecans,'16,104100
+Barcelonès,S,FEM,13,2,Santa Coloma de Gramenet,'16,5258.92
+Baix Llobregat,N,SAC,11,125,Sant Joan Despí,'16,64650
+Vallès Occidental,S,FEM,40,2,Viladecavalls,'16,6496.1500000000005
+Barcelonès,N,TB,13,582,Badalona,'16,899717.26
+Vallès Oriental,S,FEM,41,5,"Garriga, la",'16,15727.3
+Vallès Occidental,S,FEM,40,2,Sentmenat,'16,3891.6
+Vallès Oriental,N,TB,41,6,Sant Feliu de Codines,'16,33225.119999999995
+Vallès Oriental,N,FEM,41,39,Mollet del Vallès,'16,171600
+Baix Llobregat,N,TRFO,11,18,"Prat de Llobregat, el",'16,206167.2
+Baix Llobregat,N,TRFO,11,20,Viladecans,'16,215108
+Vallès Oriental,N,IPIS,41,600,Granollers,'16,244384.84
+Vallès Oriental,N,TB,41,3,Caldes de Montbui,'16,40490.17
+Vallès Occidental,N,CC,40,30,Sant Cugat del Vallès,'16,61515
+Vallès Occidental,S,SUMA,40,60,Sabadell,'16,277800
+Vallès Occidental,N,TRFO,40,128,Terrassa,'16,1425089.4
+Barcelonès,S,FEM,13,8,Badalona,'16,18213.23
+Vallès Occidental,N,PRMI,40,9,Ripollet,'16,99825.5
+Vallès Occidental,S,FEM,40,1,Palau-solità i Plegamans,'16,3113.2799999999997
+Vallès Oriental,N,30P,41,40,Granollers,'16,176000
+Baix Llobregat,N,ARIF,11,125,Cornellà de Llobregat,'16,64850
+Baix Llobregat,S,FEM,11,1,Cervelló,'16,1313.42
+Vallès Occidental,N,AODL,40,13,Sabadell,'16,351592.14999999997
+Vallès Oriental,S,DPGJ,41,157,Mollet del Vallès,'16,5578
+Baix Llobregat,N,FOQ,11,132,Sant Boi de Llobregat,'16,247305
+Baix Llobregat,N,IPIS,11,150,"Prat de Llobregat, el",'16,61096.21
+Vallès Occidental,N,PRMI,40,6,Castellar del Vallès,'16,66200
+Baix Llobregat,S,FEM,11,1,Martorell,'16,2675.48
+Baix Llobregat,N,FPOT,11,671,"Prat de Llobregat, el",'16,202295
+Baix Llobregat,N,AODL,11,3,Cornellà de Llobregat,'16,79454.3
+Vallès Occidental,N,FI45,40,3,Castellar del Vallès,'16,29236.27
+Baix Llobregat,S,XIMP,11,1,Castelldefels,'16,32000
+Barcelonès,N,DAM,13,150,Santa Coloma de Gramenet,'16,546345
+Vallès Occidental,N,PRMI,40,7,Santa Perpètua de Mogoda,'16,75460
+Baix Llobregat,N,CCFI,11,15,"Prat de Llobregat, el",'16,14637
+Vallès Oriental,S,JENP,41,5,Montornès del Vallès,'16,55000
+Baix Llobregat,S,FEM,11,2,Cornellà de Llobregat,'16,5350.95
+Vallès Occidental,N,TRFO,40,11,Barberà del Vallès,'16,116806.2
+Vallès Oriental,N,FPOT,41,407,Mollet del Vallès,'16,108920
+Vallès Occidental,N,TRFO,40,13,Montcada i Reixac,'16,147738.6
+Baix Llobregat,N,PRMI,11,41,Sant Boi de Llobregat,'16,425790
+Vallès Occidental,N,FOQ,40,135,Barberà del Vallès,'16,253864.5
+Vallès Oriental,N,TB,41,221,Mollet del Vallès,'16,348693.96
+Barcelonès,S,JENP,13,232,Barcelona,'16,2552000
+Vallès Oriental,S,JENP,41,4,Cardedeu,'16,44000
+Barcelonès,N,TRFO,13,56,Santa Coloma de Gramenet,'16,604632
+Baix Llobregat,S,JENP,11,10,Gavà,'16,110000
+Vallès Occidental,N,AODL,40,3,Sant Cugat del Vallès,'16,81136.65000000001
+Vallès Occidental,S,SUMA,40,3,Ripollet,'16,7783.2
+Vallès Occidental,N,AODL,40,4,Santa Perpètua de Mogoda,'16,108182.2
+Barcelonès,N,FI45,13,23,Barcelona,'16,214812.62
+Vallès Occidental,S,JENP,40,12,Badia del Vallès,'16,132000
+Vallès Oriental,S,PSGJ,41,15,Mollet del Vallès,'16,80255.04
+Barcelonès,S,XIMP,13,20,Barcelona,'16,639740.48
+Baix Llobregat,N,COOR,11,1,Gavà,'16,28000
+Vallès Occidental,N,PIN,40,45,Rubí,'16,88992.75
+Baix Llobregat,N,AODL,11,2,Sant Joan Despí,'16,54091.1
+Barcelonès,N,REEM,13,10,Badalona,'16,2496.48
+Baix Llobregat,N,AODL,11,4,Viladecans,'16,108182.2
+Vallès Occidental,N,APRE,40,27,Ripollet,'16,4213.02
+Baix Llobregat,N,AODL,11,2,Sant Vicenç dels Horts,'16,54091.1
+Barcelonès,N,PRMI,13,20,Santa Coloma de Gramenet,'16,207860
+Barcelonès,N,30P,13,485,Barcelona,'16,2134000
+Barcelonès,N,FPOT,13,47042,Barcelona,'16,15329204
+Baix Llobregat,N,FEM,11,10,Sant Boi de Llobregat,'16,44000
+Baix Llobregat,S,XIMP,11,1,Viladecans,'16,32000
+Barcelonès,N,FOQ,13,5333,Barcelona,'16,12173398.46
+Vallès Occidental,N,FI45,40,1,Castellbisbal,'16,12000
+Barcelonès,N,APRE,13,67,Sant Adrià de Besòs,'16,12639.05
+Vallès Occidental,S,XIMP,40,1,Cerdanyola del Vallès,'16,32000
+Vallès Oriental,N,FOQ,41,865,Granollers,'16,1681792
+Vallès Oriental,N,TRFO,41,71,Granollers,'16,773223.6
+Vallès Occidental,N,IPIS,40,600,Terrassa,'16,244384.84
+Vallès Occidental,N,ARIF,40,125,Terrassa,'16,64850
+Barcelonès,S,DPGJ,13,25,Badalona,'16,3351.5
+Baix Llobregat,S,FEM,11,29,Gavà,'16,81732.25
+Baix Llobregat,N,TRFO,11,9,Olesa de Montserrat,'16,99048.8
+Vallès Oriental,N,FOQ,41,30,Montornès del Vallès,'16,39432
+Vallès Oriental,N,CC,41,30,Sant Fost de Campsentelles,'16,123156
+Baix Llobregat,N,CIF,11,422,Sant Feliu de Llobregat,'16,555909.15
+Baix Llobregat,N,FOQ,11,30,Abrera,'16,85650
+Baix Llobregat,N,PRMI,11,8,Olesa de Montserrat,'16,89085.6
+Baix Llobregat,S,JENP,11,16,Sant Joan Despí,'16,176000
+Baix Llobregat,S,DPGJ,11,146,Cornellà de Llobregat,'16,40455
+Barcelonès,N,APRE,13,113,Badalona,'16,21065.08
+Vallès Occidental,S,SUMA,40,20,Barberà del Vallès,'16,90800
+Baix Llobregat,S,SUMA,11,45,Gavà,'16,176400
+Baix Llobregat,N,PRMI,11,7,Sant Vicenç dels Horts,'16,75670
+Baix Llobregat,S,FEM,11,17,Castelldefels,'16,49012.54
+Vallès Occidental,N,IPIS,40,150,Badia del Vallès,'16,61096.21
+Vallès Occidental,N,30P,40,80,Terrassa,'16,352000
+Vallès Occidental,S,FEM,40,2,Sant Quirze del Vallès,'16,3891.6
+Vallès Occidental,S,SUMA,40,11,Rubí,'16,25899.64
+Barcelonès,N,FPOS,13,955,Badalona,'16,213920
+Barcelonès,N,IPIS,13,150,Sant Adrià de Besòs,'16,61096.21
+Baix Llobregat,N,PRMI,11,6,Sant Joan Despí,'16,66020
+Vallès Occidental,N,ARIF,40,125,Montcada i Reixac,'16,64850
+Barcelonès,N,CCFI,13,60,Badalona,'16,99216
+Barcelonès,N,30P,13,60,"Hospitalet de Llobregat, l'",'16,264000
+Barcelonès,N,PRMI,13,29,Badalona,'16,304469.6
+Barcelonès,S,FEM,13,14,Sant Adrià de Besòs,'16,29012.36
+Barcelonès,N,IPIS,13,300,Santa Coloma de Gramenet,'16,122192.42
+Vallès Occidental,N,FEM,40,15,Cerdanyola del Vallès,'16,66000
+Baix Llobregat,N,REEM,11,10,Cornellà de Llobregat,'16,2496.48
+Vallès Occidental,N,COOR,40,1,Cerdanyola del Vallès,'16,28000
+Vallès Occidental,N,FPOT,40,2125,Terrassa,'16,718644
+Vallès Occidental,S,FEM,40,1,Sant Cugat del Vallès,'16,2918.7
+Vallès Occidental,N,APRE,40,53,Sant Cugat del Vallès,'16,8426.03
+Baix Llobregat,N,FOQ,11,60,Esplugues de Llobregat,'16,194632.5
+Baix Llobregat,N,AODL,11,1,Sant Boi de Llobregat,'17,27045.55
+Vallès Occidental,N,CCFI,40,25,Sant Cugat del Vallès,'17,108082
+Vallès Oriental,N,COOR,41,4,Granollers,'17,112000
+Baix Llobregat,S,JENP,11,5,Esparreguera,'17,55000
+Barcelonès,N,REEM,13,30,"Hospitalet de Llobregat, l'",'17,7489.44
+Vallès Oriental,N,SAC,41,24,"Franqueses del Vallès, les",'17,11400
+Baix Llobregat,N,DONA,11,2,Sant Andreu de la Barca,'17,38053.1
+Vallès Oriental,N,30P,41,40,Granollers,'17,176000
+Vallès Oriental,N,CCFI,41,10,Cardedeu,'17,37440
+Baix Llobregat,N,COOR,11,1,Sant Andreu de la Barca,'17,28000
+Baix Llobregat,N,CC,11,15,Molins de Rei,'17,131214
+Baix Llobregat,N,APRE,11,66,"Prat de Llobregat, el",'17,10523.16
+Barcelonès,N,CIF,13,155,"Hospitalet de Llobregat, l'",'17,279869.5
+Vallès Occidental,N,CIF,40,141,Sabadell,'17,192424.87
+Baix Llobregat,N,TRFO,11,12,Sant Vicenç dels Horts,'17,155328.8
+Vallès Oriental,N,COOR,41,1,Mollet del Vallès,'17,28000
+Vallès Occidental,N,PIN,40,20,Montcada i Reixac,'17,48064.41
+Vallès Oriental,N,TRFO,41,4,Cardedeu,'17,49301.8
+Vallès Occidental,S,JENP,40,6,Ripollet,'17,66000
+Vallès Occidental,S,PIGJ,40,15,Badia del Vallès,'17,77777
+Vallès Occidental,N,30P,40,18,Rubí,'17,68224.37000000001
+Baix Llobregat,N,PRMI,11,5,Martorell,'17,59682
+Baix Llobregat,S,JENP,11,5,Gavà,'17,55000
+Barcelonès,N,FPOT,13,39,Santa Coloma de Gramenet,'17,12740
+Barcelonès,N,COOR,13,3,"Hospitalet de Llobregat, l'",'17,72333.33
+Baix Llobregat,N,FOQ,11,120,Esplugues de Llobregat,'17,293814
+Vallès Occidental,N,SAC,40,96,Rubí,'17,45600
+Barcelonès,N,UBIC,13,117,Badalona,'17,52041.6
+Vallès Oriental,N,FEM,41,17,Mollet del Vallès,'17,41155.3
+Vallès Occidental,N,FPOT,40,1888,Terrassa,'17,682976
+Baix Llobregat,N,FEM,11,2,"Prat de Llobregat, el",'17,5896.8
+Vallès Occidental,S,JENP,40,5,Santa Perpètua de Mogoda,'17,55000
+Vallès Occidental,N,CC,40,24,Terrassa,'17,104971.2
+Barcelonès,N,ENFE,13,12,Santa Coloma de Gramenet,'17,315116.63999999996
+Vallès Oriental,N,FOQ,41,30,Montornès del Vallès,'17,42765
+Vallès Oriental,S,FEM,41,35,Mollet del Vallès,'17,154000
+Vallès Occidental,N,FOQ,40,120,Sant Cugat del Vallès,'17,257149.5
+Vallès Occidental,N,AODL,40,1,Polinyà,'17,27045.55
+Baix Llobregat,S,XIMP,11,2,Sant Feliu de Llobregat,'17,64000
+Vallès Occidental,N,TB,40,315,Terrassa,'17,1069530.99
+Vallès Occidental,N,FEM,40,3,Castellbisbal,'17,8984.76
+Vallès Oriental,N,AODL,41,4,Parets del Vallès,'17,108182.2
+Vallès Oriental,N,UBIC,41,300,Mollet del Vallès,'17,131640
+Vallès Oriental,S,JENP,41,5,Sant Celoni,'17,55000
+Vallès Occidental,N,30P,40,60,Terrassa,'17,264000
+Baix Llobregat,S,JENP,11,1,Pallejà,'17,11000
+Barcelonès,N,ENFE,13,19,Badalona,'17,369897.14999999997
+Barcelonès,N,AODL,13,6,Badalona,'17,162273.3
+Barcelonès,N,ENFE,13,25,Barcelona,'17,417180.76
+Vallès Occidental,N,DONA,40,25,Terrassa,'17,483320.1
+Baix Llobregat,N,DONA,11,1,Olesa de Montserrat,'17,19727.1
+Barcelonès,N,30P,13,14,Santa Coloma de Gramenet,'17,62733.159999999996
+Baix Llobregat,N,TB,11,43,Viladecans,'17,533457.76
+Barcelonès,N,FEM,13,7,Sant Adrià de Besòs,'17,11891.88
+Vallès Occidental,N,TB,40,117,Santa Perpètua de Mogoda,'17,439364.01
+Vallès Occidental,N,AODL,40,3,Sant Cugat del Vallès,'17,81136.65000000001
+Barcelonès,N,SAC,13,80,Sant Adrià de Besòs,'17,38000
+Baix Llobregat,N,COOR,11,1,Martorell,'17,28000
+Vallès Occidental,N,DONA,40,2,Sant Cugat del Vallès,'17,37700
+Barcelonès,N,CC,13,15,"Hospitalet de Llobregat, l'",'17,36516
+Baix Llobregat,N,PRMI,11,5,Esplugues de Llobregat,'17,56580
+Vallès Occidental,N,FI45,40,2,Cerdanyola del Vallès,'17,16200
+Baix Llobregat,N,COOR,11,1,Gavà,'17,28000
+Vallès Occidental,N,FOQ,40,780,Sabadell,'17,1709988
+Vallès Oriental,N,TB,41,2,Martorelles,'17,23911.38
+Vallès Occidental,N,DONA,40,2,Ripollet,'17,38427.2
+Vallès Occidental,N,PRMI,40,7,Ripollet,'17,78058.4
+Baix Llobregat,N,IPIS,11,250,Sant Boi de Llobregat,'17,122192.42
+Baix Llobregat,S,XIMP,11,1,Viladecans,'17,32000
+Baix Llobregat,N,PRMI,11,7,Castelldefels,'17,75460
+Vallès Oriental,S,SUMA,41,1,Mollet del Vallès,'17,2948.4
+Vallès Occidental,N,ENFE,40,4,Rubí,'17,108695.59
+Barcelonès,N,FPOT,13,1149,Badalona,'17,532300
+Baix Llobregat,S,SUMA,11,2,Olesa de Montserrat,'17,7862.4
+Baix Llobregat,S,JENP,11,4,Olesa de Montserrat,'17,44000
+Barcelonès,S,DPGJ,13,924,Barcelona,'17,79990
+Vallès Oriental,S,JENP,41,1,Montmeló,'17,11000
+Baix Llobregat,N,FEM,11,5,Sant Climent de Llobregat,'17,8432.78
+Vallès Oriental,S,JENP,41,1,Vilanova del Vallès,'17,11000
+Vallès Oriental,N,REEM,41,10,Mollet del Vallès,'17,2496.48
+Barcelonès,N,30P,13,23,"Hospitalet de Llobregat, l'",'17,105893.27
+Vallès Oriental,N,APRE,41,81,Mollet del Vallès,'17,15784.740000000002
+Vallès Occidental,S,JENP,40,4,Rubí,'17,44000
+Vallès Oriental,S,JENP,41,1,Sant Feliu de Codines,'17,11000
+Baix Llobregat,N,TRFO,11,11,Martorell,'17,138804.4
+Baix Llobregat,N,TRFO,11,7,Sant Joan Despí,'17,89764.5
+Baix Llobregat,N,30P,11,1,Santa Coloma de Cervelló,'17,3931.2
+Barcelonès,N,CCFI,13,15,Badalona,'17,51531
+Baix Llobregat,N,TB,11,5,"Prat de Llobregat, el",'17,73280.35
+Baix Llobregat,S,JENP,11,1,Cervelló,'17,11000
+Vallès Occidental,N,ENFE,40,17,Sabadell,'17,348855.43000000005
+Vallès Occidental,N,30P,40,2,Cerdanyola del Vallès,'17,5376
+Baix Llobregat,S,XIMP,11,1,"Prat de Llobregat, el",'17,32000
+Vallès Occidental,S,SUMA,40,2,Montcada i Reixac,'17,7862.4
+Vallès Occidental,N,AODL,40,13,Sabadell,'17,351592.14999999997
+Baix Llobregat,N,FI45,11,1,Santa Coloma de Cervelló,'17,15300
+Vallès Occidental,N,COOR,40,5,Terrassa,'17,140000
+Baix Llobregat,N,TB,11,104,Sant Vicenç dels Horts,'17,183324.1
+Baix Llobregat,N,PRMI,11,30,Sant Boi de Llobregat,'17,349760
+Vallès Oriental,N,30P,41,1,Canovelles,'17,5557.73
+Baix Llobregat,N,DONA,11,3,Castelldefels,'17,58112.4
+Baix Llobregat,N,AODL,11,3,"Prat de Llobregat, el",'17,81136.65000000001
+Baix Llobregat,N,TB,11,638,Sant Feliu de Llobregat,'17,463345.71
+Barcelonès,N,IPIS,13,500,"Hospitalet de Llobregat, l'",'17,244384.84
+Vallès Occidental,N,REEM,40,15,Ripollet,'17,3744.72
+Vallès Occidental,N,IPIS,40,125,Badia del Vallès,'17,61096.21
+Vallès Oriental,N,TB,41,24,"Franqueses del Vallès, les",'17,237110.4
+Barcelonès,N,FOQ,13,510,Badalona,'17,1148401.5
+Barcelonès,N,COOR,13,3,Santa Coloma de Gramenet,'17,84000
+Vallès Oriental,N,30P,41,1,Montornès del Vallès,'17,5736.110000000001
+Vallès Occidental,N,FOQ,40,105,Santa Perpètua de Mogoda,'17,188937
+Vallès Occidental,N,DONA,40,14,Sabadell,'17,263900
+Baix Llobregat,N,FOQ,11,30,Abrera,'17,93462
+Vallès Oriental,S,JENP,41,4,Mollet del Vallès,'17,44000
+Baix Llobregat,N,REEM,11,15,Gavà,'17,3744.72
+Vallès Oriental,N,DONA,41,1,Montornès del Vallès,'17,19549
+Barcelonès,N,CIF,13,648,"Hospitalet de Llobregat, l'",'17,324421.82
+Vallès Occidental,N,IPIS,40,250,Rubí,'17,122192.42
+Barcelonès,N,APRE,13,138,Badalona,'17,26307.91
+Vallès Oriental,N,CC,41,15,Mollet del Vallès,'17,32013
+Vallès Occidental,N,FOQ,40,105,Barberà del Vallès,'17,223485
+Vallès Occidental,N,AODL,40,1,Barberà del Vallès,'17,24754.34
+Baix Llobregat,N,UBIC,11,210,Sant Boi de Llobregat,'17,93048
+Baix Llobregat,S,FEM,11,30,"Prat de Llobregat, el",'17,117600
+Vallès Occidental,N,30P,40,1,Palau-solità i Plegamans,'17,3538.08
+Barcelonès,N,SAC,13,160,Badalona,'17,76000
+Vallès Occidental,N,PRMI,40,7,Montcada i Reixac,'17,89264
+Vallès Occidental,N,DONA,40,2,Montcada i Reixac,'17,39148.8
+Baix Llobregat,N,UBIC,11,100,"Prat de Llobregat, el",'17,44480
+Vallès Occidental,N,IPIS,40,250,Cerdanyola del Vallès,'17,122192.42
+Barcelonès,N,FI45,13,11,Barcelona,'17,78069.43
+Vallès Oriental,N,DONA,41,1,"Llagosta, la",'17,19549
+Vallès Occidental,N,ENFE,40,9,Sant Cugat del Vallès,'17,199630.67
+Baix Llobregat,N,AODL,11,2,Molins de Rei,'17,54091.1
+Vallès Occidental,N,FOQ,40,45,Montcada i Reixac,'17,50427
+Vallès Oriental,N,FOQ,41,75,Caldes de Montbui,'17,132387
+Baix Llobregat,N,FEM,11,2,Martorell,'17,7099.75
+Baix Llobregat,N,FEM,11,19,Gavà,'17,54441.350000000006
+Baix Llobregat,N,ENFE,11,6,Gavà,'17,189726.2
+Vallès Oriental,N,TB,41,4,Canovelles,'17,57395.159999999996
+Barcelonès,N,CCFI,13,15,"Hospitalet de Llobregat, l'",'17,19725
+Vallès Oriental,S,SUMA,41,1,Parets del Vallès,'17,3931.2
+Baix Llobregat,S,XIMP,11,1,Esplugues de Llobregat,'17,19583.59
+Vallès Occidental,S,FEM,40,15,Cerdanyola del Vallès,'17,66000
+Baix Llobregat,N,FI45,11,1,Sant Just Desvern,'17,4500
+Vallès Occidental,N,FPOS,40,509,Cerdanyola del Vallès,'17,171130
+Vallès Occidental,N,COOR,40,1,Sant Cugat del Vallès,'17,28000
+Barcelonès,N,30P,13,30,Badalona,'17,132000
+Barcelonès,N,FPOT,13,2090,"Hospitalet de Llobregat, l'",'17,734600
+Vallès Oriental,N,IPIS,41,250,Mollet del Vallès,'17,122192.42
+Vallès Occidental,N,FEM,40,2,Sant Cugat del Vallès,'17,4914
+Barcelonès,N,SAC,13,80,Santa Coloma de Gramenet,'17,38000
+Barcelonès,N,SAC,13,7,Santa Coloma de Gramenet,'17,14910
+Baix Llobregat,N,IPIS,11,125,Sant Feliu de Llobregat,'17,61096.21
+Vallès Oriental,N,SAC,41,60,Mollet del Vallès,'17,28500
+Vallès Oriental,S,JENP,41,4,"Franqueses del Vallès, les",'17,44000
+Barcelonès,N,DONA,13,32,Barcelona,'17,619253.6
+Baix Llobregat,N,ENFE,11,9,Sant Boi de Llobregat,'17,281136.57
+Barcelonès,S,JENP,13,15,Badalona,'17,165000
+Barcelonès,N,30P,13,201,Barcelona,'17,830436.73
+Vallès Occidental,S,SUMA,40,2,Palau-solità i Plegamans,'17,3013.92
+Vallès Occidental,S,XIMP,40,1,Cerdanyola del Vallès,'17,21333.329999999998
+Baix Llobregat,N,IPIS,11,500,Cornellà de Llobregat,'17,244384.84
+Baix Llobregat,N,REEM,11,15,Sant Feliu de Llobregat,'17,3744.72
+Vallès Occidental,N,AODL,40,4,Rubí,'17,108182.2
+Vallès Occidental,N,UBIC,40,84,Cerdanyola del Vallès,'17,37363.2
+Baix Llobregat,S,PIGJ,11,105,Cornellà de Llobregat,'17,425160.73000000004
+Barcelonès,N,SAC,13,192,"Hospitalet de Llobregat, l'",'17,91200
+Vallès Occidental,N,AODL,40,4,Santa Perpètua de Mogoda,'17,108182.2
+Vallès Occidental,N,PRMI,40,40,Sabadell,'17,453840
+Barcelonès,N,CC,13,24,Barcelona,'17,104971.2
+Vallès Occidental,N,30P,40,2,Sant Quirze del Vallès,'17,10319.4
+Baix Llobregat,N,DONA,11,4,Cornellà de Llobregat,'17,77483.2
+Baix Llobregat,N,FPOT,11,160,Castelldefels,'17,30730
+Vallès Occidental,N,PIN,40,20,Terrassa,'17,191620.26
+Baix Llobregat,N,AODL,11,1,Corbera de Llobregat,'17,27045.55
+Vallès Oriental,S,PIGJ,41,16,Sant Celoni,'17,71605.87000000001
+Vallès Oriental,N,DONA,41,14,Granollers,'17,272260.4
+Vallès Oriental,N,PRMI,41,40,Granollers,'17,453840
+Vallès Oriental,S,JENP,41,1,Parets del Vallès,'17,11000
+Barcelonès,N,PRMI,13,80,Barcelona,'17,956931.65
+Barcelonès,N,SAC,13,960,Barcelona,'17,456000
+Baix Llobregat,N,FI45,11,1,Viladecans,'17,10800
+Baix Llobregat,N,UBIC,11,425,Sant Feliu de Llobregat,'17,186840
+Baix Llobregat,N,IPIS,11,250,Sant Vicenç dels Horts,'17,122192.42
+Vallès Occidental,S,SUMA,40,2,Ripollet,'17,5896.8
+Vallès Oriental,N,FOQ,41,822,Granollers,'17,1416786.9
+Baix Llobregat,N,DONA,11,1,Molins de Rei,'17,19197.4
+Baix Llobregat,N,FOQ,11,45,Sant Andreu de la Barca,'17,104641.5
+Baix Llobregat,N,ENFE,11,23,Sant Feliu de Llobregat,'17,616340.3
+Vallès Oriental,N,AODL,41,4,Mollet del Vallès,'17,108182.2
+Barcelonès,N,APRE,13,82,Sant Adrià de Besòs,'17,15784.740000000002
+Vallès Occidental,N,PRMI,40,8,Rubí,'17,94400
+Vallès Occidental,N,APRE,40,33,Ripollet,'17,5261.58
+Vallès Occidental,N,TB,40,838,Sabadell,'17,2077564.6
+Vallès Occidental,N,UBIC,40,125,Barberà del Vallès,'17,55600
+Baix Llobregat,N,FOQ,11,135,Sant Joan Despí,'17,232432.5
+Vallès Occidental,N,REEM,40,30,Terrassa,'17,7489.44
+Vallès Oriental,N,30P,41,4,Lliçà de Vall,'17,11880.09
+Vallès Occidental,N,TRFO,40,6,Badia del Vallès,'17,69864.2
+Vallès Oriental,N,30P,41,25,"Llagosta, la",'17,108370.08
+Baix Llobregat,N,FPOS,11,445,Cornellà de Llobregat,'17,149772
+Vallès Occidental,N,PRMI,40,50,Terrassa,'17,590162.3
+Vallès Oriental,N,TRFO,41,6,Parets del Vallès,'17,79774
+Baix Llobregat,N,TB,11,49,Martorell,'17,201632.2
+Baix Llobregat,N,FEM,11,16,Viladecans,'17,48323.28999999999
+Vallès Oriental,S,PIGJ,41,15,Montornès del Vallès,'17,42797.15
+Vallès Occidental,N,TRFO,40,9,Castellar del Vallès,'17,108399.1
+Barcelonès,N,30P,13,60,Santa Coloma de Gramenet,'17,264000
+Vallès Oriental,S,JENP,41,1,Santa Eulàlia de Ronçana,'17,11000
+Barcelonès,N,FOQ,13,1497,"Hospitalet de Llobregat, l'",'17,3364538.4
+Baix Llobregat,N,TRFO,11,8,Esparreguera,'17,103660
+Baix Llobregat,N,DONA,11,10,Sant Feliu de Llobregat,'17,191384.8
+Barcelonès,N,FOQ,13,75,Sant Adrià de Besòs,'17,81285
+Vallès Occidental,N,FPOS,40,1136,Terrassa,'17,363290
+Vallès Oriental,N,FOQ,41,40,Cardedeu,'17,76387.5
+Baix Llobregat,N,TRFO,11,7,Olesa de Montserrat,'17,91189.7
+Vallès Occidental,S,PIGJ,40,93,Sabadell,'17,558069.8600000001
+Barcelonès,N,FEM,13,9,Santa Coloma de Gramenet,'17,27226.89
+Vallès Occidental,N,ENFE,40,6,Montcada i Reixac,'17,181217.79
+Baix Llobregat,N,SAC,11,76,Sant Vicenç dels Horts,'17,36100
+Baix Llobregat,S,PIGJ,11,20,Sant Vicenç dels Horts,'17,89944.23
+Vallès Occidental,N,UBIC,40,346,Terrassa,'17,153700.8
+Vallès Occidental,N,30P,40,2,Polinyà,'17,7486
+Baix Llobregat,N,SAC,11,50,Sant Joan Despí,'17,27300
+Baix Llobregat,N,30P,11,6,Sant Joan Despí,'17,27983.309999999998
+Barcelonès,N,COOR,13,1,Sant Adrià de Besòs,'17,28000
+Baix Llobregat,N,FOQ,11,375,Cornellà de Llobregat,'17,809799
+Baix Llobregat,N,SAC,11,48,Castelldefels,'17,22800
+Vallès Oriental,N,TB,41,66,Granollers,'17,246395.91999999998
+Vallès Oriental,S,XIMP,41,2,Granollers,'17,50357.8
+Vallès Oriental,N,FEM,41,2,Sant Fost de Campsentelles,'17,5893.85
+Baix Llobregat,N,COOR,11,1,Viladecans,'17,28000
+Barcelonès,N,CC,13,15,Santa Coloma de Gramenet,'17,131214
+Baix Llobregat,N,TRFO,11,39,Sant Feliu de Llobregat,'17,497747.1
+Vallès Oriental,N,AODL,41,1,"Franqueses del Vallès, les",'17,25380.39
+Vallès Occidental,N,APRE,40,66,Sant Cugat del Vallès,'17,10523.16
+Vallès Oriental,N,DONA,41,1,"Franqueses del Vallès, les",'17,19218
+Vallès Oriental,S,JENP,41,1,Cardedeu,'17,11000
+Baix Llobregat,S,JENP,11,5,Sant Andreu de la Barca,'17,55000
+Barcelonès,N,APRE,13,66,Santa Coloma de Gramenet,'17,10523.16
+Baix Llobregat,S,JENP,11,1,Corbera de Llobregat,'17,11000
+Barcelonès,N,PI30,13,200,"Hospitalet de Llobregat, l'",'17,593855.73
+Baix Llobregat,N,PI30,11,42,Esparreguera,'17,114458.86
+Vallès Oriental,N,30P,41,12,Mollet del Vallès,'17,50431.119999999995
+Vallès Oriental,S,JENP,41,4,Lliçà d'Amunt,'17,44000
+Baix Llobregat,N,PRMI,11,2,Molins de Rei,'17,19257.4
+Vallès Occidental,S,TLN,40,20,Terrassa,'17,188307
+Vallès Oriental,N,FPOT,41,54,Sant Fost de Campsentelles,'17,16120
+Barcelonès,S,XIMP,13,1,Santa Coloma de Gramenet,'17,32000
+Baix Llobregat,N,SAC,11,76,Esplugues de Llobregat,'17,36100
+Vallès Oriental,N,TB,41,260,Montornès del Vallès,'17,313121.82
+Vallès Occidental,N,SAC,40,192,Terrassa,'17,91200
+Baix Llobregat,S,JENP,11,5,Martorell,'17,55000
+Vallès Occidental,N,TRFO,40,9,Barberà del Vallès,'17,117312
+Vallès Occidental,N,FOQ,40,420,Cerdanyola del Vallès,'17,927132
+Barcelonès,N,REEM,13,210,Barcelona,'17,52426.08
+Vallès Oriental,N,FEM,41,1,Montmeló,'17,1965.6
+Barcelonès,N,TRFO,13,15,Sant Adrià de Besòs,'17,184329.2
+Baix Llobregat,N,TRFO,11,6,Molins de Rei,'17,77664.4
+Baix Llobregat,N,PRMI,11,5,Sant Andreu de la Barca,'17,56655
+Baix Llobregat,N,COOR,11,1,Sant Boi de Llobregat,'17,28000
+Vallès Occidental,N,PIN,40,81,Santa Perpètua de Mogoda,'17,150000
+Baix Llobregat,N,FOQ,11,480,"Prat de Llobregat, el",'17,837555
+Barcelonès,N,TRFO,13,60,Santa Coloma de Gramenet,'17,735240
+Baix Llobregat,N,AODL,11,2,Castelldefels,'17,54091.1
+Baix Llobregat,N,REEM,11,10,Esplugues de Llobregat,'17,2496.48
+Baix Llobregat,N,PI30,11,50,Cornellà de Llobregat,'17,181644.29
+Barcelonès,S,JENP,13,14,"Hospitalet de Llobregat, l'",'17,154000
+Vallès Occidental,N,CIF,40,280,Sabadell,'17,311589.04
+Vallès Oriental,N,PI30,41,60,"Garriga, la",'17,121644.29
+Baix Llobregat,N,ENFE,11,9,Castelldefels,'17,229824.59
+Vallès Occidental,N,FPOT,40,139,Barberà del Vallès,'17,33500
+Vallès Oriental,N,SAC,41,24,"Garriga, la",'17,11400
+Vallès Oriental,N,AODL,41,2,Cardedeu,'17,53641.57
+Baix Llobregat,S,JENP,11,1,Begues,'17,11000
+Baix Llobregat,N,REEM,11,5,"Prat de Llobregat, el",'17,1248.24
+Baix Llobregat,N,FOQ,11,612,Castelldefels,'17,1302391.2
+Vallès Occidental,N,FOQ,40,30,Polinyà,'17,67870.5
+Vallès Oriental,N,FI45,41,1,Lliçà d'Amunt,'17,10800
+Barcelonès,S,FEM,13,40,Santa Coloma de Gramenet,'17,176000
+Baix Llobregat,S,SUMA,11,4,Viladecans,'17,15724.8
+Baix Llobregat,N,UBIC,11,100,Viladecans,'17,42880
+Vallès Oriental,N,FEM,41,10,"Llagosta, la",'17,23751
+Baix Llobregat,N,FOQ,11,270,Martorell,'17,548053.5
+Vallès Occidental,S,XIMP,40,3,Terrassa,'17,72880
+Vallès Occidental,N,SAC,40,208,Sabadell,'17,98800
+Barcelonès,N,DAM,13,135,"Hospitalet de Llobregat, l'",'17,285691.5
+Vallès Occidental,N,30P,40,5,Castellar del Vallès,'17,21405.77
+Vallès Oriental,S,SUMA,41,1,"Llagosta, la",'17,3931.2
+Barcelonès,N,PRMI,13,34,"Hospitalet de Llobregat, l'",'17,377750
+Vallès Oriental,S,XIMP,41,1,Mollet del Vallès,'17,21333.329999999998
+Baix Llobregat,N,PRMI,11,11,Sant Feliu de Llobregat,'17,134766.7
+Vallès Occidental,N,30P,40,3,Vacarisses,'17,11793.61
+Baix Llobregat,N,IPIS,11,125,Pallejà,'17,61096.21
+Vallès Occidental,N,CC,40,15,Sabadell,'17,131214
+Vallès Occidental,N,30P,40,1,Viladecavalls,'17,2489.7599999999998
+Vallès Occidental,S,SUMA,40,19,Rubí,'17,40294.5
+Vallès Occidental,N,REEM,40,15,Rubí,'17,3744.72
+Vallès Occidental,N,ENFE,40,6,Ripollet,'17,136791.06
+Vallès Occidental,N,FI45,40,1,Sabadell,'17,5400
+Vallès Oriental,N,TB,41,2,Figaró-Montmany,'17,21210
+Baix Llobregat,N,FEM,11,2,Sant Joan Despí,'17,7862.4
+Baix Llobregat,N,TB,11,27,Castelldefels,'17,350316.4
+Barcelonès,N,UBIC,13,600,Barcelona,'17,257280
+Vallès Occidental,S,JENP,40,6,Barberà del Vallès,'17,66000
+Baix Llobregat,N,REEM,11,15,Sant Boi de Llobregat,'17,3744.72
+Vallès Occidental,N,FI45,40,2,Sant Cugat del Vallès,'17,23800
+Vallès Occidental,N,TRFO,40,13,Montcada i Reixac,'17,168305.2
+Barcelonès,N,CIF,13,348,Barcelona,'17,182216.37999999998
+Vallès Oriental,N,TRFO,41,5,"Llagosta, la",'17,60174
+Vallès Oriental,S,FEM,41,11,Cardedeu,'17,48888
+Baix Llobregat,N,FOQ,11,162,Viladecans,'17,326382.7
+Vallès Oriental,N,FEM,41,2,Caldes de Montbui,'17,5896.4
+Vallès Oriental,S,JENP,41,9,Granollers,'17,99000
+Vallès Occidental,S,DPGJ,40,60,Sabadell,'17,3291
+Barcelonès,N,IPIS,13,500,Badalona,'17,244384.84
+Baix Llobregat,N,PRMI,11,7,"Prat de Llobregat, el",'17,75670
+Baix Llobregat,N,FPOT,11,120,Sant Esteve Sesrovires,'17,15000
+Vallès Occidental,N,PI30,40,150,Sabadell,'17,356219.6
+Baix Llobregat,S,JENP,11,12,"Prat de Llobregat, el",'17,132000
+Vallès Oriental,N,FPOS,41,714,Granollers,'17,226320
+Vallès Occidental,N,30P,40,69,Terrassa,'17,192588.11000000002
+Barcelonès,N,SAC,13,15,Barcelona,'17,15750
+Vallès Occidental,N,30P,40,25,Rubí,'17,110000
+Vallès Occidental,N,CCFI,40,30,Cerdanyola del Vallès,'17,82864.5
+Barcelonès,N,PI30,13,538,Barcelona,'17,2294366.8099999996
+Vallès Occidental,N,IPIS,40,625,Sabadell,'17,305481.05
+Baix Llobregat,N,TRFO,11,9,Sant Andreu de la Barca,'17,105770.5
+Vallès Oriental,N,REEM,41,40,Granollers,'17,9985.92
+Baix Llobregat,N,FPOT,11,375,Cornellà de Llobregat,'17,82792
+Baix Llobregat,N,APRE,11,66,Viladecans,'17,10523.16
+Vallès Occidental,N,30P,40,53,Sabadell,'17,213277.43
+Vallès Occidental,S,JENP,40,5,Montcada i Reixac,'17,55000
+Baix Llobregat,N,REEM,11,10,Viladecans,'17,2496.48
+Baix Llobregat,S,FEM,11,25,Gavà,'17,110000
+Baix Llobregat,S,JENP,11,8,Cornellà de Llobregat,'17,88000
+Barcelonès,N,FEM,13,101,Barcelona,'17,247714.86
+Barcelonès,S,JENP,13,78,Barcelona,'17,869000
+Vallès Occidental,N,30P,40,1,Montcada i Reixac,'17,838.66
+Vallès Occidental,N,UNIS,40,2867,Cerdanyola del Vallès,'17,424961.1
+Barcelonès,N,IPIS,13,125,Sant Adrià de Besòs,'17,61096.21
+Barcelonès,N,AODL,13,3,Barcelona,'17,81136.65000000001
+Barcelonès,N,30P,13,450,Barcelona,'17,1980000
+Baix Llobregat,N,PRMI,11,5,Sant Joan Despí,'17,56580
+Barcelonès,N,MINA,13,785,Barcelona,'17,250000
+Vallès Occidental,N,PI30,40,50,Badia del Vallès,'17,94740.87000000001
+Vallès Occidental,N,PRMI,40,5,Barberà del Vallès,'17,58967.4
+Vallès Oriental,N,UBIC,41,84,Granollers,'17,37363.2
+Vallès Oriental,N,FEM,41,1,Vilanova del Vallès,'17,3439.8
+Vallès Occidental,N,APRE,40,33,Terrassa,'17,5261.58
+Baix Llobregat,N,COOR,11,1,Castelldefels,'17,28000
+Vallès Oriental,N,IPIS,41,500,Granollers,'17,244384.84
+Barcelonès,S,FEM,13,40,Badalona,'17,176000
+Baix Llobregat,S,PIGJ,11,30,Esparreguera,'17,186877.5
+Vallès Occidental,N,FEM,40,5,Ripollet,'17,14772.47
+Baix Llobregat,N,ENFE,11,9,Viladecans,'17,264311.38
+Baix Llobregat,S,SUMA,11,11,Gavà,'17,33270.719999999994
+Baix Llobregat,N,30P,11,32,"Prat de Llobregat, el",'17,140800
+Barcelonès,N,DAM,13,870,Barcelona,'17,1227655.2
+Vallès Occidental,N,FEM,40,2,Castellar del Vallès,'17,6435.37
+Baix Llobregat,N,30P,11,25,Viladecans,'17,110034.33
+Vallès Occidental,N,TRFO,40,117,Terrassa,'17,1559317.3
+Barcelonès,N,FEM,13,19,Badalona,'17,52152.380000000005
+Baix Llobregat,S,JENP,11,9,Esplugues de Llobregat,'17,99000
+Vallès Occidental,N,FPOS,40,574,Sabadell,'17,169940
+Vallès Oriental,N,PI30,41,100,Mollet del Vallès,'17,271632.09
+Baix Llobregat,N,CC,11,15,Cornellà de Llobregat,'17,69646.5
+Vallès Oriental,N,AODL,41,2,Granollers,'17,54091.1
+Baix Llobregat,N,CCFI,11,37,Cornellà de Llobregat,'17,111780.2
+Baix Llobregat,N,TB,11,117,Sant Joan Despí,'17,252592.26
+Baix Llobregat,N,AODL,11,9,Sant Feliu de Llobregat,'17,243409.94999999998
+Vallès Oriental,N,FEM,41,10,Lliçà d'Amunt,'17,26901.2
+Vallès Occidental,N,FEM,40,7,Matadepera,'17,20835.36
+Vallès Oriental,N,DONA,41,1,Parets del Vallès,'17,19523.5
+Baix Llobregat,N,DONA,11,4,Viladecans,'17,76872.4
+Vallès Oriental,N,TRFO,41,6,"Franqueses del Vallès, les",'17,68408.6
+Baix Llobregat,N,UBIC,11,47,Sant Joan Despí,'17,20905.6
+Barcelonès,S,XIMP,13,2,Badalona,'17,40000
+Baix Llobregat,N,FOQ,11,105,Sant Feliu de Llobregat,'17,277873.5
+Vallès Occidental,S,FEM,40,30,Rubí,'17,132000
+Vallès Occidental,N,CCFI,40,15,Sabadell,'17,53902.5
+Vallès Oriental,N,TRFO,41,65,Granollers,'17,831887.9
+Baix Llobregat,N,AODL,11,2,Esplugues de Llobregat,'17,54091.1
+Baix Llobregat,S,SUMA,11,1,Sant Andreu de la Barca,'17,3931.2
+Vallès Occidental,S,FEM,40,40,Montcada i Reixac,'17,176000
+Vallès Occidental,N,COOR,40,1,Rubí,'17,28000
+Vallès Occidental,S,SUMA,40,2,Santa Perpètua de Mogoda,'17,7862.4
+Baix Llobregat,N,FOQ,11,90,Pallejà,'17,131659.5
+Barcelonès,N,FPOT,13,50615,Barcelona,'17,15786930
+Vallès Occidental,N,APRE,40,56,Sabadell,'17,10523.16
+Vallès Occidental,S,JENP,40,6,Badia del Vallès,'17,66000
+Vallès Oriental,N,PI30,41,50,Parets del Vallès,'17,135639.65
+Vallès Oriental,S,SUMA,41,3,Sant Fost de Campsentelles,'17,9828
+Baix Llobregat,N,ENFE,11,6,Esplugues de Llobregat,'17,124539.07
+Vallès Occidental,N,UBIC,40,175,Rubí,'17,77840
+Barcelonès,N,FPOS,13,32292,Barcelona,'17,10618738
+Baix Llobregat,N,SAC,11,20,Sant Andreu de la Barca,'17,9500
+Baix Llobregat,N,FPOT,11,667,"Prat de Llobregat, el",'17,111992
+Vallès Oriental,N,TB,41,221,Mollet del Vallès,'17,332975.71
+Vallès Occidental,S,JENP,40,1,Sant Quirze del Vallès,'17,11000
+Vallès Occidental,S,PIGJ,40,15,Montcada i Reixac,'17,69822.5
+Baix Llobregat,S,SUMA,11,1,"Papiol, el",'17,3931.2
+Barcelonès,N,REEM,13,10,Badalona,'17,2496.48
+Barcelonès,N,30P,13,60,"Hospitalet de Llobregat, l'",'17,264000
+Vallès Oriental,S,JENP,41,4,Montornès del Vallès,'17,44000
+Vallès Oriental,N,SAC,41,120,Granollers,'17,57000
+Baix Llobregat,N,CIF,11,281,Sant Feliu de Llobregat,'17,368159.43000000005
+Vallès Oriental,N,TB,41,6,Sant Feliu de Codines,'17,32142.960000000003
+Vallès Occidental,N,DONA,40,1,Badia del Vallès,'17,19460.7
+Vallès Occidental,N,FOQ,40,1223,Terrassa,'17,2356468.44
+Barcelonès,N,TB,13,632,Badalona,'17,954790.07
+Baix Llobregat,N,FEM,11,2,Sant Esteve Sesrovires,'17,3095.82
+Vallès Occidental,N,AODL,40,13,Terrassa,'17,351592.14999999997
+Vallès Occidental,N,30P,40,2,Barberà del Vallès,'17,5416.320000000001
+Baix Llobregat,N,30P,11,2,Sant Just Desvern,'17,7000.98
+Vallès Oriental,N,ENFE,41,9,Mollet del Vallès,'17,202335.6
+Barcelonès,N,AODL,13,11,"Hospitalet de Llobregat, l'",'17,297501.05
+Barcelonès,N,PRMI,13,9,Sant Adrià de Besòs,'17,97368.5
+Vallès Occidental,N,PRMI,40,5,Sant Cugat del Vallès,'17,56730
+Vallès Oriental,N,FPOT,41,126,Mollet del Vallès,'17,33520
+Barcelonès,N,UBIC,13,300,Santa Coloma de Gramenet,'17,131640
+Barcelonès,N,PIN,13,15,"Hospitalet de Llobregat, l'",'17,108428.45
+Vallès Oriental,N,DONA,41,1,Canovelles,'17,19233.4
+Baix Llobregat,N,AODL,11,3,Gavà,'17,81136.65000000001
+Baix Llobregat,S,XIMP,11,1,Gavà,'17,32000
+Baix Llobregat,N,FI45,11,1,Cornellà de Llobregat,'17,10800
+Barcelonès,N,DONA,13,2,Sant Adrià de Besòs,'17,38436.2
+Baix Llobregat,N,PIN,11,200,Castelldefels,'17,66901.63
+Baix Llobregat,S,SUMA,11,2,Sant Feliu de Llobregat,'17,6289.92
+Vallès Oriental,N,TB,41,4,Caldes de Montbui,'17,54811.44
+Baix Llobregat,S,JENP,11,6,Sant Feliu de Llobregat,'17,66000
+Baix Llobregat,S,DPGJ,11,298,Cornellà de Llobregat,'17,41190.5
+Barcelonès,N,TRFO,13,170,Barcelona,'17,2176783.4
+Baix Llobregat,N,PRMI,11,7,Olesa de Montserrat,'17,79315.6
+Baix Llobregat,N,AODL,11,1,Vallirana,'17,27045.55
+Vallès Occidental,N,AODL,40,1,Castellar del Vallès,'17,27045.55
+Vallès Occidental,N,DONA,40,2,Santa Perpètua de Mogoda,'17,39047
+Vallès Occidental,N,FEM,40,73,Terrassa,'17,172543.54
+Barcelonès,N,IPIS,13,2375,Barcelona,'17,1160827.99
+Baix Llobregat,N,30P,11,19,Sant Boi de Llobregat,'17,64983.36
+Vallès Occidental,S,JENP,40,14,Sabadell,'17,154000
+Vallès Occidental,N,SAC,40,52,Barberà del Vallès,'17,24700
+Baix Llobregat,N,UBIC,11,98,Castelldefels,'17,43590.4
+Baix Llobregat,N,AODL,11,5,Viladecans,'17,135227.75
+Vallès Occidental,S,PIGJ,40,15,Ripollet,'17,70393.75
+Vallès Occidental,N,SAC,40,32,Sant Cugat del Vallès,'17,15200
+Vallès Occidental,N,COOR,40,3,Sabadell,'17,84000
+Vallès Oriental,S,SUMA,41,1,Santa Eulàlia de Ronçana,'17,2948.4
+Barcelonès,S,XIMP,13,2,"Hospitalet de Llobregat, l'",'17,37333.33
+Vallès Oriental,S,JENP,41,1,Bigues i Riells,'17,11000
+Baix Llobregat,N,REEM,11,25,Martorell,'17,6241.2
+Vallès Occidental,N,FEM,40,34,Sabadell,'17,102824.25
+Baix Llobregat,N,TRFO,11,20,Viladecans,'17,243662
+Vallès Oriental,N,30P,41,1,Tagamanent,'17,294.84000000000003
+Vallès Occidental,S,SUMA,40,1,Sant Quirze del Vallès,'17,3931.2
+Baix Llobregat,N,TB,11,227,Sant Boi de Llobregat,'17,836590.13
+Barcelonès,S,PIGJ,13,83,Badalona,'17,348977.61
+Barcelonès,N,PRMI,13,50,Badalona,'17,589879.3
+Baix Llobregat,N,REEM,11,5,Sant Vicenç dels Horts,'17,1248.24
+Vallès Occidental,N,REEM,40,10,Sant Cugat del Vallès,'17,2496.48
+Vallès Oriental,N,FEM,41,2,"Franqueses del Vallès, les",'17,4504.5
+Baix Llobregat,N,SAC,11,48,Viladecans,'17,22800
+Barcelonès,S,SUMA,13,1,Sant Adrià de Besòs,'17,1985.45
+Vallès Occidental,N,FOQ,40,45,Castellar del Vallès,'17,95662.5
+Vallès Occidental,N,DONA,40,2,Barberà del Vallès,'17,38765
+Barcelonès,S,TLN,13,25,Badalona,'17,339460
+Vallès Occidental,N,PI30,40,50,Barberà del Vallès,'17,97621.59
+Barcelonès,S,XIMP,13,14,Barcelona,'17,304000
+Vallès Oriental,N,AODL,41,1,Canovelles,'17,27045.55
+Vallès Oriental,S,JENP,41,1,"Llagosta, la",'17,11000
+Baix Llobregat,N,AODL,11,2,Sant Joan Despí,'17,54091.1
+Vallès Occidental,N,30P,40,1,Ripollet,'17,5547.41
+Barcelonès,S,JENP,13,11,Santa Coloma de Gramenet,'17,121000
+Barcelonès,N,FOQ,13,5214,Barcelona,'17,11993961.18
+Vallès Occidental,N,REEM,40,15,Cerdanyola del Vallès,'17,3744.72
+Barcelonès,N,CIF,13,127,Barcelona,'17,195524.83
+Vallès Occidental,N,AODL,40,1,Ripollet,'17,27045.55
+Baix Llobregat,N,UBIC,11,39,Sant Vicenç dels Horts,'17,16723.2
+Vallès Occidental,N,IPIS,40,375,Terrassa,'17,183288.63
+Vallès Oriental,S,PIGJ,41,30,Mollet del Vallès,'17,159332.91
+Vallès Oriental,N,30P,41,38,Granollers,'17,159707.5
+Vallès Occidental,N,ENFE,40,9,Cerdanyola del Vallès,'17,238757.76
+Vallès Occidental,S,JENP,40,23,Terrassa,'17,253000
+Baix Llobregat,N,TB,11,7,Gavà,'17,66669.1
+Vallès Occidental,S,SUMA,40,2,Cerdanyola del Vallès,'17,4422.6
+Vallès Occidental,N,PIN,40,40,Sant Cugat del Vallès,'17,109161.32
+Barcelonès,S,SUMA,13,55,Barcelona,'17,158741.47
+Vallès Occidental,N,COOR,40,1,Ripollet,'17,28000
+Baix Llobregat,N,30P,11,1,Esplugues de Llobregat,'17,4422.6
+Baix Llobregat,N,SAC,11,80,Martorell,'17,38000
+Baix Llobregat,N,AUTO,11,302,Martorell,'17,340254.55
+Baix Llobregat,S,FEM,11,25,Viladecans,'17,110000
+Barcelonès,N,PI30,13,50,Santa Coloma de Gramenet,'17,177534.29
+Barcelonès,N,FI45,13,1,Sant Adrià de Besòs,'17,13081.26
+Baix Llobregat,S,PIGJ,11,45,"Prat de Llobregat, el",'17,230222.4
+Vallès Oriental,N,DONA,41,3,Mollet del Vallès,'17,56460
+Baix Llobregat,S,FEM,11,15,Castelldefels,'17,66000
+Vallès Oriental,N,30P,41,5,Parets del Vallès,'17,17945.82
+Vallès Occidental,N,FEM,40,1,Palau-solità i Plegamans,'17,2948.4
+Barcelonès,N,TB,13,262,"Hospitalet de Llobregat, l'",'17,871560.8300000001
+Vallès Oriental,N,FOQ,41,90,"Franqueses del Vallès, les",'17,130062
+Vallès Occidental,N,FEM,40,3,Sant Quirze del Vallès,'17,9148.89
+Vallès Oriental,N,FPOT,41,432,Granollers,'17,53180
+Baix Llobregat,N,DAM,11,15,Cornellà de Llobregat,'17,31524
+Baix Llobregat,N,FOQ,11,210,Gavà,'17,295557
+Barcelonès,N,UNIS,13,7869,Barcelona,'17,1166382.56
+Vallès Occidental,S,FEM,40,38,Sabadell,'17,167200
+Baix Llobregat,N,DONA,11,3,Gavà,'17,57612.9
+Barcelonès,N,APRE,13,138,"Hospitalet de Llobregat, l'",'17,26307.91
+Vallès Occidental,S,SUMA,40,12,Terrassa,'17,32743.62
+Baix Llobregat,N,FEM,11,8,Sant Feliu de Llobregat,'17,27400.440000000002
+Baix Llobregat,N,FI45,11,2,Castelldefels,'17,14998.4
+Vallès Occidental,N,COOR,40,1,Barberà del Vallès,'17,28000
+Baix Llobregat,N,CC,11,15,"Prat de Llobregat, el",'17,131214
+Baix Llobregat,N,COOR,11,1,"Prat de Llobregat, el",'17,28000
+Barcelonès,N,FOQ,13,975,Santa Coloma de Gramenet,'17,1965334.5
+Baix Llobregat,N,UBIC,11,47,Gavà,'17,20905.6
+Baix Llobregat,N,CIF,11,171,Sant Feliu de Llobregat,'17,331078.99000000005
+Baix Llobregat,S,SUMA,11,9,Sant Joan Despí,'17,26411.12
+Barcelonès,N,DAM,13,255,Santa Coloma de Gramenet,'17,772749
+Baix Llobregat,N,30P,11,2,Gavà,'17,11156.740000000002
+Vallès Occidental,N,REEM,40,10,Barberà del Vallès,'17,2496.48
+Baix Llobregat,N,FEM,11,1,Cervelló,'17,2948.4
+Vallès Occidental,N,FEM,40,1,Sentmenat,'17,1965.6
+Vallès Occidental,N,TRFO,40,15,Cerdanyola del Vallès,'17,200095
+Barcelonès,N,TRFO,13,85,"Hospitalet de Llobregat, l'",'17,1059983.5
+Baix Llobregat,N,FOQ,11,215,Sant Boi de Llobregat,'17,421576.5
+Baix Llobregat,N,IPIS,11,125,Martorell,'17,61096.21
+Vallès Oriental,N,FEM,41,3,Sant Antoni de Vilamajor,'17,10613.94
+Barcelonès,N,30P,13,26,Badalona,'17,108546.09
+Baix Llobregat,S,SUMA,11,4,Sant Boi de Llobregat,'17,12143.04
+Vallès Occidental,N,30P,40,4,Sant Cugat del Vallès,'17,12328.240000000002
+Vallès Occidental,S,SUMA,40,2,Sant Cugat del Vallès,'17,4914
+Vallès Occidental,N,FPOS,40,576,Barberà del Vallès,'17,189322
+Baix Llobregat,N,30P,11,20,"Prat de Llobregat, el",'17,84152.87000000001
+Vallès Occidental,S,PIGJ,40,115,Terrassa,'17,709454.1699999999
+Baix Llobregat,N,30P,11,15,Castelldefels,'17,65220.9
+Baix Llobregat,N,PRMI,11,5,Sant Vicenç dels Horts,'17,56655
+Baix Llobregat,N,TB,11,155,Olesa de Montserrat,'17,106273.48
+Barcelonès,N,TRFO,13,84,Badalona,'17,1082705.9
+Vallès Oriental,N,SAC,41,20,Parets del Vallès,'17,9500
+Vallès Oriental,N,PRMI,41,7,Mollet del Vallès,'17,75460
+Vallès Oriental,N,FPOS,41,291,Mollet del Vallès,'17,137980
+Baix Llobregat,S,JENP,11,5,Viladecans,'17,55000
+Baix Llobregat,N,30P,11,20,Castelldefels,'17,88000
+Barcelonès,N,COOR,13,3,Badalona,'17,60666.659999999996
+Baix Llobregat,N,TB,11,225,Cornellà de Llobregat,'17,148693.17
+Barcelonès,N,CIF,13,138,Santa Coloma de Gramenet,'17,214154.44
+Vallès Occidental,N,TRFO,40,7,Santa Perpètua de Mogoda,'17,89764.5
+Vallès Oriental,N,FEM,41,2,"Ametlla del Vallès, l'",'17,5896.8
+Barcelonès,N,PRMI,13,18,Santa Coloma de Gramenet,'17,226200
+Baix Llobregat,N,AODL,11,2,Martorell,'17,53807.950000000004
+Vallès Occidental,N,TRFO,40,70,Sabadell,'17,876712.3
+Vallès Occidental,N,FPOT,40,247,Cerdanyola del Vallès,'17,71740
+Barcelonès,S,FEM,13,120,Barcelona,'17,524096
+Vallès Occidental,N,PRMI,40,5,Castellar del Vallès,'17,58683
+Baix Llobregat,N,PRMI,11,11,Cornellà de Llobregat,'17,122600
+Barcelonès,N,FEM,13,16,"Hospitalet de Llobregat, l'",'17,37027.310000000005
+Vallès Occidental,N,UBIC,40,61,Ripollet,'17,27132.8
+Vallès Occidental,N,30P,40,3,Castellbisbal,'17,9170.07
+Vallès Oriental,N,FEM,41,8,Granollers,'17,23751
+Barcelonès,N,DONA,13,15,"Hospitalet de Llobregat, l'",'17,293077.5
+Baix Llobregat,S,XIMP,11,1,Castelldefels,'17,32000
+Vallès Occidental,N,FEM,40,3,Barberà del Vallès,'17,7521.7
+Vallès Occidental,N,PRMI,40,7,Cerdanyola del Vallès,'17,81020.8
+Barcelonès,N,REEM,13,5,Sant Adrià de Besòs,'17,1248.24
+Barcelonès,S,SUMA,13,3,"Hospitalet de Llobregat, l'",'17,11515.47
+Barcelonès,N,TB,13,2106,Barcelona,'17,4434403.67
+Barcelonès,N,FPOS,13,716,Badalona,'17,250842
+Vallès Oriental,N,FI45,41,1,Mollet del Vallès,'17,10800
+Baix Llobregat,N,FEM,11,3,Sant Andreu de la Barca,'17,8845.2
+Vallès Oriental,N,TRFO,41,21,Mollet del Vallès,'17,254520
+Vallès Occidental,N,FOQ,40,60,Badia del Vallès,'17,175747.5
+Baix Llobregat,N,COOR,11,2,Sant Feliu de Llobregat,'17,56000
+Baix Llobregat,S,SUMA,11,5,Cornellà de Llobregat,'17,17100.72
+Vallès Oriental,N,TRFO,41,7,Canovelles,'17,87733.8
+Barcelonès,N,DONA,13,16,Badalona,'17,309751.1
+Baix Llobregat,N,TRFO,11,16,Castelldefels,'17,206752.8
+Baix Llobregat,S,JENP,11,5,Sant Boi de Llobregat,'17,55000
+Baix Llobregat,N,DONA,11,1,Esparreguera,'17,18820
+Barcelonès,N,CIF,13,147,Santa Coloma de Gramenet,'17,113838.12000000001
+Baix Llobregat,N,COOR,11,2,Cornellà de Llobregat,'17,44333.33
+Baix Llobregat,N,FEM,11,2,Abrera,'17,6747.9
+Baix Llobregat,S,SUMA,11,1,Molins de Rei,'17,2948.4
+Barcelonès,S,PIGJ,13,40,Santa Coloma de Gramenet,'17,193696.47999999998
+Vallès Occidental,N,FEM,40,31,Rubí,'17,68600.3
+Baix Llobregat,N,FEM,11,1,Molins de Rei,'17,2457
+Vallès Occidental,N,TB,40,74,Rubí,'17,134268.26
+Baix Llobregat,N,TB,11,412,Esplugues de Llobregat,'17,234353.49
+Vallès Oriental,N,FOQ,41,45,Sant Celoni,'17,85932
+Baix Llobregat,N,FEM,11,7,Castelldefels,'17,26044.2
+Baix Llobregat,N,PRMI,11,7,Viladecans,'17,75460
+Vallès Occidental,S,XIMP,40,1,Sant Cugat del Vallès,'17,32000
+Baix Llobregat,N,PRMI,11,7,Gavà,'17,75460
+Vallès Occidental,S,JENP,40,4,Castellar del Vallès,'17,44000
+Vallès Occidental,N,DONA,40,6,Rubí,'17,115153.2
+Baix Llobregat,N,FOQ,11,15,Vallirana,'17,34857
+Vallès Occidental,N,CC,40,30,Cerdanyola del Vallès,'17,73147.5
+Vallès Occidental,N,PI30,40,100,Terrassa,'17,368690.08
+Baix Llobregat,N,TRFO,11,26,Sant Boi de Llobregat,'17,330830.6
+Barcelonès,N,COOR,13,3,Barcelona,'17,84000
+Baix Llobregat,N,30P,11,1,Corbera de Llobregat,'17,4856.01
+Vallès Oriental,N,FEM,41,1,Parets del Vallès,'17,3570.51
+Vallès Occidental,S,SUMA,40,2,Sabadell,'17,4709.25
+Vallès Occidental,S,PIGJ,40,15,Rubí,'17,83250
+Vallès Occidental,S,FEM,40,100,Terrassa,'17,440000
+Baix Llobregat,N,AODL,11,2,Sant Vicenç dels Horts,'17,54091.1
+Vallès Occidental,N,FI45,40,4,Terrassa,'17,24294.38
+Vallès Occidental,N,COOR,40,1,Cerdanyola del Vallès,'17,28000
+Vallès Occidental,N,PI30,40,100,Cerdanyola del Vallès,'17,153919.55
+Vallès Oriental,N,30P,41,1,Caldes de Montbui,'17,2457
+Vallès Occidental,N,ENFE,40,6,Barberà del Vallès,'17,123824.1
+Vallès Oriental,N,FEM,41,3,Lliçà de Vall,'17,9686.48
+Baix Llobregat,N,DAM,11,75,Castelldefels,'17,264390
+Vallès Oriental,N,DONA,41,1,Cardedeu,'17,19523.5
+Vallès Occidental,N,ENFE,40,31,Terrassa,'17,844952.06
+Vallès Occidental,S,XIMP,40,1,Rubí,'17,32000
+Baix Llobregat,N,TRFO,11,13,Gavà,'17,165229
+Baix Llobregat,N,ENFE,11,6,Sant Joan Despí,'17,132319.84
+Vallès Occidental,N,30P,40,2,Matadepera,'17,6158.88
+Baix Llobregat,N,AODL,11,3,Cornellà de Llobregat,'17,81136.65000000001
+Barcelonès,N,CCFI,13,60,Barcelona,'17,203238
+Baix Llobregat,N,FPOS,11,627,"Prat de Llobregat, el",'17,189575
+Baix Llobregat,N,TRFO,11,17,"Prat de Llobregat, el",'17,215423.9
+Baix Llobregat,S,JENP,11,1,Sant Climent de Llobregat,'17,11000
+Baix Llobregat,N,FI45,11,1,Martorell,'17,10800
+Vallès Oriental,S,PIGJ,41,110,Granollers,'17,548803.5
+Vallès Oriental,S,SUMA,41,1,Granollers,'17,2063.88
+Baix Llobregat,N,DONA,11,13,Sant Boi de Llobregat,'17,249835.3
+Vallès Occidental,N,SAC,40,32,Cerdanyola del Vallès,'17,15200
+Baix Llobregat,N,DONA,11,1,Sant Joan Despí,'17,18820
+Baix Llobregat,N,ENFE,11,9,"Prat de Llobregat, el",'17,222633.25
+Baix Llobregat,N,SAC,11,192,Cornellà de Llobregat,'17,91200
+Vallès Oriental,N,FEM,41,4,Montornès del Vallès,'17,11302.2
+Vallès Occidental,N,TRFO,40,20,Sant Cugat del Vallès,'17,236300
+Vallès Occidental,N,DAM,40,45,Terrassa,'17,90798
+Vallès Occidental,N,IPIS,40,125,Montcada i Reixac,'17,61096.21
+Vallès Occidental,N,FEM,40,22,Montcada i Reixac,'17,65970.78
+Barcelonès,S,PIGJ,13,414,Barcelona,'17,2136223.34
+Vallès Occidental,S,JENP,40,4,Sant Cugat del Vallès,'17,44000
+Baix Llobregat,N,DAM,11,165,"Prat de Llobregat, el",'17,222318
+Baix Llobregat,N,AODL,11,1,Sant Just Desvern,'17,27045.55
+Baix Llobregat,N,30P,11,1,Molins de Rei,'17,5674.2
+Baix Llobregat,N,DONA,11,1,Martorell,'17,19549
+Vallès Occidental,S,SUMA,40,4,Barberà del Vallès,'17,7862.4
+Barcelonès,N,AODL,13,10,Santa Coloma de Gramenet,'17,262999.1
+Vallès Oriental,N,FEM,41,3,Cardedeu,'17,7163.52
+Vallès Oriental,N,TRFO,41,6,Sant Celoni,'17,78704.8
+Baix Llobregat,N,IPIS,11,125,Esplugues de Llobregat,'17,61096.21
+Vallès Occidental,N,30P,40,80,Sabadell,'17,352000
+Vallès Occidental,N,PRMI,40,7,Badia del Vallès,'17,75565
+Vallès Oriental,N,TRFO,41,6,Montornès del Vallès,'17,79774
+Vallès Occidental,N,COOR,40,1,Montcada i Reixac,'17,28000
+Vallès Occidental,N,CCFI,40,15,Terrassa,'17,27084
+Barcelonès,S,TLN,13,54,Barcelona,'17,481082
+Vallès Oriental,N,CC,41,24,Granollers,'17,104971.2
+Vallès Occidental,N,CC,40,30,Sant Cugat del Vallès,'17,66606
+Vallès Occidental,S,JENP,40,5,Cerdanyola del Vallès,'17,55000
+Baix Llobregat,N,FOQ,11,225,Sant Just Desvern,'17,512563.5
+Vallès Occidental,N,TB,40,6,Montcada i Reixac,'17,81738.95999999999
+Barcelonès,N,APRE,13,123,Barcelona,'17,183328.5
+Vallès Oriental,N,FOQ,41,480,Mollet del Vallès,'17,1027777.5
+Baix Llobregat,N,FEM,11,19,Cornellà de Llobregat,'17,60604.58
+Vallès Occidental,N,FEM,40,30,Cerdanyola del Vallès,'17,46404.54
+Vallès Occidental,N,FPOS,40,117,Sant Cugat del Vallès,'17,31280
+Vallès Occidental,N,FEM,40,2,Polinyà,'17,2653.56
+Baix Llobregat,N,FPOS,11,193,Castelldefels,'17,46600
+Barcelonès,N,PI30,13,25,Badalona,'17,65125
+Baix Llobregat,N,30P,11,11,Cornellà de Llobregat,'17,43934.21
+Vallès Oriental,N,30P,41,2,Sant Fost de Campsentelles,'17,5896.8
+Vallès Occidental,S,XIMP,40,2,Sabadell,'17,42666.67
+Vallès Occidental,N,30P,40,2,Sentmenat,'17,10769.03
+Vallès Occidental,N,FOQ,40,375,Rubí,'17,924192
+Barcelonès,S,PIGJ,13,85,"Hospitalet de Llobregat, l'",'17,490722.78
+Vallès Oriental,N,SAC,41,24,Sant Celoni,'17,11400
+Vallès Occidental,N,FI45,40,1,Barberà del Vallès,'17,10800
+Barcelonès,N,ENFE,13,6,Sant Adrià de Besòs,'17,91145.27
+Baix Llobregat,S,XIMP,11,1,Sant Boi de Llobregat,'17,21333.329999999998
+Vallès Occidental,N,TRFO,40,27,Rubí,'17,334075.6
+Vallès Occidental,N,SAC,40,32,Montcada i Reixac,'17,15200
+Barcelonès,N,FPOS,13,417,"Hospitalet de Llobregat, l'",'17,156356
+Baix Llobregat,N,30P,11,40,Viladecans,'17,176000
+Baix Llobregat,N,DONA,11,3,Esplugues de Llobregat,'17,56460
+Vallès Occidental,N,CC,40,15,Rubí,'17,131214
+Vallès Oriental,N,30P,41,1,"Garriga, la",'17,2948.4
+Baix Llobregat,N,FPOT,11,60,Pallejà,'17,12960
+Baix Llobregat,N,30P,11,1,Begues,'17,4422.6
+Baix Llobregat,N,AODL,11,1,Pallejà,'17,25518.25
+Barcelonès,N,DONA,13,12,Santa Coloma de Gramenet,'17,225840
+Vallès Occidental,N,DONA,40,3,Cerdanyola del Vallès,'17,58570.5
+Vallès Occidental,N,PRMI,40,6,Santa Perpètua de Mogoda,'17,66020
+Vallès Occidental,N,30P,40,1,Rellinars,'17,3931.2
+Baix Llobregat,N,DONA,11,2,Sant Vicenç dels Horts,'17,38394.8
+Barcelonès,S,SUMA,13,6,Badalona,'17,9478.56
+Vallès Occidental,N,REEM,40,30,Sabadell,'17,7489.44
+Barcelonès,N,30P,13,2,Sant Adrià de Besòs,'17,8333.07
+Vallès Oriental,S,FEM,41,41,Granollers,'17,180888
+Baix Llobregat,S,JENP,11,4,Molins de Rei,'17,44000
+Baix Llobregat,N,FOQ,11,120,Molins de Rei,'17,191488.5
+Baix Llobregat,N,30P,11,20,Sant Boi de Llobregat,'17,88000
+Baix Llobregat,N,FEM,11,12,Sant Boi de Llobregat,'17,31862.6
+Vallès Occidental,N,UBIC,40,350,Sabadell,'17,153080
+Baix Llobregat,N,30P,11,1,Sant Feliu de Llobregat,'17,4422.6
+Baix Llobregat,N,DONA,11,4,"Prat de Llobregat, el",'17,78094
+Barcelonès,N,REEM,13,20,Santa Coloma de Gramenet,'17,4992.96
+Baix Llobregat,N,TRFO,11,28,Cornellà de Llobregat,'17,354782.4
+Baix Llobregat,S,FEM,11,28,Sant Feliu de Llobregat,'17,123200
+Barcelonès,S,SUMA,13,1,Santa Coloma de Gramenet,'17,982.8
+Vallès Occidental,N,DONA,40,1,Castellar del Vallès,'17,19538.5
+Baix Llobregat,S,XIMP,11,1,Cornellà de Llobregat,'17,31442.2
+Vallès Occidental,N,UBIC,40,141,Sant Cugat del Vallès,'17,62716.8
+Barcelonès,N,TB,13,1081,Santa Coloma de Gramenet,'17,2381629.58
+Baix Llobregat,S,JENP,11,5,Sant Joan Despí,'17,55000
+Baix Llobregat,N,REEM,11,10,Cornellà de Llobregat,'17,2496.48
+Baix Llobregat,N,TRFO,11,12,Esplugues de Llobregat,'17,155577.2
+Barcelonès,N,IPIS,13,250,Santa Coloma de Gramenet,'17,122192.42
+Vallès Occidental,N,TRFO,40,15,Ripollet,'17,184912
+Vallès Oriental,N,30P,41,20,Mollet del Vallès,'17,88000
+Baix Llobregat,N,FOQ,11,90,Sant Esteve Sesrovires,'17,171801
+Baix Llobregat,S,JENP,11,5,Castelldefels,'17,55000
+Barcelonès,N,CIF,13,525,Barcelona,'18,265913.6
+Vallès Occidental,N,PRMI,40,5,Barberà del Vallès,'18,49924
+Vallès Occidental,S,PSGJ,40,20,Ripollet,'18,42948
+Baix Llobregat,N,ENFE,11,11,"Prat de Llobregat, el",'18,307757.67
+Vallès Occidental,S,PSGJ,40,208,Terrassa,'18,1352463.8900000001
+Barcelonès,N,PRMI,13,43,Badalona,'18,470597.3
+Baix Llobregat,N,IPIS,11,125,Sant Vicenç dels Horts,'18,60000
+Vallès Occidental,N,30P,40,2,Cerdanyola del Vallès,'18,7247.120000000001
+Vallès Occidental,S,NOGJ,40,45,Sabadell,'18,483380.68
+Baix Llobregat,N,TRFO,11,33,Sant Feliu de Llobregat,'18,427632.8
+Baix Llobregat,N,IPIS,11,125,Sant Feliu de Llobregat,'18,60000
+Vallès Oriental,S,REFE,41,2,Granollers,'18,64000
+Barcelonès,N,IPIS,13,125,Sant Adrià de Besòs,'18,60000
+Barcelonès,N,COOR,13,1,Sant Adrià de Besòs,'18,32528.960000000003
+Baix Llobregat,N,30P,11,5,Sant Just Desvern,'18,15696.91
+Vallès Occidental,N,TRFO,40,103,Terrassa,'18,1398613.6
+Vallès Occidental,S,JENP,40,4,Castellar del Vallès,'18,44000
+Vallès Occidental,N,COOR,40,1,Cerdanyola del Vallès,'18,32528.960000000003
+Vallès Oriental,S,JENP,41,4,Sant Celoni,'18,44000
+Vallès Oriental,S,FEM,41,1,Llinars del Vallès,'18,3791.32
+Vallès Oriental,S,PSGJ,41,12,Cardedeu,'18,93797.11
+Barcelonès,N,TRFO,13,59,Santa Coloma de Gramenet,'18,711714.8
+Vallès Oriental,S,FEM,41,1,Santa Eulàlia de Ronçana,'18,3184.2
+Vallès Oriental,N,30P,41,4,Lliçà de Vall,'18,24389.649999999998
+Baix Llobregat,N,PIN,11,150,Castelldefels,'18,99917.6
+Baix Llobregat,N,DONA,11,1,Olesa de Montserrat,'18,19652.8
+Barcelonès,S,FEM,13,6,Sant Adrià de Besòs,'18,16609.84
+Vallès Occidental,S,FEM,40,5,Cerdanyola del Vallès,'18,15867.93
+Barcelonès,N,PRMI,13,11,Sant Adrià de Besòs,'18,128460.8
+Barcelonès,S,PSGJ,13,20,Sant Adrià de Besòs,'18,59853
+Vallès Occidental,S,REFE,40,4,Terrassa,'18,128000
+Vallès Occidental,N,30P,40,18,Rubí,'18,86640.04
+Baix Llobregat,N,TB,11,100,Olesa de Montserrat,'18,45701.5
+Baix Llobregat,N,IPIS,11,375,Cornellà de Llobregat,'18,180000
+Vallès Occidental,N,DONA,40,3,Barberà del Vallès,'18,58094.4
+Vallès Oriental,N,30P,41,14,Mollet del Vallès,'18,57636.340000000004
+Baix Llobregat,N,SAC,11,80,Castelldefels,'18,40000
+Baix Llobregat,N,REEM,11,5,Sant Vicenç dels Horts,'18,1248.24
+Vallès Occidental,N,FI45,40,1,Cerdanyola del Vallès,'18,3004.92
+Baix Llobregat,N,UBIC,11,40,Sant Joan Despí,'18,75491.35
+Baix Llobregat,N,IPIS,11,125,Viladecans,'18,60000
+Vallès Oriental,S,FEM,41,2,Martorelles,'18,7713.1900000000005
+Vallès Occidental,N,ARIF,40,125,Terrassa,'18,64850
+Vallès Occidental,N,DONA,40,7,Rubí,'18,134520.4
+Barcelonès,N,ENFE,13,21,Badalona,'18,594234.26
+Baix Llobregat,N,FPOS,11,2082,"Prat de Llobregat, el",'18,489009.29000000004
+Barcelonès,N,REEM,13,22,Santa Coloma de Gramenet,'18,4992.96
+Vallès Occidental,N,AMAP,40,60,Sabadell,'18,121500
+Vallès Oriental,S,FEM,41,2,Caldes de Montbui,'18,7258.91
+Barcelonès,S,TLN,13,25,Santa Coloma de Gramenet,'18,346712
+Vallès Oriental,N,FOQ,41,45,Sant Celoni,'18,136977
+Baix Llobregat,N,TB,11,225,Cornellà de Llobregat,'18,153272.84999999998
+Baix Llobregat,N,PRMI,11,5,Martorell,'18,49258
+Vallès Occidental,N,DONA,40,3,Sant Cugat del Vallès,'18,57651.6
+Barcelonès,N,SAC,13,240,Badalona,'18,120000
+Barcelonès,N,COOR,13,3,"Hospitalet de Llobregat, l'",'18,97586.88
+Baix Llobregat,S,PSGJ,11,22,Castelldefels,'18,77655.56
+Barcelonès,N,30P,13,30,Badalona,'18,132522.07
+Vallès Oriental,N,TB,41,4,Caldes de Montbui,'18,54895.53
+Vallès Occidental,N,ENFE,40,8,Barberà del Vallès,'18,230520.65
+Barcelonès,N,FI45,13,3,Barcelona,'18,30907.8
+Vallès Oriental,N,30P,41,4,Cardedeu,'18,24939.53
+Baix Llobregat,N,REEM,11,11,Viladecans,'18,2496.48
+Vallès Oriental,N,FI45,41,2,Lliçà de Vall,'18,20605.2
+Barcelonès,N,FI45,13,1,"Hospitalet de Llobregat, l'",'18,10302.6
+Vallès Oriental,N,ACOL,41,2,Granollers,'18,38729.6
+Baix Llobregat,N,COOR,11,1,Castelldefels,'18,32528.960000000003
+Baix Llobregat,N,TB,11,5,Gavà,'18,67311.9
+Vallès Occidental,S,JENP,40,6,Sant Cugat del Vallès,'18,66000
+Vallès Oriental,N,UBIC,41,101,Mollet del Vallès,'18,187598.76
+Baix Llobregat,N,REEM,11,11,Cornellà de Llobregat,'18,2496.48
+Baix Llobregat,N,TRFO,11,9,Sant Andreu de la Barca,'18,117949.2
+Vallès Occidental,N,SAC,40,48,Sant Cugat del Vallès,'18,24000
+Vallès Oriental,N,AODL,41,4,Mollet del Vallès,'18,117400.08
+Barcelonès,N,MINA,13,1150,Barcelona,'18,250000
+Vallès Oriental,N,COOR,41,1,Mollet del Vallès,'18,32528.960000000003
+Vallès Occidental,N,ENFE,40,7,Montcada i Reixac,'18,209239.57
+Baix Llobregat,S,JENP,11,3,Esparreguera,'18,33000
+Baix Llobregat,N,30P,11,1,Sant Andreu de la Barca,'18,3184.65
+Vallès Oriental,N,TB,41,258,Montornès del Vallès,'18,312539.7
+Barcelonès,S,REFE,13,1,"Hospitalet de Llobregat, l'",'18,96000
+Barcelonès,N,PIN,13,15,"Hospitalet de Llobregat, l'",'18,110553.38
+Vallès Oriental,N,PIN,41,40,Mollet del Vallès,'18,49103.55
+Barcelonès,N,PRMI,13,19,Santa Coloma de Gramenet,'18,224426.8
+Baix Llobregat,N,FOQ,11,45,Sant Joan Despí,'18,116415
+Vallès Occidental,S,JENP,40,21,Cerdanyola del Vallès,'18,231000
+Baix Llobregat,S,FEM,11,1,Esplugues de Llobregat,'18,3714.9
+Baix Llobregat,N,FOQ,11,45,Sant Andreu de la Barca,'18,152604
+Baix Llobregat,N,TRFO,11,7,Sant Joan Despí,'18,92232
+Vallès Occidental,N,FPOS,40,619,Sabadell,'18,156131.66
+Vallès Occidental,S,PSGJ,40,20,Cerdanyola del Vallès,'18,192183
+Baix Llobregat,N,30P,11,1,Corbera de Llobregat,'18,3219.79
+Vallès Oriental,S,FEM,41,2,Parets del Vallès,'18,5837.7
+Vallès Occidental,N,REEM,40,17,Rubí,'18,3744.72
+Vallès Occidental,N,ENFE,40,11,Rubí,'18,307757.67
+Vallès Occidental,N,UNIS,40,2834,Cerdanyola del Vallès,'18,374537.45
+Vallès Oriental,N,FOQ,41,45,"Franqueses del Vallès, les",'18,101200.5
+Barcelonès,N,AMAP,13,630,Barcelona,'18,929710.5
+Baix Llobregat,N,30P,11,2,Sant Climent de Llobregat,'18,8967.44
+Vallès Occidental,S,FEM,40,23,Rubí,'18,66920.16
+Vallès Oriental,N,SAC,41,150,Granollers,'18,75000
+Barcelonès,N,DONA,13,17,"Hospitalet de Llobregat, l'",'18,326692.4
+Vallès Oriental,S,FEM,41,3,Lliçà de Vall,'18,11144.7
+Vallès Occidental,N,UBIC,40,129,Terrassa,'18,240800.79
+Barcelonès,N,ARIF,13,125,Santa Coloma de Gramenet,'18,64850
+Vallès Occidental,N,COOR,40,2,Rubí,'18,65057.92
+Vallès Occidental,N,30P,40,4,Matadepera,'18,13127.849999999999
+Baix Llobregat,N,AODL,11,3,Gavà,'18,94128.12000000001
+Barcelonès,N,FPOT,13,1830,Badalona,'18,291928.23000000004
+Baix Llobregat,N,30P,11,30,Viladecans,'18,127672.72
+Barcelonès,N,TB,13,264,"Hospitalet de Llobregat, l'",'18,906452.38
+Vallès Oriental,N,IPIS,41,250,Mollet del Vallès,'18,120000
+Baix Llobregat,S,JENP,11,1,Sant Climent de Llobregat,'18,11000
+Baix Llobregat,N,FOQ,11,90,Sant Feliu de Llobregat,'18,252885
+Baix Llobregat,N,AODL,11,1,Sant Just Desvern,'18,31376.04
+Baix Llobregat,N,PRMI,11,10,Sant Feliu de Llobregat,'18,109480
+Baix Llobregat,N,COOR,11,1,Martorell,'18,32528.960000000003
+Vallès Oriental,N,SAC,41,28,Parets del Vallès,'18,14000
+Barcelonès,N,TB,13,654,Badalona,'18,930662.3500000001
+Barcelonès,S,JENP,13,200,Barcelona,'18,2200000
+Vallès Occidental,N,UBIC,40,28,Cerdanyola del Vallès,'18,53227.810000000005
+Baix Llobregat,N,30P,11,1,Vallirana,'18,5095.44
+Vallès Oriental,S,JENP,41,1,Sant Feliu de Codines,'18,11000
+Baix Llobregat,S,JENP,11,13,Sant Feliu de Llobregat,'18,143000
+Vallès Occidental,N,CC,40,30,Rubí,'18,162804
+Vallès Occidental,S,FEM,40,4,Barberà del Vallès,'18,11675.4
+Baix Llobregat,N,SAC,11,78,Molins de Rei,'18,39000
+Barcelonès,N,SAC,13,162,"Hospitalet de Llobregat, l'",'18,81000
+Baix Llobregat,S,FEM,11,8,Viladecans,'18,26623.09
+Vallès Oriental,N,TRFO,41,5,"Llagosta, la",'18,61963.5
+Vallès Occidental,N,CIF,40,282,Sabadell,'18,275530.78
+Vallès Occidental,N,FI45,40,1,Santa Perpètua de Mogoda,'18,2575.65
+Baix Llobregat,S,JENP,11,15,"Prat de Llobregat, el",'18,165000
+Baix Llobregat,N,AMAP,11,15,Sant Esteve Sesrovires,'18,14601
+Barcelonès,N,30P,13,245,Barcelona,'18,1044349.8
+Baix Llobregat,N,ENFE,11,5,Sant Joan Despí,'18,146586.74000000002
+Vallès Occidental,N,30P,40,6,Castellbisbal,'18,26860.05
+Baix Llobregat,N,TB,11,116,Sant Joan Despí,'18,224500.31999999998
+Baix Llobregat,N,REEM,11,11,Esplugues de Llobregat,'18,2496.48
+Vallès Occidental,N,TB,40,312,Terrassa,'18,1102950.5
+Baix Llobregat,N,ENFE,11,24,Sant Feliu de Llobregat,'18,671628.75
+Barcelonès,N,TB,13,2109,Barcelona,'18,4575445.1899999995
+Vallès Oriental,N,TRFO,41,7,Canovelles,'18,92404.5
+Vallès Oriental,N,DONA,41,4,Mollet del Vallès,'18,76868.8
+Baix Llobregat,N,COOR,11,1,Viladecans,'18,32528.960000000003
+Baix Llobregat,N,ACOL,11,1,Castelldefels,'18,19202.8
+Baix Llobregat,N,SAC,11,78,Esplugues de Llobregat,'18,39000
+Vallès Occidental,N,IPIS,40,625,Sabadell,'18,300000
+Barcelonès,N,ARIF,13,125,"Hospitalet de Llobregat, l'",'18,64850
+Barcelonès,N,30P,13,494,Barcelona,'18,2102344.17
+Baix Llobregat,S,JENP,11,4,Sant Just Desvern,'18,44000
+Vallès Occidental,N,AODL,40,3,Rubí,'18,87252.33
+Vallès Oriental,N,ARIF,41,125,Mollet del Vallès,'18,64850
+Barcelonès,N,TRFO,13,79,"Hospitalet de Llobregat, l'",'18,1002258.8
+Vallès Oriental,N,FI45,41,1,Parets del Vallès,'18,10302.6
+Vallès Oriental,N,TB,41,22,"Franqueses del Vallès, les",'18,230681.24000000002
+Baix Llobregat,N,ENFE,11,7,Esplugues de Llobregat,'18,149518.67
+Baix Llobregat,N,DONA,11,5,"Prat de Llobregat, el",'18,99380
+Vallès Oriental,S,JENP,41,3,Parets del Vallès,'18,33000
+Vallès Oriental,N,DONA,41,16,Granollers,'18,309365.2
+Vallès Occidental,N,TRFO,40,14,Cerdanyola del Vallès,'18,190346.6
+Baix Llobregat,N,AMAP,11,15,Cornellà de Llobregat,'18,24583.5
+Baix Llobregat,N,UBIC,11,22,Castelldefels,'18,40005.729999999996
+Vallès Occidental,S,NOGJ,40,45,Terrassa,'18,483380.69
+Baix Llobregat,N,30P,11,20,Sant Boi de Llobregat,'18,85115.15000000001
+Vallès Occidental,N,30P,40,80,Sabadell,'18,340460.59
+Barcelonès,N,CIF,13,60,"Hospitalet de Llobregat, l'",'18,105510
+Vallès Oriental,N,30P,41,2,Montornès del Vallès,'18,7755.6
+Vallès Occidental,S,JENP,40,4,Palau-solità i Plegamans,'18,44000
+Vallès Occidental,N,SAC,40,48,Montcada i Reixac,'18,24000
+Baix Llobregat,N,REEM,11,27,Martorell,'18,6241.2
+Baix Llobregat,S,PSGJ,11,22,Gavà,'18,77655.56
+Vallès Oriental,N,FPOT,41,185,Mollet del Vallès,'18,49784.340000000004
+Baix Llobregat,N,30P,11,20,Sant Feliu de Llobregat,'18,85115.15000000001
+Baix Llobregat,S,DPGJ,11,220,Cornellà de Llobregat,'18,72432
+Baix Llobregat,N,AODL,11,1,Sant Joan Despí,'18,31164.38
+Baix Llobregat,N,UBIC,11,30,Viladecans,'18,54620.17
+Baix Llobregat,N,FI45,11,1,Cornellà de Llobregat,'18,10302.6
+Baix Llobregat,N,ARIF,11,125,Cornellà de Llobregat,'18,64850
+Barcelonès,N,AODL,13,7,Badalona,'18,198869.1
+Vallès Oriental,N,30P,41,1,"Garriga, la",'18,6120.9
+Vallès Occidental,N,TRFO,40,7,Santa Perpètua de Mogoda,'18,89107.2
+Barcelonès,N,IPIS,13,250,Santa Coloma de Gramenet,'18,120000
+Vallès Occidental,N,TRFO,40,13,Ripollet,'18,167448.8
+Barcelonès,N,UBIC,13,266,Barcelona,'18,486112.73000000004
+Barcelonès,S,REFE,13,5,Barcelona,'18,160000
+Vallès Oriental,N,IPIS,41,125,"Franqueses del Vallès, les",'18,60000
+Vallès Occidental,N,30P,40,12,Sant Cugat del Vallès,'18,49373.41
+Vallès Oriental,S,FEM,41,2,Cardedeu,'18,7582.63
+Vallès Occidental,N,FOQ,40,45,Montcada i Reixac,'18,82480.5
+Baix Llobregat,N,UBIC,11,30,"Prat de Llobregat, el",'18,56426.61
+Vallès Occidental,N,AODL,40,2,Ripollet,'18,62752.08
+Vallès Occidental,N,FPOT,40,674,Cerdanyola del Vallès,'18,181615.86
+Vallès Occidental,N,ENFE,40,35,Terrassa,'18,980331.24
+Vallès Oriental,N,30P,41,30,Granollers,'18,111335.19
+Barcelonès,N,ACOL,13,12,Sant Adrià de Besòs,'18,230433.6
+Baix Llobregat,N,IPIS,11,125,Sant Boi de Llobregat,'18,60000
+Baix Llobregat,N,SAC,11,80,Viladecans,'18,40000
+Baix Llobregat,S,REFE,11,3,Sant Feliu de Llobregat,'18,96000
+Baix Llobregat,N,30P,11,25,Gavà,'18,106393.93999999999
+Vallès Oriental,N,ARIF,41,125,Granollers,'18,64850
+Baix Llobregat,N,IPIS,11,125,Esplugues de Llobregat,'18,60000
+Baix Llobregat,N,COOR,11,1,Sant Feliu de Llobregat,'18,32528.960000000003
+Vallès Oriental,N,30P,41,1,Santa Maria de Palautordera,'18,6120.9
+Baix Llobregat,S,PSGJ,11,22,Martorell,'18,77655.56
+Vallès Oriental,N,UBIC,41,59,Granollers,'18,107689.3
+Baix Llobregat,N,FOQ,11,206,Cornellà de Llobregat,'18,664003.9
+Baix Llobregat,S,FEM,11,21,Gavà,'18,68491.98
+Barcelonès,N,COOR,13,3,Badalona,'18,97586.88
+Barcelonès,N,FPOT,13,54969,Barcelona,'18,15167517.7
+Baix Llobregat,N,PRMI,11,7,Olesa de Montserrat,'18,78139.6
+Vallès Oriental,S,JENP,41,3,Cardedeu,'18,33000
+Barcelonès,N,SAC,13,100,Sant Adrià de Besòs,'18,50000
+Barcelonès,N,ACOL,13,43,Barcelona,'18,834521.6
+Baix Llobregat,N,30P,11,7,Sant Feliu de Llobregat,'18,42684.5
+Vallès Oriental,S,JENP,41,5,Mollet del Vallès,'18,55000
+Vallès Oriental,S,FEM,41,14,Mollet del Vallès,'18,35663.04
+Vallès Oriental,S,FEM,41,5,Granollers,'18,15755.42
+Baix Llobregat,S,NOGJ,11,90,Sant Feliu de Llobregat,'18,884151.24
+Barcelonès,N,DAM,13,45,Santa Coloma de Gramenet,'18,81144
+Barcelonès,N,ACOL,13,3,Badalona,'18,57784.8
+Vallès Occidental,S,PSGJ,40,40,Montcada i Reixac,'18,76728.5
+Baix Llobregat,N,TB,11,264,Sant Feliu de Llobregat,'18,377855.13999999996
+Barcelonès,N,CC,13,258,Barcelona,'18,824029.2
+Baix Llobregat,N,SAC,11,26,Sant Andreu de la Barca,'18,13000
+Vallès Occidental,N,CC,40,30,Cerdanyola del Vallès,'18,110394
+Vallès Occidental,N,30P,40,2,Palau-solità i Plegamans,'18,7825.54
+Barcelonès,S,JENP,13,16,Badalona,'18,176000
+Vallès Occidental,N,FOQ,40,45,Sant Cugat del Vallès,'18,139852.5
+Barcelonès,N,COOR,13,3,Santa Coloma de Gramenet,'18,97586.88
+Vallès Occidental,S,JENP,40,5,Rubí,'18,55000
+Vallès Occidental,N,FPOT,40,524,Barberà del Vallès,'18,99036.15000000001
+Vallès Occidental,N,PRMI,40,14,Rubí,'18,156480.8
+Vallès Oriental,N,30P,41,1,Montmeló,'18,3184.65
+Barcelonès,N,SAC,13,1091,Barcelona,'18,551950
+Vallès Oriental,N,AODL,41,1,"Franqueses del Vallès, les",'18,25695.460000000003
+Vallès Oriental,N,IPIS,41,500,Granollers,'18,240000
+Vallès Occidental,N,30P,40,65,Terrassa,'18,299072.85
+Vallès Occidental,N,FOQ,40,45,Badia del Vallès,'18,165514.5
+Vallès Occidental,N,FI45,40,5,Sabadell,'18,41454.24
+Barcelonès,N,ARIF,13,500,Barcelona,'18,259400
+Vallès Occidental,S,JENP,40,7,Ripollet,'18,77000
+Vallès Oriental,N,TRFO,41,4,Lliçà d'Amunt,'18,48728.8
+Baix Llobregat,N,30P,11,31,Viladecans,'18,153568.65
+Barcelonès,S,TLN,13,113,Barcelona,'18,1070517
+Baix Llobregat,N,30P,11,6,Gavà,'18,29900.35
+Vallès Occidental,N,AODL,40,13,Terrassa,'18,407888.52
+Vallès Occidental,N,REEM,40,11,Sant Cugat del Vallès,'18,2496.48
+Vallès Occidental,S,JENP,40,20,Sabadell,'18,220000
+Vallès Oriental,N,30P,41,1,Campins,'18,6097.01
+Barcelonès,N,IPIS,13,500,Badalona,'18,240000
+Barcelonès,N,APRE,13,66,Santa Coloma de Gramenet,'18,10597.6
+Vallès Occidental,N,UBIC,40,25,Sant Cugat del Vallès,'18,46894.21
+Baix Llobregat,N,AODL,11,3,Sant Vicenç dels Horts,'18,91618.8
+Vallès Oriental,N,ENFE,41,11,Mollet del Vallès,'18,307757.67
+Barcelonès,N,ENFE,13,29,Barcelona,'18,811361.13
+Vallès Occidental,N,DONA,40,2,Badia del Vallès,'18,38758.4
+Baix Llobregat,N,PRMI,11,19,Sant Boi de Llobregat,'18,299466.8
+Vallès Occidental,N,30P,40,9,Sant Quirze del Vallès,'18,50238.380000000005
+Vallès Oriental,N,30P,41,1,Parets del Vallès,'18,6093.83
+Baix Llobregat,N,ACOL,11,3,Sant Joan Despí,'18,57608.4
+Vallès Occidental,S,PSGJ,40,140,Sabadell,'18,622436.5
+Vallès Oriental,N,ENFE,41,10,Granollers,'18,283600.57
+Barcelonès,N,FPOT,13,1853,"Hospitalet de Llobregat, l'",'18,613303.03
+Vallès Occidental,N,30P,40,100,Terrassa,'18,425575.75
+Vallès Occidental,N,UBIC,40,62,Montcada i Reixac,'18,116077.75
+Baix Llobregat,N,PRMI,11,5,Sant Andreu de la Barca,'18,49186
+Vallès Oriental,N,TRFO,41,5,Montornès del Vallès,'18,71412.5
+Vallès Occidental,N,CC,40,45,Sabadell,'18,192156
+Vallès Occidental,N,TRFO,40,8,Castellar del Vallès,'18,88987.2
+Barcelonès,N,FOQ,13,510,Santa Coloma de Gramenet,'18,1395034.8
+Baix Llobregat,N,ENFE,11,11,Sant Boi de Llobregat,'18,307757.67
+Vallès Occidental,S,FEM,40,5,Montcada i Reixac,'18,11675.4
+Vallès Oriental,N,30P,41,12,Canovelles,'18,71643.51
+Baix Llobregat,N,FPOS,11,635,Castelldefels,'18,123568.89
+Vallès Oriental,S,FEM,41,1,Lliçà d'Amunt,'18,3184.2
+Vallès Occidental,N,TB,40,121,Santa Perpètua de Mogoda,'18,526695.58
+Baix Llobregat,N,SAC,11,78,Sant Vicenç dels Horts,'18,39000
+Vallès Occidental,N,FI45,40,1,Sant Quirze del Vallès,'18,2575.65
+Vallès Occidental,N,PRMI,40,7,Badia del Vallès,'18,84238.7
+Vallès Occidental,N,TB,40,71,Rubí,'18,132947.34999999998
+Baix Llobregat,N,TB,11,55,Martorell,'18,212666.2
+Baix Llobregat,N,PRMI,11,5,Sant Joan Despí,'18,49186
+Barcelonès,N,CIF,13,675,"Hospitalet de Llobregat, l'",'18,329237.39
+Baix Llobregat,N,FOQ,11,384,Castelldefels,'18,1108483.35
+Vallès Occidental,N,AMAP,40,15,Barberà del Vallès,'18,29181
+Vallès Oriental,S,JENP,41,1,Figaró-Montmany,'18,11000
+Baix Llobregat,N,CIF,11,180,Sant Feliu de Llobregat,'18,154758
+Baix Llobregat,N,30P,11,1,"Papiol, el",'18,5732.37
+Baix Llobregat,N,TRFO,11,6,Molins de Rei,'18,69661.4
+Vallès Occidental,S,JENP,40,26,Terrassa,'18,286000
+Vallès Oriental,S,JENP,41,3,"Franqueses del Vallès, les",'18,33000
+Vallès Oriental,N,REEM,41,44,Granollers,'18,9985.92
+Baix Llobregat,N,COOR,11,1,"Prat de Llobregat, el",'18,32528.960000000003
+Barcelonès,N,FPOS,13,185,"Hospitalet de Llobregat, l'",'18,24193.280000000002
+Vallès Occidental,N,UBIC,40,19,Barberà del Vallès,'18,35762.450000000004
+Vallès Oriental,S,JENP,41,15,Granollers,'18,165000
+Baix Llobregat,N,CIF,11,165,Sant Feliu de Llobregat,'18,343343.39
+Barcelonès,N,IPIS,13,2250,Barcelona,'18,1080000
+Vallès Oriental,N,SAC,41,56,Mollet del Vallès,'18,28000
+Baix Llobregat,S,JENP,11,1,Cervelló,'18,11000
+Vallès Occidental,N,SAC,40,96,Rubí,'18,48000
+Vallès Occidental,N,ARIF,40,125,Cerdanyola del Vallès,'18,64850
+Vallès Occidental,N,FOQ,40,705,Sabadell,'18,1629557.85
+Vallès Occidental,N,30P,40,4,Vacarisses,'18,19535.97
+Barcelonès,N,APRE,13,140,"Hospitalet de Llobregat, l'",'18,26494
+Vallès Occidental,N,TRFO,40,12,Montcada i Reixac,'18,151304.4
+Vallès Oriental,N,30P,41,2,Sant Celoni,'18,12235.43
+Baix Llobregat,N,AODL,11,3,"Prat de Llobregat, el",'18,85476.08
+Baix Llobregat,N,FOQ,11,127,Sant Boi de Llobregat,'18,333120.75
+Baix Llobregat,S,FEM,11,8,Sant Feliu de Llobregat,'18,30863.5
+Baix Llobregat,N,FPOS,11,820,Cornellà de Llobregat,'18,283380.33999999997
+Vallès Oriental,N,TRFO,41,5,Parets del Vallès,'18,80792.5
+Vallès Occidental,N,PRMI,40,23,Terrassa,'18,273031
+Vallès Occidental,N,ENFE,40,15,Sant Cugat del Vallès,'18,459850.89
+Vallès Oriental,N,TB,41,2,Martorelles,'18,33565.07
+Baix Llobregat,N,TB,11,195,Sant Boi de Llobregat,'18,839064.62
+Vallès Occidental,S,FEM,40,1,Polinyà,'18,3844.3900000000003
+Baix Llobregat,N,IPIS,11,125,Martorell,'18,60000
+Baix Llobregat,N,REEM,11,17,Sant Boi de Llobregat,'18,3744.72
+Baix Llobregat,N,DONA,11,1,Sant Joan Despí,'18,19876
+Barcelonès,N,CIF,13,225,Santa Coloma de Gramenet,'18,397438.28
+Barcelonès,N,AODL,13,5,Barcelona,'18,156880.2
+Vallès Occidental,N,TRFO,40,24,Sant Cugat del Vallès,'18,376447.2
+Vallès Occidental,N,PRMI,40,5,Santa Perpètua de Mogoda,'18,49186
+Baix Llobregat,N,CC,11,60,"Prat de Llobregat, el",'18,234666
+Vallès Occidental,N,DONA,40,3,Montcada i Reixac,'18,58958.4
+Vallès Occidental,N,AODL,40,1,Barberà del Vallès,'18,25250.57
+Barcelonès,S,JENP,13,12,Santa Coloma de Gramenet,'18,132000
+Baix Llobregat,N,UBIC,11,38,Gavà,'18,71524.85
+Baix Llobregat,N,TB,11,90,Sant Vicenç dels Horts,'18,150777.7
+Vallès Occidental,N,REEM,40,33,Sabadell,'18,7489.44
+Vallès Occidental,S,TLN,40,41,Terrassa,'18,386055
+Vallès Occidental,N,FPOS,40,1671,Terrassa,'18,495675.75
+Vallès Occidental,S,FEM,40,18,Terrassa,'18,49813.6
+Barcelonès,S,FEM,13,7,Santa Coloma de Gramenet,'18,25959.69
+Baix Llobregat,N,REEM,11,17,Gavà,'18,3744.72
+Vallès Occidental,N,TRFO,40,69,Sabadell,'18,876179.8
+Vallès Occidental,N,COOR,40,3,Sabadell,'18,97586.88
+Vallès Oriental,N,DONA,41,2,Parets del Vallès,'18,39752
+Baix Llobregat,N,SAC,11,104,Martorell,'18,52000
+Vallès Oriental,N,PRMI,41,38,Granollers,'18,424443.2
+Baix Llobregat,S,JENP,11,12,Esplugues de Llobregat,'18,132000
+Baix Llobregat,N,AODL,11,1,Martorell,'18,27434.4
+Vallès Occidental,N,AODL,40,3,Sant Cugat del Vallès,'18,94128.12000000001
+Vallès Occidental,N,ENFE,40,7,Ripollet,'18,195845.79
+Vallès Occidental,N,30P,40,32,Sabadell,'18,134555.8
+Baix Llobregat,S,REFE,11,1,"Prat de Llobregat, el",'18,32000
+Vallès Oriental,N,30P,41,7,"Franqueses del Vallès, les",'18,38084.36
+Baix Llobregat,N,TRFO,11,17,"Prat de Llobregat, el",'18,216767.6
+Baix Llobregat,N,COOR,11,1,Gavà,'18,32528.960000000003
+Vallès Occidental,N,30P,40,10,Barberà del Vallès,'18,39886.28
+Baix Llobregat,N,UBIC,11,20,Sant Vicenç dels Horts,'18,36903.75
+Baix Llobregat,N,PRMI,11,7,Viladecans,'18,78240.4
+Vallès Oriental,N,TB,41,6,Sant Feliu de Codines,'18,33091.92
+Vallès Occidental,N,30P,40,3,Ripollet,'18,13125.720000000001
+Vallès Occidental,S,FEM,40,14,Sabadell,'18,38517.14
+Vallès Occidental,S,JENP,40,1,Vacarisses,'18,11000
+Vallès Occidental,N,FOQ,40,330,Cerdanyola del Vallès,'18,922585.8
+Baix Llobregat,N,ENFE,11,7,Gavà,'18,129664.23999999999
+Vallès Oriental,N,PRMI,41,8,Mollet del Vallès,'18,88077.6
+Barcelonès,N,FOQ,13,60,Sant Adrià de Besòs,'18,87540
+Baix Llobregat,S,JENP,11,1,Torrelles de Llobregat,'18,11000
+Baix Llobregat,N,ARIF,11,125,Viladecans,'18,64850
+Baix Llobregat,N,UBIC,11,104,Sant Feliu de Llobregat,'18,195987.24000000002
+Vallès Occidental,N,AMAP,40,15,Terrassa,'18,25021.5
+Vallès Occidental,N,PRMI,40,5,Castellar del Vallès,'18,51244
+Vallès Oriental,S,FEM,41,1,Santa Maria de Palautordera,'18,3184.2
+Vallès Occidental,N,CC,40,24,Terrassa,'18,130243.2
+Baix Llobregat,N,30P,11,1,Sant Esteve Sesrovires,'18,5874.09
+Baix Llobregat,N,TB,11,3,"Prat de Llobregat, el",'18,70181.73
+Baix Llobregat,N,AODL,11,2,Esplugues de Llobregat,'18,58855.7
+Vallès Occidental,N,REEM,40,17,Ripollet,'18,3744.72
+Vallès Oriental,S,JENP,41,3,"Llagosta, la",'18,33000
+Barcelonès,N,DONA,13,4,Sant Adrià de Besòs,'18,77718.4
+Vallès Occidental,N,PRMI,40,5,Sant Cugat del Vallès,'18,49114
+Vallès Occidental,N,ARIF,40,125,Montcada i Reixac,'18,64850
+Vallès Oriental,N,30P,41,2,Martorelles,'18,11942.44
+Baix Llobregat,N,AODL,11,1,Corbera de Llobregat,'18,31376.04
+Vallès Occidental,N,AODL,40,11,Sabadell,'18,338406.06
+Baix Llobregat,N,DONA,11,1,Esparreguera,'18,19202.8
+Baix Llobregat,N,AMAP,11,90,Castelldefels,'18,140472
+Baix Llobregat,N,AMAP,11,60,Gavà,'18,101670
+Baix Llobregat,N,COOR,11,2,Sant Boi de Llobregat,'18,65057.92
+Vallès Occidental,N,DONA,40,2,Castellar del Vallès,'18,38463.2
+Barcelonès,N,CC,13,15,"Hospitalet de Llobregat, l'",'18,39480
+Barcelonès,S,DPGJ,13,264,Barcelona,'18,60562
+Barcelonès,N,AMAP,13,195,Barcelona,'18,303066
+Baix Llobregat,N,TB,11,26,Castelldefels,'18,364197.24
+Vallès Occidental,N,APRE,40,58,Sabadell,'18,10597.55
+Baix Llobregat,S,JENP,11,5,Gavà,'18,55000
+Vallès Oriental,S,PSGJ,41,80,Sant Fost de Campsentelles,'18,318218
+Baix Llobregat,S,PSGJ,11,28,Sant Joan Despí,'18,125980.56
+Barcelonès,N,FOQ,13,1215,"Hospitalet de Llobregat, l'",'18,3225034.5
+Barcelonès,N,UBIC,13,135,Santa Coloma de Gramenet,'18,249893.84
+Baix Llobregat,N,TRFO,11,12,Esplugues de Llobregat,'18,147601.2
+Baix Llobregat,N,ACOL,11,3,"Prat de Llobregat, el",'18,57651.6
+Barcelonès,S,NOGJ,13,270,Barcelona,'18,2615074.9099999997
+Baix Llobregat,N,30P,11,5,Esplugues de Llobregat,'18,27387.99
+Baix Llobregat,N,UBIC,11,75,Sant Boi de Llobregat,'18,139918.08
+Baix Llobregat,N,AODL,11,3,Castelldefels,'18,94128.12000000001
+Vallès Occidental,N,COOR,40,1,Barberà del Vallès,'18,32528.960000000003
+Baix Llobregat,N,TRFO,11,15,Castelldefels,'18,200992
+Vallès Oriental,N,FOQ,41,586,Granollers,'18,1381833.1500000001
+Baix Llobregat,N,DONA,11,5,Viladecans,'18,97148
+Vallès Oriental,N,30P,41,2,Caldes de Montbui,'18,9256.19
+Vallès Oriental,N,DONA,41,1,"Franqueses del Vallès, les",'18,19450.3
+Vallès Occidental,N,PRMI,40,9,Ripollet,'18,99394.4
+Vallès Oriental,N,AMAP,41,255,Granollers,'18,402741
+Barcelonès,N,30P,13,40,Badalona,'18,170230.3
+Baix Llobregat,S,PSGJ,11,222,Cornellà de Llobregat,'18,1072184.56
+Vallès Occidental,N,TRFO,40,6,Badia del Vallès,'18,69375.2
+Baix Llobregat,N,30P,11,2,Pallejà,'18,12165.359999999999
+Vallès Occidental,N,PRMI,40,8,Cerdanyola del Vallès,'18,93167.2
+Vallès Occidental,N,COOR,40,4,Terrassa,'18,130115.84
+Vallès Occidental,N,ENFE,40,22,Sabadell,'18,529715.49
+Barcelonès,N,DAM,13,30,"Hospitalet de Llobregat, l'",'18,76725
+Barcelonès,N,FI45,13,2,Badalona,'18,20605.2
+Vallès Occidental,N,APRE,40,33,Terrassa,'18,5299
+Vallès Occidental,N,ACOL,40,3,Sabadell,'18,57651.6
+Vallès Occidental,N,FPOS,40,1094,Cerdanyola del Vallès,'18,374625.3
+Vallès Occidental,N,FOQ,40,90,Santa Perpètua de Mogoda,'18,266035.5
+Vallès Occidental,S,REFE,40,2,Sabadell,'18,64000
+Baix Llobregat,N,DONA,11,4,Castelldefels,'18,76868.8
+Barcelonès,S,FEM,13,59,Barcelona,'18,201108.65
+Vallès Oriental,N,TB,41,223,Mollet del Vallès,'18,371224.35
+Vallès Oriental,N,DONA,41,1,"Llagosta, la",'18,19910.5
+Baix Llobregat,N,DONA,11,1,Molins de Rei,'18,19426.9
+Barcelonès,N,TB,13,1085,Santa Coloma de Gramenet,'18,2462823.36
+Barcelonès,S,JENP,13,21,"Hospitalet de Llobregat, l'",'18,231000
+Vallès Occidental,N,AODL,40,4,Santa Perpètua de Mogoda,'18,125504.16
+Baix Llobregat,N,IPIS,11,125,"Prat de Llobregat, el",'18,60000
+Vallès Occidental,N,TB,40,796,Sabadell,'18,2096810.96
+Vallès Occidental,N,CCFI,40,25,Sant Cugat del Vallès,'18,78571.5
+Barcelonès,S,PSGJ,13,204,"Hospitalet de Llobregat, l'",'18,778234.2
+Baix Llobregat,S,PSGJ,11,426,"Prat de Llobregat, el",'18,1773378.6700000002
+Vallès Oriental,N,AODL,41,1,Granollers,'18,31376.04
+Barcelonès,N,CC,13,60,Badalona,'18,143724
+Barcelonès,N,CCFI,13,45,Barcelona,'18,172585.5
+Vallès Occidental,N,30P,40,12,Castellar del Vallès,'18,46708.2
+Vallès Occidental,N,TRFO,40,27,Rubí,'18,340644.4
+Baix Llobregat,N,AUTO,11,213,Martorell,'18,399000
+Vallès Occidental,N,DONA,40,3,Ripollet,'18,58034.4
+Vallès Oriental,N,30P,41,45,Mollet del Vallès,'18,191509.08
+Barcelonès,N,TRFO,13,81,Badalona,'18,1059631.5
+Vallès Occidental,N,APRE,40,33,Ripollet,'18,5299
+Vallès Oriental,N,TRFO,41,50,Granollers,'18,667990
+Vallès Occidental,N,AMAP,40,45,Cerdanyola del Vallès,'18,84712.5
+Barcelonès,N,ARIF,13,125,Badalona,'18,64850
+Vallès Oriental,S,FEM,41,3,Montmeló,'18,10307.25
+Baix Llobregat,N,FPOT,11,1136,"Prat de Llobregat, el",'18,208329.46
+Baix Llobregat,N,30P,11,1,Santa Coloma de Cervelló,'18,6162.3
+Vallès Occidental,N,IPIS,40,625,Terrassa,'18,300000
+Vallès Occidental,S,FEM,40,1,Sentmenat,'18,2122.8
+Baix Llobregat,N,FPOT,11,155,Cornellà de Llobregat,'18,23488.19
+Vallès Occidental,N,CIF,40,192,Sabadell,'18,326208.79000000004
+Vallès Occidental,N,UBIC,40,25,Ripollet,'18,46894.21
+Baix Llobregat,S,JENP,11,7,Castelldefels,'18,77000
+Vallès Oriental,N,REEM,41,11,Mollet del Vallès,'18,2496.48
+Baix Llobregat,S,JENP,11,1,Corbera de Llobregat,'18,11000
+Baix Llobregat,N,ARIF,11,125,"Prat de Llobregat, el",'18,64850
+Barcelonès,N,TRFO,13,148,Barcelona,'18,1956754.6
+Baix Llobregat,S,JENP,11,5,Martorell,'18,55000
+Vallès Oriental,N,FPOS,41,1075,Granollers,'18,204099.55
+Barcelonès,N,IPIS,13,500,"Hospitalet de Llobregat, l'",'18,240000
+Vallès Occidental,N,SAC,40,330,Sabadell,'18,165000
+Vallès Occidental,N,30P,40,3,Sentmenat,'18,11981.720000000001
+Vallès Occidental,N,AMAP,40,15,Barberà del Vallès,'18,29181
+Vallès Oriental,N,AODL,41,2,Granollers,'18,62752.08
+Barcelonès,N,30P,13,60,"Hospitalet de Llobregat, l'",'18,255345.44999999998
+Barcelonès,S,REFE,13,1,Santa Coloma de Gramenet,'18,32000
+Baix Llobregat,N,FPOT,11,459,Castelldefels,'18,71244.37000000001
+Baix Llobregat,N,FOQ,11,120,Molins de Rei,'18,230850.75
+Vallès Oriental,S,DPGJ,41,176,Mollet del Vallès,'18,77835.5
+Baix Llobregat,S,JENP,11,5,Viladecans,'18,55000
+Vallès Occidental,N,ARIF,40,125,Sabadell,'18,64850
+Baix Llobregat,N,TRFO,11,9,Olesa de Montserrat,'18,111215.2
+Baix Llobregat,N,ENFE,11,11,Viladecans,'18,307757.67
+Baix Llobregat,N,DAM,11,60,"Prat de Llobregat, el",'18,78084
+Baix Llobregat,N,TB,11,38,Viladecans,'18,606671.7899999999
+Barcelonès,N,REEM,13,5,Sant Adrià de Besòs,'18,1248.24
+Vallès Occidental,N,IPIS,40,125,Montcada i Reixac,'18,60000
+Vallès Occidental,N,ACOL,40,1,Sant Cugat del Vallès,'18,19880
+Vallès Oriental,S,PSGJ,41,60,"Garriga, la",'18,283647.75
+Vallès Occidental,N,FI45,40,1,Montcada i Reixac,'18,5151.3
+Barcelonès,N,AODL,13,10,"Hospitalet de Llobregat, l'",'18,286003.2
+Vallès Oriental,N,FOQ,41,12,Sant Fost de Campsentelles,'18,32121.6
+Vallès Occidental,N,FOQ,40,906,Terrassa,'18,2081921.12
+Baix Llobregat,N,AODL,11,1,Sant Boi de Llobregat,'18,29486.73
+Vallès Oriental,N,AODL,41,2,Cardedeu,'18,54021.57
+Vallès Occidental,N,UBIC,40,60,Rubí,'18,112975.77
+Vallès Occidental,N,REEM,40,33,Terrassa,'18,7489.44
+Baix Llobregat,S,PSGJ,11,40,Sant Andreu de la Barca,'18,120540
+Vallès Occidental,N,FPOT,40,1869,Terrassa,'18,548400.8
+Baix Llobregat,N,FOQ,11,30,Abrera,'18,113710.5
+Vallès Occidental,N,REEM,40,17,Cerdanyola del Vallès,'18,3744.72
+Vallès Oriental,N,30P,41,3,Vilanova del Vallès,'18,16244.9
+Barcelonès,N,TRFO,13,15,Sant Adrià de Besòs,'18,187880
+Baix Llobregat,N,TRFO,11,24,Sant Boi de Llobregat,'18,306850.4
+Vallès Oriental,N,30P,41,2,Llinars del Vallès,'18,9324.66
+Baix Llobregat,N,FOQ,11,210,Martorell,'18,363426
+Baix Llobregat,N,PRMI,11,5,Esplugues de Llobregat,'18,49114
+Barcelonès,N,SAC,13,206,Santa Coloma de Gramenet,'18,110980
+Vallès Occidental,N,SAC,40,48,Cerdanyola del Vallès,'18,24000
+Vallès Occidental,N,TB,40,3,Montcada i Reixac,'18,42291.99
+Baix Llobregat,N,DONA,11,2,Sant Andreu de la Barca,'18,38646.8
+Barcelonès,S,FEM,13,10,Badalona,'18,29156.64
+Vallès Occidental,N,IPIS,40,375,Rubí,'18,180000
+Vallès Occidental,N,PRMI,40,37,Sabadell,'18,420256.4
+Vallès Occidental,N,30P,40,4,Polinyà,'18,24322.760000000002
+Vallès Occidental,S,JENP,40,7,Badia del Vallès,'18,77000
+Vallès Oriental,N,COOR,41,4,Granollers,'18,130115.84
+Vallès Occidental,N,FOQ,40,90,Barberà del Vallès,'18,174870
+Baix Llobregat,S,FEM,11,1,Santa Coloma de Cervelló,'18,3714.9
+Vallès Oriental,N,DONA,41,1,Montornès del Vallès,'18,19910.5
+Vallès Oriental,N,FOQ,41,45,Montornès del Vallès,'18,58948.5
+Vallès Occidental,N,SAC,40,354,Terrassa,'18,177000
+Vallès Occidental,N,DAM,40,15,Terrassa,'18,43695
+Baix Llobregat,S,PSGJ,11,22,Viladecans,'18,77655.56
+Baix Llobregat,N,PRMI,11,2,Molins de Rei,'18,20093.8
+Baix Llobregat,N,PRMI,11,7,Gavà,'18,78240.4
+Baix Llobregat,N,PRMI,11,8,"Prat de Llobregat, el",'18,97457.6
+Vallès Occidental,N,CC,40,75,Sant Cugat del Vallès,'18,208734
+Vallès Occidental,S,JENP,40,3,Sant Quirze del Vallès,'18,33000
+Baix Llobregat,S,FEM,11,11,Sant Boi de Llobregat,'18,38286.82
+Barcelonès,S,PSGJ,13,52,Santa Coloma de Gramenet,'18,580962.8
+Vallès Occidental,N,PIN,40,15,Terrassa,'18,201004.81
+Vallès Occidental,S,FEM,40,3,Sant Cugat del Vallès,'18,11516.18
+Baix Llobregat,N,DAM,11,45,"Prat de Llobregat, el",'18,66150
+Barcelonès,N,REEM,13,33,"Hospitalet de Llobregat, l'",'18,7489.44
+Baix Llobregat,S,PSGJ,11,62,Sant Feliu de Llobregat,'18,283895.56
+Vallès Occidental,N,COOR,40,1,Montcada i Reixac,'18,32528.960000000003
+Barcelonès,N,FPOS,13,142,Badalona,'18,25976.420000000002
+Vallès Oriental,S,JENP,41,1,Santa Eulàlia de Ronçana,'18,11000
+Baix Llobregat,S,JENP,11,8,Cornellà de Llobregat,'18,88000
+Barcelonès,N,30P,13,19,Santa Coloma de Gramenet,'18,95964.07
+Vallès Oriental,S,FEM,41,3,Sant Fost de Campsentelles,'18,9658.03
+Vallès Occidental,S,FEM,40,2,Santa Perpètua de Mogoda,'18,7668.6
+Vallès Occidental,S,JENP,40,5,Barberà del Vallès,'18,55000
+Vallès Oriental,S,JENP,41,3,Canovelles,'18,33000
+Vallès Occidental,N,30P,40,35,Rubí,'18,148951.51
+Baix Llobregat,N,PRMI,11,5,Sant Vicenç dels Horts,'18,49186
+Baix Llobregat,N,30P,11,27,Cornellà de Llobregat,'18,142432.18
+Vallès Oriental,N,APRE,41,82,Mollet del Vallès,'18,15896
+Vallès Oriental,N,DONA,41,1,Cardedeu,'18,19876
+Vallès Oriental,S,FEM,41,1,Canovelles,'18,3749.92
+Barcelonès,N,CIF,13,210,Santa Coloma de Gramenet,'18,186677.93
+Vallès Oriental,N,CCFI,41,10,Cardedeu,'18,48600
+Baix Llobregat,N,30P,11,32,"Prat de Llobregat, el",'18,136184.24000000002
+Barcelonès,N,30P,13,4,Sant Adrià de Besòs,'18,16699.07
+Vallès Oriental,N,TRFO,41,19,Mollet del Vallès,'18,233806.8
+Vallès Occidental,S,PSGJ,40,40,Badia del Vallès,'18,31377.35
+Baix Llobregat,N,DONA,11,5,Cornellà de Llobregat,'18,98264
+Baix Llobregat,N,TRFO,11,26,Cornellà de Llobregat,'18,342132.8
+Baix Llobregat,S,JENP,11,3,Molins de Rei,'18,33000
+Baix Llobregat,N,FOQ,11,139,Viladecans,'18,263645.18
+Vallès Oriental,N,FOQ,41,328,Mollet del Vallès,'18,738316.9
+Baix Llobregat,S,JENP,11,5,Olesa de Montserrat,'18,55000
+Vallès Occidental,N,REEM,40,11,Barberà del Vallès,'18,2496.48
+Barcelonès,N,DAM,13,45,Barcelona,'18,48195
+Baix Llobregat,N,REEM,11,17,Sant Feliu de Llobregat,'18,3744.72
+Vallès Occidental,N,30P,40,1,Santa Perpètua de Mogoda,'18,6011.03
+Baix Llobregat,N,AMAP,11,15,Castelldefels,'18,31200
+Vallès Occidental,N,AMAP,40,90,Terrassa,'18,155638.5
+Vallès Occidental,N,FOQ,40,60,Castellar del Vallès,'18,146010
+Baix Llobregat,S,JENP,11,1,Begues,'18,11000
+Baix Llobregat,N,30P,11,20,Castelldefels,'18,85115.15000000001
+Baix Llobregat,S,PSGJ,11,46,Sant Boi de Llobregat,'18,160785.64
+Vallès Oriental,N,DONA,41,2,Canovelles,'18,39752
+Vallès Oriental,S,JENP,41,3,Montornès del Vallès,'18,33000
+Baix Llobregat,N,FOQ,11,60,Gavà,'18,61980.75
+Barcelonès,N,APRE,13,82,Sant Adrià de Besòs,'18,15896
+Vallès Oriental,N,SAC,41,50,"Franqueses del Vallès, les",'18,25000
+Baix Llobregat,N,TB,11,421,Esplugues de Llobregat,'18,306648.14999999997
+Barcelonès,N,DONA,13,12,Santa Coloma de Gramenet,'18,230606.4
+Baix Llobregat,N,FOQ,11,45,Pallejà,'18,112668
+Vallès Oriental,N,30P,41,2,Sant Fost de Campsentelles,'18,11682.89
+Barcelonès,N,DAM,13,15,"Hospitalet de Llobregat, l'",'18,15114
+Vallès Oriental,S,REFE,41,1,Canovelles,'18,32000
+Barcelonès,N,AMAP,13,270,"Hospitalet de Llobregat, l'",'18,445863
+Vallès Oriental,N,DONA,41,1,Lliçà d'Amunt,'18,19217.2
+Vallès Oriental,S,FEM,41,6,"Franqueses del Vallès, les",'18,18303.829999999998
+Barcelonès,N,30P,13,60,Santa Coloma de Gramenet,'18,255345.44999999998
+Vallès Occidental,N,FOQ,40,15,Polinyà,'18,41464.5
+Baix Llobregat,N,REEM,11,5,"Prat de Llobregat, el",'18,1248.24
+Barcelonès,N,PRMI,13,71,Barcelona,'18,925524.6
+Barcelonès,S,PSGJ,13,1604,Barcelona,'18,6943546.930000001
+Baix Llobregat,S,FEM,11,2,Sant Joan Despí,'18,6376.89
+Barcelonès,N,APRE,13,140,Badalona,'18,26494
+Vallès Oriental,N,AODL,41,5,Parets del Vallès,'18,142381.4
+Baix Llobregat,N,FOQ,11,225,Sant Just Desvern,'18,614556
+Barcelonès,N,ENFE,13,7,Sant Adrià de Besòs,'18,149518.67
+Vallès Occidental,S,FEM,40,3,Castellbisbal,'18,11151.05
+Baix Llobregat,N,30P,11,1,Esparreguera,'18,5573.14
+Baix Llobregat,N,TRFO,11,6,Esparreguera,'18,77696.8
+Baix Llobregat,N,30P,11,17,Castelldefels,'18,76724.14
+Vallès Occidental,N,DONA,40,26,Terrassa,'18,508139.2
+Baix Llobregat,N,DONA,11,15,Sant Boi de Llobregat,'18,291444
+Baix Llobregat,N,AMAP,11,150,"Prat de Llobregat, el",'18,305430
+Baix Llobregat,N,TRFO,11,19,Viladecans,'18,247222.4
+Vallès Oriental,N,TB,41,5,Canovelles,'18,74900.82
+Baix Llobregat,N,TRFO,11,10,Martorell,'18,119382
+Baix Llobregat,N,DONA,11,3,Sant Vicenç dels Horts,'18,58288.8
+Vallès Occidental,N,IPIS,40,125,Badia del Vallès,'18,60000
+Vallès Occidental,S,JENP,40,5,Montcada i Reixac,'18,55000
+Baix Llobregat,N,DONA,11,4,Esplugues de Llobregat,'18,77264.8
+Baix Llobregat,S,JENP,11,10,Sant Boi de Llobregat,'18,110000
+Baix Llobregat,N,FOQ,11,45,Sant Esteve Sesrovires,'18,102381.75
+Baix Llobregat,N,AMAP,11,15,Sant Vicenç dels Horts,'18,24583.5
+Vallès Oriental,N,TRFO,41,5,Cardedeu,'18,59614.5
+Baix Llobregat,N,SAC,11,30,Sant Joan Despí,'18,15900
+Vallès Oriental,S,PSGJ,41,80,Mollet del Vallès,'18,286660.9
+Barcelonès,N,ENFE,13,15,Santa Coloma de Gramenet,'18,419669.55
+Baix Llobregat,S,FEM,11,1,Cervelló,'18,3502.62
+Barcelonès,N,COOR,13,3,Barcelona,'18,97586.88
+Vallès Oriental,N,30P,41,35,Granollers,'18,148951.51
+Baix Llobregat,N,FI45,11,4,"Prat de Llobregat, el",'18,41210.4
+Baix Llobregat,S,PSGJ,11,22,Esparreguera,'18,77655.56
+Baix Llobregat,N,DAM,11,75,Castelldefels,'18,264390
+Vallès Oriental,N,TRFO,41,6,"Franqueses del Vallès, les",'18,69801.8
+Vallès Oriental,N,CC,41,24,Granollers,'18,130243.2
+Barcelonès,N,REEM,13,11,Badalona,'18,2496.48
+Barcelonès,N,APRE,13,125,Barcelona,'18,184624
+Vallès Occidental,N,DONA,40,3,Santa Perpètua de Mogoda,'18,58288.8
+Barcelonès,N,FOQ,13,294,Badalona,'18,801511.2
+Barcelonès,N,CIF,13,180,Barcelona,'18,238063.41999999998
+Barcelonès,N,AODL,13,10,Santa Coloma de Gramenet,'18,274399.2
+Barcelonès,N,DONA,13,34,Barcelona,'18,668669.4
+Baix Llobregat,S,FEM,11,5,Castelldefels,'18,16629.99
+Vallès Occidental,N,FOQ,40,264,Rubí,'18,819047.4
+Vallès Oriental,N,FPOS,41,467,Mollet del Vallès,'18,125615.20999999999
+Vallès Oriental,S,PSGJ,41,120,Granollers,'18,392341.59
+Baix Llobregat,N,30P,11,30,"Prat de Llobregat, el",'18,145198.31999999998
+Baix Llobregat,N,30P,11,2,Cervelló,'18,12289.56
+Vallès Occidental,N,AODL,40,1,Polinyà,'18,31376.04
+Vallès Oriental,N,FOQ,41,30,Caldes de Montbui,'18,72460.5
+Baix Llobregat,S,FEM,11,17,"Prat de Llobregat, el",'18,58371.15
+Baix Llobregat,N,APRE,11,66,Viladecans,'18,10597.6
+Baix Llobregat,N,COOR,11,1,Esplugues de Llobregat,'18,32528.960000000003
+Barcelonès,N,DAM,13,105,Barcelona,'18,183393
+Baix Llobregat,N,AODL,11,9,Sant Feliu de Llobregat,'18,278705.94
+Vallès Occidental,N,APRE,40,66,Sant Cugat del Vallès,'18,10597.6
+Vallès Oriental,N,30P,41,20,"Llagosta, la",'18,112406.11
+Barcelonès,N,UBIC,13,62,Badalona,'18,113077.75
+Barcelonès,N,UNIS,13,8034,Barcelona,'18,1061762.11
+Vallès Occidental,S,FEM,40,7,Castellar del Vallès,'18,26767.440000000002
+Baix Llobregat,N,IPIS,11,125,Castelldefels,'18,60000
+Baix Llobregat,N,DONA,11,4,Gavà,'18,77659.9
+Baix Llobregat,N,AODL,11,6,Viladecans,'18,188256.24000000002
+Vallès Oriental,S,NOGJ,41,90,Granollers,'18,966761.37
+Baix Llobregat,N,CC,11,30,Molins de Rei,'18,162804
+Vallès Occidental,N,ENFE,40,11,Cerdanyola del Vallès,'18,307757.67
+Baix Llobregat,N,PRMI,11,7,Castelldefels,'18,78240.4
+Baix Llobregat,N,SAC,11,320,Cornellà de Llobregat,'18,160000
+Baix Llobregat,N,COOR,11,1,Cornellà de Llobregat,'18,32528.960000000003
+Barcelonès,N,PRMI,13,27,"Hospitalet de Llobregat, l'",'18,284364.4
+Vallès Occidental,N,DONA,40,4,Cerdanyola del Vallès,'18,76868.8
+Baix Llobregat,N,ACOL,11,1,Sant Feliu de Llobregat,'18,19364.8
+Baix Llobregat,S,JENP,11,3,Sant Joan Despí,'18,33000
+Baix Llobregat,N,FOQ,11,405,"Prat de Llobregat, el",'18,911160
+Barcelonès,N,AMAP,13,105,Santa Coloma de Gramenet,'18,231826.5
+Vallès Occidental,N,PRMI,40,8,Montcada i Reixac,'18,92251.6
+Vallès Occidental,N,TRFO,40,8,Barberà del Vallès,'18,108018.4
+Vallès Occidental,N,DONA,40,16,Sabadell,'18,307475.2
+Barcelonès,N,FOQ,13,3399,Barcelona,'18,10193683.350000001
+Baix Llobregat,S,JENP,11,5,Sant Andreu de la Barca,'18,55000
+Vallès Oriental,N,TB,41,2,Figaró-Montmany,'18,21210.780000000002
+Barcelonès,N,DONA,13,18,Badalona,'18,356862
+Barcelonès,N,30P,13,22,"Hospitalet de Llobregat, l'",'18,88111.88
+Barcelonès,N,DAM,13,405,Barcelona,'18,671859
+Vallès Oriental,N,TB,41,65,Granollers,'18,246386.41
+Vallès Occidental,N,30P,40,1,Montcada i Reixac,'18,6143.1900000000005
+Barcelonès,N,DAM,13,105,"Hospitalet de Llobregat, l'",'18,255463.5
+Vallès Oriental,S,FEM,41,7,"Llagosta, la",'18,26535
+Baix Llobregat,N,30P,11,17,Sant Boi de Llobregat,'18,73615.63
+Baix Llobregat,N,APRE,11,66,"Prat de Llobregat, el",'18,10597.6
+Vallès Oriental,S,JENP,41,2,Bigues i Riells,'18,22000
+Baix Llobregat,N,DONA,11,12,Sant Feliu de Llobregat,'18,232561.2
+Vallès Oriental,N,30P,41,3,"Ametlla del Vallès, l'",'18,14957.77
+Vallès Oriental,S,FEM,41,1,Montornès del Vallès,'18,3749.92
+Baix Llobregat,N,PRMI,11,12,Cornellà de Llobregat,'18,148999.2
+Baix Llobregat,N,DONA,11,2,Martorell,'18,39305.6
+Barcelonès,N,FPOS,13,44826,Barcelona,'18,12332547.9
+Barcelonès,N,DAM,13,180,Santa Coloma de Gramenet,'18,636675
+Baix Llobregat,S,REFE,11,1,Cornellà de Llobregat,'18,32000
+Vallès Occidental,N,PIN,40,110,Santa Perpètua de Mogoda,'18,150000
+Vallès Occidental,S,FEM,40,2,Ripollet,'18,7358.68
+Barcelonès,N,CC,13,30,Santa Coloma de Gramenet,'18,162804
+Baix Llobregat,S,FEM,11,8,Cornellà de Llobregat,'18,32903.4
+Vallès Oriental,N,CC,41,15,Mollet del Vallès,'18,40152
+Vallès Occidental,N,COOR,40,1,Sant Cugat del Vallès,'18,32528.960000000003
+Vallès Occidental,N,COOR,40,1,Ripollet,'18,32528.960000000003
+Vallès Occidental,S,JENP,40,5,Santa Perpètua de Mogoda,'18,55000
+Vallès Occidental,N,30P,40,2,Viladecavalls,'18,5217.52
+Baix Llobregat,N,TRFO,11,12,Gavà,'18,157892
+Baix Llobregat,N,AODL,11,4,Cornellà de Llobregat,'18,116739.25
+Vallès Oriental,S,FEM,41,1,"Ametlla del Vallès, l'",'18,3184.2
+Baix Llobregat,S,JENP,11,3,Pallejà,'18,33000
+Baix Llobregat,N,TRFO,11,11,Sant Vicenç dels Horts,'18,138685.6
+Vallès Occidental,N,UBIC,40,196,Sabadell,'18,361420.59
+Baix Llobregat,N,30P,11,1,Molins de Rei,'18,2873.62
+Barcelonès,S,FEM,13,2,"Hospitalet de Llobregat, l'",'18,7403.29
+Vallès Oriental,N,SAC,41,30,"Garriga, la",'18,15000
+Vallès Occidental,N,FPOT,40,556,Sabadell,'18,161640.7
+Barcelonès,N,REEM,13,231,Barcelona,'18,52426.08
+Baix Llobregat,N,AODL,11,2,Molins de Rei,'18,62752.08
+Vallès Oriental,S,PSGJ,41,20,"Franqueses del Vallès, les",'18,94290.75
+Vallès Oriental,S,JENP,41,3,Santa Maria de Palautordera,'18,33000
+Baix Llobregat,N,ENFE,11,11,Castelldefels,'18,381423.46
+Baix Llobregat,N,AMAP,11,105,"Prat de Llobregat, el",'19,243306
+Barcelonès,N,APRE,13,97,Sant Adrià de Besòs,'19,18731
+Vallès Occidental,S,TLN,40,24,Terrassa,'19,241951
+Baix Llobregat,N,ARIF,11,125,Cornellà de Llobregat,'19,64850
+Baix Llobregat,N,AMAP,11,15,Sant Esteve Sesrovires,'19,14601
+Vallès Occidental,N,AMAP,40,90,Terrassa,'19,163818
+Vallès Occidental,N,ARIF,40,125,Terrassa,'19,64850
+Barcelonès,N,REEM,13,8,Badalona,'19,2496.48
+Baix Llobregat,N,IPIS,11,125,Castelldefels,'19,60000
+Baix Llobregat,N,AODL,11,1,Corbera de Llobregat,'19,36000
+Vallès Occidental,N,REEM,40,25,Sabadell,'19,7489.44
+Vallès Oriental,N,AODL,41,2,Cardedeu,'19,72000
+Barcelonès,N,AODL,13,1,Santa Coloma de Gramenet,'19,36000
+Baix Llobregat,S,REFE,11,1,"Prat de Llobregat, el",'19,32000
+Barcelonès,N,DONA,13,34,Barcelona,'19,669399.6
+Baix Llobregat,N,TRFO,11,13,Castelldefels,'19,171066.4
+Vallès Oriental,N,APRE,41,97,Mollet del Vallès,'19,18731
+Vallès Occidental,N,CCFI,40,50,Sant Cugat del Vallès,'19,141393
+Vallès Oriental,N,TRFO,41,7,Canovelles,'19,88866
+Baix Llobregat,S,JENP,11,7,Sant Boi de Llobregat,'19,77000
+Baix Llobregat,N,REEM,11,8,Cornellà de Llobregat,'19,2496.48
+Vallès Occidental,N,CC,40,105,Sabadell,'19,366174
+Vallès Occidental,S,PSGJ,40,1,Sant Cugat del Vallès,'19,5400
+Barcelonès,N,REEM,13,25,"Hospitalet de Llobregat, l'",'19,7489.44
+Vallès Occidental,N,REEM,40,13,Ripollet,'19,3744.72
+Vallès Oriental,N,FOQ,41,45,"Franqueses del Vallès, les",'19,101200.5
+Vallès Oriental,N,30P,41,75,Mollet del Vallès,'19,319181.81
+Baix Llobregat,N,REEM,11,21,Martorell,'19,6241.2
+Vallès Occidental,N,ARIF,40,125,Montcada i Reixac,'19,64850
+Baix Llobregat,N,30P,11,35,Viladecans,'19,148951.51
+Vallès Occidental,N,TB,40,357,Terrassa,'19,1135208.46
+Barcelonès,N,AMAP,13,510,Barcelona,'19,855762.3600000001
+Baix Llobregat,N,TB,11,100,Olesa de Montserrat,'19,44551.5
+Vallès Occidental,N,COOR,40,1,Sant Cugat del Vallès,'19,34067.24
+Vallès Oriental,N,30P,41,1,Sant Esteve de Palautordera,'19,7439.120000000001
+Vallès Oriental,N,FPOT,41,296,Granollers,'19,54665.47
+Vallès Oriental,N,TRFO,41,5,Montornès del Vallès,'19,71412.5
+Baix Llobregat,N,AODL,11,1,Martorell,'19,36000
+Baix Llobregat,N,UBIC,11,108,Sant Feliu de Llobregat,'19,203210.53
+Vallès Occidental,N,30P,40,4,Matadepera,'19,18296.36
+Barcelonès,S,REFE,13,1,Santa Coloma de Gramenet,'19,36800
+Vallès Oriental,S,PSGJ,41,1,Llinars del Vallès,'19,2700
+Vallès Oriental,N,30P,41,1,Montornès del Vallès,'19,7487.41
+Vallès Occidental,N,TB,40,784,Sabadell,'19,2035057.81
+Baix Llobregat,S,JENP,11,6,"Prat de Llobregat, el",'19,66000
+Vallès Occidental,N,COOR,40,1,Ripollet,'19,34067.24
+Barcelonès,N,ACOL,13,2,Badalona,'19,38434.4
+Barcelonès,N,CIF,13,340,Santa Coloma de Gramenet,'19,374623.12
+Vallès Oriental,N,30P,41,2,Santa Eulàlia de Ronçana,'19,8033.94
+Vallès Occidental,N,FPOT,40,335,Sabadell,'19,134283.91
+Baix Llobregat,N,REEM,11,8,Viladecans,'19,2496.48
+Baix Llobregat,N,DONA,11,2,Sant Andreu de la Barca,'19,38646.8
+Vallès Occidental,N,30P,40,60,Sabadell,'19,255345.44999999998
+Baix Llobregat,N,30P,11,29,"Prat de Llobregat, el",'19,141345.88999999998
+Baix Llobregat,N,30P,11,20,Sant Boi de Llobregat,'19,85115.15000000001
+Vallès Occidental,N,AODL,40,8,Sabadell,'19,288000
+Vallès Occidental,N,IPIS,40,125,Montcada i Reixac,'19,60000
+Vallès Occidental,N,AODL,40,2,Ripollet,'19,72000
+Baix Llobregat,N,FI45,11,2,Sant Feliu de Llobregat,'19,12600
+Baix Llobregat,N,30P,11,2,Sant Climent de Llobregat,'19,7025.33
+Baix Llobregat,N,30P,11,30,Gavà,'19,156447.94
+Vallès Occidental,S,JENP,40,2,Sentmenat,'19,22000
+Vallès Occidental,N,AODL,40,3,Rubí,'19,108000
+Baix Llobregat,N,IPIS,11,125,Gavà,'19,60000
+Baix Llobregat,S,PSGJ,11,1,Castelldefels,'19,5400
+Vallès Occidental,N,AODL,40,1,Polinyà,'19,36000
+Barcelonès,N,COOR,13,3,Badalona,'19,102201.72
+Vallès Occidental,N,DONA,40,2,Badia del Vallès,'19,38463.2
+Baix Llobregat,N,ENFE,11,14,Sant Boi de Llobregat,'19,366728.53
+Baix Llobregat,N,30P,11,3,Sant Vicenç dels Horts,'19,17654.35
+Baix Llobregat,N,FOQ,11,30,Abrera,'19,113710.5
+Vallès Oriental,N,AODL,41,3,Granollers,'19,108000
+Vallès Occidental,N,ENFE,40,18,Sant Cugat del Vallès,'19,417025.27
+Vallès Occidental,N,30P,40,8,Montcada i Reixac,'19,53547.119999999995
+Vallès Occidental,N,AMAP,40,60,Cerdanyola del Vallès,'19,112950
+Baix Llobregat,S,JENP,11,2,Pallejà,'19,22000
+Barcelonès,N,30P,13,400,Barcelona,'19,1702302.97
+Vallès Oriental,N,FPOS,41,518,Mollet del Vallès,'19,246740.8
+Baix Llobregat,N,ENFE,11,14,Cornellà de Llobregat,'19,405085.35
+Barcelonès,N,AODL,13,5,Barcelona,'19,180000
+Baix Llobregat,N,AODL,11,1,Esplugues de Llobregat,'19,36000
+Vallès Occidental,N,AODL,40,1,Santa Perpètua de Mogoda,'19,36000
+Vallès Occidental,N,FI45,40,2,Terrassa,'19,19706.4
+Barcelonès,N,DONA,13,4,Sant Adrià de Besòs,'19,77718.4
+Vallès Oriental,N,DONA,41,1,"Llagosta, la",'19,19797.4
+Baix Llobregat,N,CIF,11,312,Sant Feliu de Llobregat,'19,262089.77000000002
+Baix Llobregat,N,AMAP,11,15,Martorell,'19,24132
+Vallès Oriental,N,30P,41,3,"Roca del Vallès, la",'19,22587.43
+Barcelonès,N,REEM,13,177,Barcelona,'19,52426.08
+Baix Llobregat,N,REEM,11,13,Sant Boi de Llobregat,'19,3744.72
+Vallès Occidental,N,FOQ,40,321,Rubí,'19,995286.3
+Barcelonès,N,DONA,13,18,"Hospitalet de Llobregat, l'",'19,345909.6
+Barcelonès,N,REEM,13,4,Sant Adrià de Besòs,'19,1248.24
+Vallès Occidental,N,AODL,40,1,Sant Cugat del Vallès,'19,36000
+Baix Llobregat,S,JENP,11,3,Sant Just Desvern,'19,33000
+Barcelonès,N,FOQ,13,3415,Barcelona,'19,10018899.75
+Baix Llobregat,S,JENP,11,5,Martorell,'19,55000
+Barcelonès,N,CIF,13,629,Barcelona,'19,270080.02
+Vallès Oriental,N,AODL,41,2,Mollet del Vallès,'19,72000
+Baix Llobregat,N,CC,11,60,"Prat de Llobregat, el",'19,234666
+Baix Llobregat,N,REEM,11,13,Sant Feliu de Llobregat,'19,3744.72
+Baix Llobregat,N,CCFI,11,15,Cornellà de Llobregat,'19,39480
+Baix Llobregat,N,30P,11,19,Sant Boi de Llobregat,'19,110024.9
+Vallès Oriental,N,PRMI,41,31,Granollers,'19,382790.4
+Barcelonès,S,JENP,13,18,"Hospitalet de Llobregat, l'",'19,198000
+Baix Llobregat,N,ACOL,11,6,"Prat de Llobregat, el",'19,115317.6
+Baix Llobregat,N,TB,11,280,Sant Feliu de Llobregat,'19,428744.44
+Barcelonès,N,DAM,13,45,"Hospitalet de Llobregat, l'",'19,54156
+Vallès Oriental,S,PSGJ,41,1,Sant Fost de Campsentelles,'19,5400
+Vallès Oriental,N,FOQ,41,10,Cardedeu,'19,48600
+Vallès Oriental,N,TB,41,21,"Franqueses del Vallès, les",'19,213555.14
+Vallès Occidental,S,JENP,40,14,Sabadell,'19,154000
+Vallès Oriental,N,ENFE,41,12,Granollers,'19,256317.71000000002
+Baix Llobregat,N,REEM,11,8,Esplugues de Llobregat,'19,2496.48
+Barcelonès,N,IPIS,13,500,"Hospitalet de Llobregat, l'",'19,240000
+Barcelonès,N,CCFI,13,90,Barcelona,'19,234583.5
+Barcelonès,N,AODL,13,2,"Hospitalet de Llobregat, l'",'19,72000
+Barcelonès,N,30P,13,7,Sant Adrià de Besòs,'19,49642.43
+Baix Llobregat,N,PRMI,11,6,Sant Vicenç dels Horts,'19,59023.2
+Baix Llobregat,N,TRFO,11,4,Vallirana,'19,48728.8
+Barcelonès,N,ENFE,13,37,Barcelona,'19,617081.6799999999
+Vallès Occidental,N,DONA,40,15,Sabadell,'19,288258
+Vallès Oriental,N,DONA,41,2,Parets del Vallès,'19,39752
+Baix Llobregat,N,30P,11,2,Pallejà,'19,14982.56
+Vallès Occidental,N,30P,40,6,Castellbisbal,'19,40713.51
+Vallès Occidental,N,PRMI,40,4,Sant Cugat del Vallès,'19,39291.2
+Vallès Oriental,N,PIN,41,40,Granollers,'19,55857.3
+Barcelonès,N,ACOL,13,50,Barcelona,'19,967289.9
+Baix Llobregat,N,DONA,11,1,Sant Joan Despí,'19,19876
+Barcelonès,S,JENP,13,11,Santa Coloma de Gramenet,'19,121000
+Vallès Occidental,N,IPIS,40,125,Badia del Vallès,'19,60000
+Vallès Occidental,N,CIF,40,281,Terrassa,'19,264482.33
+Baix Llobregat,N,IPIS,11,375,Cornellà de Llobregat,'19,180000
+Vallès Occidental,N,TRFO,40,8,Barberà del Vallès,'19,108018.4
+Vallès Occidental,N,TB,40,71,Rubí,'19,136917.94999999998
+Baix Llobregat,N,FOQ,11,60,Gavà,'19,75990
+Baix Llobregat,N,COOR,11,1,Castelldefels,'19,34067.24
+Vallès Occidental,N,ENFE,40,14,Rubí,'19,299037.33
+Vallès Oriental,N,REEM,41,8,Mollet del Vallès,'19,2496.48
+Baix Llobregat,S,REFE,11,3,Sant Feliu de Llobregat,'19,110400
+Baix Llobregat,N,30P,11,2,Esparreguera,'19,13938.34
+Vallès Occidental,N,TRFO,40,7,Santa Perpètua de Mogoda,'19,90669.6
+Baix Llobregat,N,30P,11,9,Sant Feliu de Llobregat,'19,49344.9
+Vallès Occidental,N,30P,40,2,Polinyà,'19,8872.54
+Vallès Occidental,N,FPOS,40,854,Sabadell,'19,239615.55
+Barcelonès,N,UNIS,13,8027,Barcelona,'19,1060759.11
+Vallès Oriental,N,30P,41,3,Montmeló,'19,10977.49
+Baix Llobregat,N,30P,11,25,Gavà,'19,106393.93999999999
+Vallès Occidental,N,APP,40,30,Sabadell,'19,455399.62
+Vallès Occidental,N,AODL,40,1,Castellar del Vallès,'19,36000
+Baix Llobregat,N,ACOL,11,2,Sant Feliu de Llobregat,'19,38729.6
+Barcelonès,N,PRMI,13,21,"Hospitalet de Llobregat, l'",'19,262861.2
+Barcelonès,N,TRFO,13,76,Badalona,'19,970485.9
+Baix Llobregat,N,UBIC,11,40,Sant Joan Despí,'19,75491.35
+Vallès Occidental,S,PSGJ,40,1,Palau-solità i Plegamans,'19,5400
+Vallès Occidental,N,UBIC,40,43,Barberà del Vallès,'19,81057.20999999999
+Vallès Oriental,N,TRFO,41,4,Cardedeu,'19,49860.4
+Barcelonès,N,DAM,13,465,Barcelona,'19,764964
+Vallès Occidental,N,ACOL,40,1,Montcada i Reixac,'19,19217.2
+Vallès Oriental,N,TRFO,41,48,Granollers,'19,619988.4
+Barcelonès,N,FOQ,13,30,Sant Adrià de Besòs,'19,46524
+Baix Llobregat,N,UBIC,11,16,Castelldefels,'19,29228.8
+Vallès Occidental,N,FOQ,40,60,Sant Cugat del Vallès,'19,156838.5
+Barcelonès,N,FPOT,13,54054,Barcelona,'19,14901192.870000001
+Vallès Oriental,N,30P,41,5,Canovelles,'19,31285.62
+Vallès Occidental,N,30P,40,66,Terrassa,'19,368295.09
+Vallès Oriental,N,30P,41,2,"Llagosta, la",'19,13315.47
+Barcelonès,N,CC,13,60,Badalona,'19,143724
+Vallès Occidental,N,TRFO,40,13,Cerdanyola del Vallès,'19,165590.8
+Baix Llobregat,N,DONA,11,5,"Prat de Llobregat, el",'19,99380
+Vallès Oriental,N,UBIC,41,79,Mollet del Vallès,'19,147593.03
+Vallès Occidental,S,JENP,40,1,Vacarisses,'19,11000
+Vallès Occidental,N,AODL,40,1,Barberà del Vallès,'19,36000
+Vallès Occidental,S,JENP,40,2,Castellbisbal,'19,22000
+Baix Llobregat,N,UBIC,11,31,Gavà,'19,58793.7
+Baix Llobregat,N,TRFO,11,9,Sant Vicenç dels Horts,'19,118586.4
+Baix Llobregat,N,IPIS,11,125,Viladecans,'19,60000
+Baix Llobregat,S,DPGJ,11,32,"Prat de Llobregat, el",'19,9789
+Barcelonès,S,JENP,13,17,Badalona,'19,187000
+Vallès Oriental,N,CC,41,15,Mollet del Vallès,'19,39480
+Vallès Occidental,N,FI45,40,1,Rubí,'19,12600
+Baix Llobregat,N,30P,11,21,Cornellà de Llobregat,'19,108924.61
+Barcelonès,N,FOQ,13,690,Santa Coloma de Gramenet,'19,1770358.5
+Vallès Oriental,N,30P,41,15,Lliçà de Vall,'19,101022.53
+Vallès Oriental,N,TRFO,41,1,Caldes de Montbui,'19,19202.8
+Vallès Occidental,N,30P,40,5,Palau-solità i Plegamans,'19,31147.19
+Baix Llobregat,S,PSGJ,11,2,Viladecans,'19,10800
+Vallès Occidental,N,PRMI,40,10,Rubí,'19,117132
+Vallès Occidental,N,TB,40,120,Santa Perpètua de Mogoda,'19,575363.11
+Vallès Oriental,N,TRFO,41,5,"Llagosta, la",'19,61467
+Barcelonès,N,ACOL,13,1,"Hospitalet de Llobregat, l'",'19,19379.2
+Barcelonès,N,PRMI,13,23,Santa Coloma de Gramenet,'19,291915.6
+Baix Llobregat,N,30P,11,5,Sant Joan Despí,'19,18029.57
+Barcelonès,N,CCFI,13,90,"Hospitalet de Llobregat, l'",'19,179487
+Vallès Oriental,N,IPIS,41,250,Mollet del Vallès,'19,120000
+Vallès Occidental,N,TB,40,3,Montcada i Reixac,'19,28585.32
+Baix Llobregat,N,30P,11,1,Martorell,'19,7394.6900000000005
+Baix Llobregat,N,FPOT,11,1343,"Prat de Llobregat, el",'19,260326
+Vallès Oriental,S,PSGJ,41,3,Lliçà d'Amunt,'19,16200
+Vallès Occidental,N,REEM,40,25,Terrassa,'19,7489.44
+Barcelonès,N,DAM,13,180,Santa Coloma de Gramenet,'19,546039
+Vallès Occidental,N,30P,40,1,Sant Llorenç Savall,'19,7584
+Vallès Occidental,N,DONA,40,26,Terrassa,'19,506568
+Baix Llobregat,N,FOQ,11,135,Sant Just Desvern,'19,448312.5
+Vallès Oriental,S,JENP,41,1,Montmeló,'19,11000
+Barcelonès,N,FPOT,13,2239,"Hospitalet de Llobregat, l'",'19,700426.64
+Baix Llobregat,N,IPIS,11,125,Sant Feliu de Llobregat,'19,60000
+Baix Llobregat,S,JENP,11,6,Castelldefels,'19,66000
+Baix Llobregat,N,UBIC,11,40,Viladecans,'19,73072.02
+Baix Llobregat,N,TB,11,38,Viladecans,'19,647870.88
+Vallès Occidental,S,REFE,40,2,Sabadell,'19,73600
+Vallès Oriental,S,PSGJ,41,1,Cardedeu,'19,5400
+Vallès Occidental,N,ENFE,40,14,Cerdanyola del Vallès,'19,317375.06
+Vallès Oriental,S,PSGJ,41,1,Gualba,'19,5400
+Baix Llobregat,N,FOQ,11,204,Cornellà de Llobregat,'19,552174
+Baix Llobregat,N,FPOT,11,386,Cornellà de Llobregat,'19,65049
+Vallès Oriental,N,CIF,41,90,"Franqueses del Vallès, les",'19,218343.54
+Baix Llobregat,S,DPGJ,11,25,Sant Feliu de Llobregat,'19,2086.5
+Vallès Occidental,N,ACOL,40,2,Sabadell,'19,38434.4
+Baix Llobregat,N,AODL,11,3,Sant Feliu de Llobregat,'19,108000
+Vallès Oriental,S,PSGJ,41,4,Lliçà de Vall,'19,21600
+Baix Llobregat,N,DONA,11,2,Martorell,'19,38853.8
+Vallès Oriental,N,ENFE,41,10,Mollet del Vallès,'19,279779.69
+Vallès Oriental,S,PSGJ,41,1,Montmeló,'19,5400
+Vallès Occidental,S,PSGJ,40,1,Sentmenat,'19,5400
+Baix Llobregat,N,TRFO,11,11,Gavà,'19,138512.8
+Vallès Occidental,N,FPOS,40,732,Cerdanyola del Vallès,'19,201744.84999999998
+Barcelonès,N,APRE,13,78,Santa Coloma de Gramenet,'19,12487
+Vallès Occidental,N,TRFO,40,24,Rubí,'19,311132.8
+Vallès Oriental,S,REFE,41,3,Granollers,'19,110361.13
+Barcelonès,N,CIF,13,204,Santa Coloma de Gramenet,'19,484312.59
+Vallès Oriental,S,JENP,41,1,Sant Feliu de Codines,'19,11000
+Vallès Oriental,N,ACOL,41,1,"Franqueses del Vallès, les",'19,19202.8
+Baix Llobregat,N,ARIF,11,125,Viladecans,'19,64850
+Baix Llobregat,N,TB,11,54,Martorell,'19,207853.79
+Baix Llobregat,N,FOQ,11,225,Martorell,'19,482505
+Baix Llobregat,N,DAM,11,75,Castelldefels,'19,264390
+Baix Llobregat,N,30P,11,1,"Papiol, el",'19,7580.14
+Baix Llobregat,N,DONA,11,1,Esparreguera,'19,19202.8
+Vallès Occidental,N,AMAP,40,60,Sabadell,'19,127125
+Vallès Occidental,N,30P,40,53,Sabadell,'19,261799.06
+Barcelonès,N,30P,13,35,"Hospitalet de Llobregat, l'",'19,208721.44999999998
+Vallès Oriental,N,DONA,41,1,"Franqueses del Vallès, les",'19,19450.3
+Barcelonès,N,PRMI,13,62,Barcelona,'19,845188.2
+Baix Llobregat,N,30P,11,35,"Prat de Llobregat, el",'19,148951.51
+Vallès Occidental,S,JENP,40,6,Cerdanyola del Vallès,'19,66000
+Vallès Oriental,N,TB,41,5,Canovelles,'19,77166.52
+Vallès Oriental,S,JENP,41,2,Llinars del Vallès,'19,22000
+Baix Llobregat,N,DONA,11,6,Cornellà de Llobregat,'19,117916.8
+Barcelonès,N,30P,13,60,Santa Coloma de Gramenet,'19,255345.44999999998
+Vallès Occidental,N,FOQ,40,90,Barberà del Vallès,'19,253000.5
+Vallès Oriental,N,AMAP,41,345,Granollers,'19,515451
+Vallès Occidental,N,FI45,40,2,Sant Cugat del Vallès,'19,9450
+Baix Llobregat,N,COOR,11,1,"Prat de Llobregat, el",'19,34067.24
+Baix Llobregat,N,FOQ,11,60,Sant Joan Despí,'19,133401
+Baix Llobregat,N,FOQ,11,150,Molins de Rei,'19,366684.75
+Barcelonès,N,PIN,13,10,"Hospitalet de Llobregat, l'",'19,128250
+Vallès Occidental,N,CIF,40,165,Terrassa,'19,352929.36
+Baix Llobregat,S,DPGJ,11,19,Pallejà,'19,1476
+Baix Llobregat,S,JENP,11,6,Sant Andreu de la Barca,'19,66000
+Vallès Occidental,N,DONA,40,7,Rubí,'19,134520.4
+Vallès Oriental,N,AMAP,41,15,Sant Celoni,'19,27127.5
+Baix Llobregat,N,ACOL,11,1,Castelldefels,'19,19202.8
+Baix Llobregat,N,TRFO,11,32,Sant Boi de Llobregat,'19,415387.2
+Baix Llobregat,N,COOR,11,1,Gavà,'19,34067.24
+Baix Llobregat,N,FOQ,11,282,Castelldefels,'19,773957.8500000001
+Baix Llobregat,N,30P,11,1,Sant Andreu de la Barca,'19,7641.95
+Baix Llobregat,N,APRE,11,78,"Prat de Llobregat, el",'19,12487
+Barcelonès,S,PSGJ,13,1,"Hospitalet de Llobregat, l'",'19,5400
+Baix Llobregat,N,30P,11,31,Viladecans,'19,193199.57
+Baix Llobregat,N,PIN,11,50,Castelldefels,'19,70982.78
+Vallès Oriental,N,FOQ,41,90,Caldes de Montbui,'19,121404.3
+Baix Llobregat,N,TB,11,25,Castelldefels,'19,399260.33999999997
+Barcelonès,N,CIF,13,120,"Hospitalet de Llobregat, l'",'19,249926.13
+Vallès Occidental,N,ACOL,40,1,Sant Cugat del Vallès,'19,19379.2
+Vallès Oriental,N,DONA,41,14,Granollers,'19,270664.4
+Baix Llobregat,N,AMAP,11,15,Viladecans,'19,24132
+Baix Llobregat,N,PRMI,11,8,"Prat de Llobregat, el",'19,97457.6
+Baix Llobregat,N,DONA,11,1,Vallirana,'19,19217.2
+Baix Llobregat,S,REFE,11,1,Martorell,'19,36639
+Vallès Occidental,N,ARIF,40,125,Cerdanyola del Vallès,'19,64850
+Baix Llobregat,S,JENP,11,3,Molins de Rei,'19,33000
+Vallès Occidental,N,FOQ,40,75,Montcada i Reixac,'19,144453
+Baix Llobregat,S,JENP,11,5,Gavà,'19,55000
+Barcelonès,S,TLN,13,76,Barcelona,'19,773499
+Barcelonès,N,CIF,13,572,"Hospitalet de Llobregat, l'",'19,328374.13
+Vallès Occidental,S,PSGJ,40,1,Castellar del Vallès,'19,5400
+Vallès Occidental,N,COOR,40,1,Barberà del Vallès,'19,34067.24
+Barcelonès,N,FOQ,13,1110,"Hospitalet de Llobregat, l'",'19,3160188
+Barcelonès,N,COOR,13,3,Barcelona,'19,102201.72
+Vallès Occidental,N,PRMI,40,6,Terrassa,'19,59908.8
+Vallès Oriental,S,JENP,41,3,Lliçà d'Amunt,'19,33000
+Vallès Occidental,N,UBIC,40,136,Terrassa,'19,255035.1
+Vallès Occidental,N,TRFO,40,20,Sant Cugat del Vallès,'19,290256
+Vallès Occidental,S,JENP,40,5,Santa Perpètua de Mogoda,'19,55000
+Vallès Occidental,N,30P,40,1,Ullastrell,'19,2575.65
+Baix Llobregat,N,PRMI,11,5,Sant Andreu de la Barca,'19,49186
+Baix Llobregat,N,FI45,11,1,Abrera,'19,12600
+Vallès Occidental,N,DONA,40,4,Cerdanyola del Vallès,'19,78611.2
+Baix Llobregat,N,AODL,11,4,Sant Feliu de Llobregat,'19,144000
+Barcelonès,N,CIF,13,180,Barcelona,'19,244533.25
+Vallès Oriental,N,FOQ,41,315,Mollet del Vallès,'19,831299.55
+Barcelonès,N,ENFE,13,28,Badalona,'19,783383.14
+Vallès Occidental,N,REEM,40,13,Rubí,'19,3744.72
+Baix Llobregat,N,ARIF,11,125,"Prat de Llobregat, el",'19,64850
+Baix Llobregat,N,IPIS,11,125,Sant Boi de Llobregat,'19,60000
+Baix Llobregat,S,JENP,11,1,Torrelles de Llobregat,'19,11000
+Baix Llobregat,N,FOQ,11,15,Sant Andreu de la Barca,'19,65650.5
+Baix Llobregat,S,JENP,11,10,Esplugues de Llobregat,'19,110000
+Vallès Oriental,N,FI45,41,2,Parets del Vallès,'19,25200
+Vallès Oriental,N,AMAP,41,45,Granollers,'19,89955
+Barcelonès,N,COOR,13,1,Sant Adrià de Besòs,'19,34067.24
+Baix Llobregat,N,FOQ,11,75,Pallejà,'19,127885.5
+Vallès Oriental,N,AODL,41,1,Mollet del Vallès,'19,36000
+Baix Llobregat,N,UBIC,11,72,Sant Boi de Llobregat,'19,134529.63
+Vallès Occidental,N,REEM,40,13,Cerdanyola del Vallès,'19,3744.72
+Vallès Occidental,N,PRMI,40,6,Ripollet,'19,60421.8
+Vallès Oriental,N,FI45,41,1,Granollers,'19,7875
+Baix Llobregat,N,ACOL,11,1,Sant Vicenç dels Horts,'19,19202.8
+Baix Llobregat,N,PRMI,11,10,Cornellà de Llobregat,'19,118752
+Baix Llobregat,N,30P,11,2,Molins de Rei,'19,15196.98
+Vallès Oriental,S,JENP,41,2,Santa Maria de Palautordera,'19,22000
+Vallès Occidental,N,TRFO,40,6,Badia del Vallès,'19,68489.6
+Vallès Occidental,N,IPIS,40,625,Terrassa,'19,300000
+Barcelonès,N,FI45,13,2,Santa Coloma de Gramenet,'19,31500
+Barcelonès,N,FPOT,13,2625,Badalona,'19,780263.57
+Vallès Oriental,N,30P,41,14,Mollet del Vallès,'19,92481.7
+Baix Llobregat,S,JENP,11,1,Begues,'19,11000
+Baix Llobregat,N,DONA,11,4,Esplugues de Llobregat,'19,77264.8
+Vallès Occidental,N,DONA,40,2,Santa Perpètua de Mogoda,'19,39305.6
+Barcelonès,N,FPOS,13,42780,Barcelona,'19,11359515.16
+Vallès Occidental,N,30P,40,1,Badia del Vallès,'19,7655.48
+Vallès Occidental,N,UBIC,40,61,Rubí,'19,114526.75
+Barcelonès,N,30P,13,243,Barcelona,'19,1433459.05
+Vallès Occidental,N,ARIF,40,125,Sabadell,'19,64850
+Vallès Occidental,N,ENFE,40,41,Terrassa,'19,981800.2
+Vallès Occidental,S,PSGJ,40,2,Viladecavalls,'19,10800
+Barcelonès,S,JENP,13,144,Barcelona,'19,1584000
+Baix Llobregat,N,DONA,11,5,Viladecans,'19,97148
+Vallès Oriental,N,30P,41,4,Parets del Vallès,'19,27943.87
+Baix Llobregat,N,PRMI,11,2,Molins de Rei,'19,20099.2
+Baix Llobregat,N,PRMI,11,4,Esparreguera,'19,39291.2
+Vallès Occidental,N,TRFO,40,92,Terrassa,'19,1237751.2
+Baix Llobregat,N,CAMP,11,25,Sant Boi de Llobregat,'19,9038.41
+Baix Llobregat,S,JENP,11,2,Olesa de Montserrat,'19,22000
+Baix Llobregat,N,TRFO,11,5,Esparreguera,'19,67874
+Baix Llobregat,S,JENP,11,1,Corbera de Llobregat,'19,11000
+Vallès Occidental,S,JENP,40,4,Castellar del Vallès,'19,44000
+Baix Llobregat,N,COOR,11,1,Esplugues de Llobregat,'19,34067.24
+Vallès Occidental,N,TRFO,40,13,Ripollet,'19,167484.4
+Baix Llobregat,S,PSGJ,11,1,Cornellà de Llobregat,'19,5400
+Vallès Oriental,S,JENP,41,4,Montornès del Vallès,'19,44000
+Baix Llobregat,N,DONA,11,13,Sant Boi de Llobregat,'19,252584.8
+Baix Llobregat,N,DAM,11,105,"Prat de Llobregat, el",'19,144234
+Barcelonès,N,ENFE,13,16,Santa Coloma de Gramenet,'19,421174.88
+Baix Llobregat,N,DONA,11,1,Molins de Rei,'19,19429.6
+Vallès Oriental,N,FI45,41,1,Llinars del Vallès,'19,18900
+Vallès Occidental,N,FOQ,40,45,Castellar del Vallès,'19,82170
+Vallès Occidental,N,PRMI,40,4,Castellar del Vallès,'19,39406.4
+Baix Llobregat,S,JENP,11,11,Sant Feliu de Llobregat,'19,121000
+Baix Llobregat,N,UBIC,11,47,Cornellà de Llobregat,'19,86135.40999999999
+Baix Llobregat,N,PRMI,11,6,Martorell,'19,59836.8
+Vallès Occidental,N,30P,40,4,Sant Quirze del Vallès,'19,26781.609999999997
+Barcelonès,N,REEM,13,17,Santa Coloma de Gramenet,'19,4992.96
+Baix Llobregat,N,FPOT,11,88,Sant Esteve Sesrovires,'19,13156.17
+Vallès Occidental,N,PRMI,40,6,Santa Perpètua de Mogoda,'19,59023.2
+Baix Llobregat,N,CAMP,11,25,"Prat de Llobregat, el",'19,9038.41
+Barcelonès,S,TLN,13,25,Santa Coloma de Gramenet,'19,312843
+Barcelonès,N,UBIC,13,218,Barcelona,'19,398426.31
+Baix Llobregat,N,AODL,11,1,Sant Boi de Llobregat,'19,36000
+Barcelonès,S,REFE,13,2,Badalona,'19,73595.4
+Vallès Occidental,N,FI45,40,7,Sabadell,'19,88200
+Baix Llobregat,S,JENP,11,1,Sant Climent de Llobregat,'19,11000
+Vallès Occidental,N,PRMI,40,25,Sabadell,'19,302210
+Barcelonès,N,APP,13,30,Santa Coloma de Gramenet,'19,451114.37
+Vallès Occidental,N,CC,40,30,Rubí,'19,162804
+Barcelonès,N,APP,13,20,Barcelona,'19,300448.11
+Barcelonès,N,DONA,13,12,Santa Coloma de Gramenet,'19,230606.4
+Baix Llobregat,S,PSGJ,11,1,Esplugues de Llobregat,'19,2700
+Vallès Oriental,N,30P,41,1,Lliçà d'Amunt,'19,1013.48
+Vallès Occidental,N,UBIC,40,21,Sant Cugat del Vallès,'19,39728.91
+Baix Llobregat,S,PSGJ,11,1,Sant Joan Despí,'19,5400
+Vallès Occidental,N,COOR,40,4,Terrassa,'19,136268.96
+Vallès Occidental,N,30P,40,4,Barberà del Vallès,'19,22352.82
+Vallès Oriental,N,30P,41,6,"Franqueses del Vallès, les",'19,45799.56
+Baix Llobregat,N,TRFO,11,6,Olesa de Montserrat,'19,77869.6
+Baix Llobregat,N,AODL,11,3,Castelldefels,'19,108000
+Vallès Oriental,N,TRFO,41,4,Parets del Vallès,'19,60429.6
+Vallès Oriental,N,COOR,41,4,Granollers,'19,136268.96
+Vallès Occidental,N,TRFO,40,60,Sabadell,'19,757362.4
+Vallès Oriental,N,TRFO,41,5,Mollet del Vallès,'19,96086
+Vallès Occidental,S,JENP,40,30,Terrassa,'19,330000
+Barcelonès,N,ACOL,13,5,Sant Adrià de Besòs,'19,96086
+Vallès Oriental,S,JENP,41,3,Sant Celoni,'19,33000
+Vallès Occidental,N,AODL,40,11,Terrassa,'19,396000
+Vallès Occidental,N,PRMI,40,6,Cerdanyola del Vallès,'19,59106.36
+Vallès Oriental,N,AMAP,41,15,Cardedeu,'19,27127.5
+Vallès Occidental,S,JENP,40,5,Rubí,'19,55000
+Baix Llobregat,N,TB,11,322,Esplugues de Llobregat,'19,313744.33999999997
+Baix Llobregat,N,PRMI,11,6,Gavà,'19,59023.2
+Baix Llobregat,N,30P,11,20,Sant Feliu de Llobregat,'19,85115.15000000001
+Barcelonès,N,UBIC,13,135,Santa Coloma de Gramenet,'19,249893.83
+Vallès Oriental,S,PSGJ,41,2,Canovelles,'19,10800
+Baix Llobregat,N,ACOL,11,1,Sant Boi de Llobregat,'19,19379.2
+Barcelonès,N,CC,13,75,"Hospitalet de Llobregat, l'",'19,207552
+Baix Llobregat,N,ACOL,11,1,Sant Joan Despí,'19,19202.8
+Barcelonès,N,CC,13,30,Santa Coloma de Gramenet,'19,162804
+Vallès Oriental,N,DONA,41,4,Mollet del Vallès,'19,76868.8
+Vallès Occidental,N,30P,40,13,Sant Cugat del Vallès,'19,85312.70999999999
+Barcelonès,N,PRMI,13,32,Badalona,'19,405882
+Vallès Occidental,N,REEM,40,8,Barberà del Vallès,'19,2496.48
+Barcelonès,N,TB,13,263,"Hospitalet de Llobregat, l'",'19,1065495.4
+Baix Llobregat,N,FI45,11,1,Molins de Rei,'19,6300
+Barcelonès,N,PQTM,13,300,"Hospitalet de Llobregat, l'",'19,422503.24
+Barcelonès,S,REFE,13,5,Barcelona,'19,184000
+Vallès Oriental,N,ARIF,41,125,Mollet del Vallès,'19,64850
+Vallès Oriental,N,TB,41,107,Mollet del Vallès,'19,156432.31
+Baix Llobregat,N,IPIS,11,125,"Prat de Llobregat, el",'19,60000
+Vallès Oriental,N,AODL,41,1,"Franqueses del Vallès, les",'19,36000
+Baix Llobregat,N,FOQ,11,45,Sant Esteve Sesrovires,'19,104574.75
+Baix Llobregat,N,TRFO,11,16,"Prat de Llobregat, el",'19,196891.6
+Vallès Oriental,N,CIF,41,130,"Franqueses del Vallès, les",'19,138054.2
+Baix Llobregat,N,FPOS,11,234,Pallejà,'19,64015.24
+Barcelonès,S,DPGJ,13,65,Barcelona,'19,14758
+Barcelonès,N,ARIF,13,500,Barcelona,'19,259400
+Barcelonès,N,PRMI,13,10,Sant Adrià de Besòs,'19,119229
+Baix Llobregat,N,FPOS,11,972,Cornellà de Llobregat,'19,361215.62
+Vallès Occidental,N,DONA,40,3,Barberà del Vallès,'19,58094.4
+Vallès Oriental,N,AODL,41,3,Parets del Vallès,'19,108000
+Barcelonès,S,PSGJ,13,27,Barcelona,'19,137414
+Vallès Occidental,N,COOR,40,2,Rubí,'19,68134.48
+Vallès Oriental,S,JENP,41,1,Figaró-Montmany,'19,11000
+Vallès Occidental,N,COOR,40,1,Cerdanyola del Vallès,'19,34067.24
+Vallès Occidental,N,FOQ,40,315,Cerdanyola del Vallès,'19,879736.8
+Baix Llobregat,N,COOR,11,2,Sant Boi de Llobregat,'19,68134.48
+Barcelonès,N,ARIF,13,125,Santa Coloma de Gramenet,'19,64850
+Baix Llobregat,N,AODL,11,3,"Prat de Llobregat, el",'19,108000
+Baix Llobregat,N,TRFO,11,24,Cornellà de Llobregat,'19,312207.2
+Baix Llobregat,N,TB,11,195,Sant Boi de Llobregat,'19,847929.13
+Vallès Oriental,N,DONA,41,1,Caldes de Montbui,'19,19202.8
+Baix Llobregat,N,TRFO,11,30,Sant Feliu de Llobregat,'19,387884.4
+Baix Llobregat,N,PRMI,11,29,Sant Boi de Llobregat,'19,444738.8
+Baix Llobregat,N,TB,11,225,Cornellà de Llobregat,'19,163028.91999999998
+Barcelonès,N,APRE,13,165,"Hospitalet de Llobregat, l'",'19,31218
+Vallès Occidental,N,FOQ,40,30,Badia del Vallès,'19,93579
+Baix Llobregat,N,ENFE,11,23,Sant Feliu de Llobregat,'19,643493.2899999999
+Baix Llobregat,N,AUTO,11,48,Martorell,'19,158088.01
+Barcelonès,N,UBIC,13,51,"Hospitalet de Llobregat, l'",'19,93074.87000000001
+Baix Llobregat,N,AODL,11,4,Cornellà de Llobregat,'19,144000
+Baix Llobregat,N,TB,11,106,"Prat de Llobregat, el",'19,207439.38999999998
+Barcelonès,N,AMAP,13,105,Santa Coloma de Gramenet,'19,208660.5
+Baix Llobregat,N,REEM,11,4,Sant Vicenç dels Horts,'19,1248.24
+Barcelonès,N,TRFO,13,14,Sant Adrià de Besòs,'19,178203.6
+Baix Llobregat,N,DONA,11,1,Olesa de Montserrat,'19,19231.6
+Baix Llobregat,N,ENFE,11,14,"Prat de Llobregat, el",'19,405085.35
+Vallès Occidental,N,UBIC,40,182,Sabadell,'19,336029.25
+Baix Llobregat,N,FOQ,11,405,"Prat de Llobregat, el",'19,863541
+Vallès Occidental,N,APRE,40,40,Terrassa,'19,6244
+Barcelonès,N,30P,13,34,Badalona,'19,188922.46
+Baix Llobregat,N,FI45,11,1,"Prat de Llobregat, el",'19,12600
+Vallès Occidental,N,DAM,40,15,Viladecavalls,'19,20715
+Baix Llobregat,N,30P,11,7,Sant Just Desvern,'19,40658.61
+Barcelonès,N,APRE,13,147,Barcelona,'19,217546
+Vallès Occidental,S,JENP,40,7,Ripollet,'19,77000
+Barcelonès,N,APRE,13,165,Badalona,'19,31218
+Barcelonès,N,30P,13,60,"Hospitalet de Llobregat, l'",'19,255345.44999999998
+Baix Llobregat,S,JENP,11,5,Sant Joan Despí,'19,55000
+Barcelonès,N,MINA,13,908,Barcelona,'19,250000
+Baix Llobregat,N,PRMI,11,4,Esplugues de Llobregat,'19,39291.2
+Baix Llobregat,N,AODL,11,1,Sant Joan Despí,'19,36000
+Baix Llobregat,N,TRFO,11,11,Esplugues de Llobregat,'19,137551.6
+Vallès Occidental,S,PSGJ,40,1,Santa Perpètua de Mogoda,'19,5400
+Vallès Occidental,N,DONA,40,2,Castellar del Vallès,'19,38463.2
+Vallès Occidental,N,30P,40,5,Viladecavalls,'19,35219.03
+Baix Llobregat,N,TRFO,11,5,Molins de Rei,'19,59628
+Barcelonès,N,FI45,13,2,"Hospitalet de Llobregat, l'",'19,9450
+Vallès Occidental,N,PRMI,40,4,Barberà del Vallès,'19,39939.2
+Vallès Occidental,N,FPOT,40,961,Cerdanyola del Vallès,'19,261565.86
+Baix Llobregat,S,JENP,11,7,Cornellà de Llobregat,'19,77000
+Baix Llobregat,N,CIF,11,225,Sant Feliu de Llobregat,'19,524264.45
+Vallès Occidental,N,COOR,40,1,Santa Perpètua de Mogoda,'19,34067.24
+Vallès Occidental,N,ENFE,40,20,Sabadell,'19,511794.25
+Baix Llobregat,N,ENFE,11,10,Esplugues de Llobregat,'19,213598.09
+Barcelonès,N,DAM,13,45,"Hospitalet de Llobregat, l'",'19,45342
+Vallès Oriental,S,PSGJ,41,12,Granollers,'19,9450
+Barcelonès,N,ENFE,13,10,Sant Adrià de Besòs,'19,279779.69
+Baix Llobregat,N,DONA,11,9,Sant Feliu de Llobregat,'19,174272.4
+Barcelonès,N,CIF,13,26,Santa Coloma de Gramenet,'19,3916.32
+Vallès Occidental,N,30P,40,100,Terrassa,'19,425575.75
+Vallès Occidental,N,UNIS,40,2767,Cerdanyola del Vallès,'19,365655.97000000003
+Baix Llobregat,N,FOQ,11,90,Sant Feliu de Llobregat,'19,278493
+Barcelonès,N,FOQ,13,294,Badalona,'19,805903.5
+Vallès Occidental,N,30P,40,3,Sentmenat,'19,16318.03
+Vallès Oriental,N,DONA,41,1,Montornès del Vallès,'19,19910.5
+Baix Llobregat,N,AMAP,11,15,Sant Boi de Llobregat,'19,24132
+Vallès Occidental,N,FI45,40,1,Sant Quirze del Vallès,'19,3150
+Vallès Occidental,N,APRE,40,68,Sabadell,'19,12487
+Baix Llobregat,N,TB,11,96,Sant Joan Despí,'19,228134.72
+Baix Llobregat,N,TB,11,5,Gavà,'19,73708.2
+Vallès Occidental,N,ENFE,40,9,Barberà del Vallès,'19,258498.61000000002
+Vallès Occidental,N,APRE,40,40,Ripollet,'19,6244
+Vallès Occidental,N,AODL,40,1,Montcada i Reixac,'19,36000
+Vallès Oriental,N,30P,41,35,Granollers,'19,148951.51
+Vallès Occidental,N,DAM,40,15,Terrassa,'19,43695
+Barcelonès,N,TRFO,13,132,Barcelona,'19,1746838.9
+Vallès Oriental,S,REFE,41,1,Canovelles,'19,36800
+Vallès Occidental,N,UBIC,40,27,Ripollet,'19,50860.689999999995
+Barcelonès,N,TRFO,13,59,Santa Coloma de Gramenet,'19,711714.8
+Vallès Occidental,N,30P,40,30,Rubí,'19,127672.72
+Vallès Oriental,N,TRFO,41,6,"Franqueses del Vallès, les",'19,69801.8
+Baix Llobregat,N,AODL,11,1,Gavà,'19,36000
+Vallès Occidental,S,JENP,40,3,Palau-solità i Plegamans,'19,33000
+Baix Llobregat,N,FPOT,11,307,Pallejà,'19,55875.17
+Vallès Occidental,N,30P,40,4,Cerdanyola del Vallès,'19,25392.68
+Vallès Occidental,N,CC,40,15,Cerdanyola del Vallès,'19,70914
+Barcelonès,N,UBIC,13,66,Badalona,'19,120752.69
+Vallès Occidental,N,CCFI,40,15,Sabadell,'19,59802
+Vallès Occidental,N,AMAP,40,15,Barberà del Vallès,'19,29181
+Barcelonès,N,ARIF,13,125,"Hospitalet de Llobregat, l'",'19,64850
+Vallès Occidental,N,COOR,40,3,Sabadell,'19,102201.72
+Vallès Occidental,N,30P,40,16,Rubí,'19,94544.01
+Baix Llobregat,N,PRMI,11,13,Sant Feliu de Llobregat,'19,148810.8
+Baix Llobregat,N,30P,11,20,Castelldefels,'19,85115.15000000001
+Vallès Occidental,N,IPIS,40,625,Sabadell,'19,300000
+Baix Llobregat,N,COOR,11,2,Sant Feliu de Llobregat,'19,68134.48
+Baix Llobregat,N,ENFE,11,5,Sant Joan Despí,'19,139889.84999999998
+Vallès Oriental,S,PSGJ,41,1,Parets del Vallès,'19,5400
+Vallès Oriental,S,JENP,41,3,"Franqueses del Vallès, les",'19,33000
+Vallès Oriental,N,FOQ,41,572,Granollers,'19,1287776.1
+Vallès Oriental,N,30P,41,3,Sant Fost de Campsentelles,'19,21038.56
+Vallès Occidental,N,REEM,40,8,Sant Cugat del Vallès,'19,2496.48
+Vallès Oriental,N,DONA,41,1,Cardedeu,'19,19876
+Barcelonès,N,CC,13,382,Barcelona,'19,1132068.8
+Barcelonès,N,COOR,13,3,Santa Coloma de Gramenet,'19,102201.72
+Baix Llobregat,N,AUTO,11,149,Martorell,'19,143701.91999999998
+Baix Llobregat,N,ENFE,11,14,Viladecans,'19,391691.57
+Vallès Oriental,S,JENP,41,3,Canovelles,'19,33000
+Vallès Occidental,N,PIN,40,10,Rubí,'19,110791.5
+Baix Llobregat,N,AMAP,11,15,Sant Andreu de la Barca,'19,24132
+Barcelonès,N,DAM,13,150,Santa Coloma de Gramenet,'19,494649
+Vallès Occidental,N,APRE,40,78,Sant Cugat del Vallès,'19,12487
+Baix Llobregat,N,COOR,11,1,Cornellà de Llobregat,'19,34067.24
+Baix Llobregat,N,AMAP,11,135,Castelldefels,'19,226812
+Vallès Occidental,N,DONA,40,3,Sant Cugat del Vallès,'19,57651.6
+Barcelonès,N,COOR,13,3,"Hospitalet de Llobregat, l'",'19,102201.72
+Baix Llobregat,N,PRMI,11,6,Viladecans,'19,59908.8
+Baix Llobregat,N,FI45,11,2,Cornellà de Llobregat,'19,14700
+Vallès Occidental,N,IPIS,40,250,Rubí,'19,120000
+Baix Llobregat,N,APRE,11,78,Viladecans,'19,12487
+Barcelonès,N,ACOL,13,1,Santa Coloma de Gramenet,'19,20173.6
+Vallès Occidental,N,PIN,40,25,Terrassa,'19,188769.75
+Vallès Oriental,N,CCFI,41,10,Cardedeu,'19,48600
+Vallès Occidental,N,APP,40,30,Terrassa,'19,382419.32
+Vallès Occidental,N,PRMI,40,6,Badia del Vallès,'19,59109.6
+Barcelonès,N,FI45,13,14,Barcelona,'19,137424
+Barcelonès,N,AMAP,13,435,"Hospitalet de Llobregat, l'",'19,705390
+Barcelonès,N,DAM,13,480,Barcelona,'19,775498.5
+Vallès Occidental,N,AMAP,40,15,Sabadell,'19,27652.5
+Barcelonès,N,AODL,13,4,Badalona,'19,144000
+Barcelonès,N,IPIS,13,500,Badalona,'19,240000
+Vallès Occidental,S,REFE,40,4,Terrassa,'19,147200
+Vallès Oriental,S,JENP,41,3,Cardedeu,'19,33000
+Vallès Occidental,N,AODL,40,2,Santa Perpètua de Mogoda,'19,72000
+Baix Llobregat,N,COOR,11,1,Viladecans,'19,34067.24
+Vallès Occidental,S,JENP,40,4,Badia del Vallès,'19,44000
+Barcelonès,N,AODL,13,8,Santa Coloma de Gramenet,'19,288000
+Baix Llobregat,N,UBIC,11,37,"Prat de Llobregat, el",'19,69925.45
+Baix Llobregat,N,AODL,11,2,Gavà,'19,72000
+Baix Llobregat,S,JENP,11,5,Viladecans,'19,55000
+Vallès Occidental,S,PSGJ,40,2,Sant Quirze del Vallès,'19,10279.77
+Baix Llobregat,N,FPOS,11,1483,"Prat de Llobregat, el",'19,346005.51
+Vallès Oriental,S,JENP,41,2,"Garriga, la",'19,22000
+Barcelonès,N,TB,13,554,Badalona,'19,948009.71
+Vallès Oriental,N,30P,41,25,Granollers,'19,161562.93
+Baix Llobregat,N,30P,11,19,Castelldefels,'19,99942.77
+Barcelonès,N,30P,13,18,Santa Coloma de Gramenet,'19,105666.6
+Baix Llobregat,N,AODL,11,5,Viladecans,'19,180000
+Baix Llobregat,N,DONA,11,3,Sant Vicenç dels Horts,'19,58288.8
+Baix Llobregat,N,AMAP,11,60,Gavà,'19,101670
+Vallès Oriental,S,JENP,41,14,Granollers,'19,154000
+Vallès Oriental,N,DONA,41,2,Canovelles,'19,39752
+Vallès Oriental,S,JENP,41,2,Bigues i Riells,'19,22000
+Baix Llobregat,N,30P,11,2,Santa Coloma de Cervelló,'19,9405.58
+Barcelonès,N,DONA,13,20,Badalona,'19,390901.4
+Vallès Oriental,N,FI45,41,2,Mollet del Vallès,'19,16065
+Vallès Occidental,S,PSGJ,40,1,Sabadell,'19,3996.3900000000003
+Barcelonès,N,AGRA,13,2,Barcelona,'19,23325.480000000003
+Vallès Oriental,N,CC,41,24,Granollers,'19,130243.2
+Vallès Occidental,N,30P,40,2,Castellar del Vallès,'19,9528.9
+Vallès Oriental,N,REEM,41,34,Granollers,'19,9985.92
+Vallès Oriental,N,FOQ,41,30,Sant Celoni,'19,127525.5
+Baix Llobregat,N,DONA,11,4,Castelldefels,'19,76868.8
+Vallès Occidental,N,AODL,40,1,Terrassa,'19,36000
+Baix Llobregat,N,CIF,11,39,Sant Feliu de Llobregat,'19,9905
+Vallès Oriental,S,PSGJ,41,2,Montornès del Vallès,'19,10800
+Baix Llobregat,N,TRFO,11,6,Sant Joan Despí,'19,81736
+Vallès Oriental,N,ARIF,41,125,Granollers,'19,64850
+Vallès Occidental,N,FPOT,40,2537,Terrassa,'19,752997.98
+Barcelonès,N,TB,13,2140,Barcelona,'19,4826231.49
+Vallès Occidental,N,DONA,40,3,Ripollet,'19,57651.6
+Baix Llobregat,N,PRMI,11,6,Olesa de Montserrat,'19,59109.6
+Barcelonès,N,IPIS,13,2125,Barcelona,'19,1020000
+Baix Llobregat,N,AODL,11,2,Molins de Rei,'19,72000
+Baix Llobregat,N,DONA,11,3,Gavà,'19,58137.6
+Vallès Occidental,N,TRFO,40,8,Castellar del Vallès,'19,88192.8
+Baix Llobregat,N,FI45,11,1,Santa Coloma de Cervelló,'19,3199.77
+Baix Llobregat,N,FOQ,11,153,Viladecans,'19,339921.08
+Vallès Oriental,S,PSGJ,41,3,"Franqueses del Vallès, les",'19,16200
+Vallès Oriental,N,TB,41,212,Montornès del Vallès,'19,343488.86
+Baix Llobregat,N,TRFO,11,17,Viladecans,'19,227123.2
+Baix Llobregat,N,DAM,11,90,"Prat de Llobregat, el",'19,120306
+Vallès Oriental,N,TB,41,63,Granollers,'19,235754.08
+Baix Llobregat,N,ACOL,11,2,Sant Just Desvern,'19,38405.6
+Vallès Occidental,N,FOQ,40,660,Sabadell,'19,1648892.25
+Vallès Occidental,N,30P,40,2,Vacarisses,'19,8212.31
+Barcelonès,N,FI45,13,1,Sant Adrià de Besòs,'19,10500
+Baix Llobregat,N,TRFO,11,9,Martorell,'19,108515.2
+Barcelonès,N,TRFO,13,74,"Hospitalet de Llobregat, l'",'19,934312.8
+Baix Llobregat,N,FOQ,11,132,Sant Boi de Llobregat,'19,340656.75
+Baix Llobregat,N,TB,11,90,Sant Vicenç dels Horts,'19,148808.94
+Vallès Oriental,N,TB,41,6,Sant Feliu de Codines,'19,37166.04
+Barcelonès,N,IPIS,13,250,Santa Coloma de Gramenet,'19,120000
+Vallès Occidental,N,AODL,40,1,Castellar del Vallès,'19,36000
+Vallès Occidental,N,FPOS,40,4566,Terrassa,'19,1094199.83
+Vallès Oriental,N,IPIS,41,500,Granollers,'19,240000
+Barcelonès,N,TB,13,1095,Santa Coloma de Gramenet,'19,2681481.82
+Baix Llobregat,N,REEM,11,13,Gavà,'19,3744.72
+Barcelonès,N,30P,13,20,Badalona,'19,85115.15000000001
+Barcelonès,N,FPOS,13,377,Badalona,'19,126170.2
+Vallès Occidental,N,CC,40,90,Sant Cugat del Vallès,'19,248214
+Barcelonès,N,AODL,13,5,"Hospitalet de Llobregat, l'",'19,180000
+Baix Llobregat,S,PSGJ,11,1,Molins de Rei,'19,5400
+Baix Llobregat,N,PRMI,11,4,Sant Joan Despí,'19,39939.2
+Barcelonès,N,PQTM,13,60,Barcelona,'19,42826.4
+Baix Llobregat,N,ENFE,11,7,Gavà,'19,149518.67
+Baix Llobregat,N,TRFO,11,9,Sant Andreu de la Barca,'19,117949.2
+Baix Llobregat,N,ENFE,11,14,Castelldefels,'19,405085.35
+Vallès Oriental,S,JENP,41,3,Parets del Vallès,'19,33000
+Vallès Occidental,N,DAM,40,15,Terrassa,'19,28398
+Baix Llobregat,N,CC,11,30,Molins de Rei,'19,162804
+Baix Llobregat,S,JENP,11,5,Esparreguera,'19,55000
+Vallès Occidental,N,FOQ,40,75,Santa Perpètua de Mogoda,'19,217411.5
+Baix Llobregat,N,IPIS,11,125,Esplugues de Llobregat,'19,60000
+Vallès Oriental,N,TB,41,2,Martorelles,'19,34333.53
+Baix Llobregat,N,AODL,11,3,Sant Vicenç dels Horts,'19,108000
+Baix Llobregat,N,COOR,11,1,Martorell,'19,34067.24
+Baix Llobregat,N,PRMI,11,6,Castelldefels,'19,59023.2
+Vallès Occidental,N,UBIC,40,21,Cerdanyola del Vallès,'19,39728.91
+Vallès Occidental,N,UBIC,40,45,Montcada i Reixac,'19,85023.73999999999
+Vallès Occidental,N,ENFE,40,10,Ripollet,'19,279779.69
+Vallès Occidental,S,JENP,40,5,Montcada i Reixac,'19,55000
+Vallès Oriental,N,UBIC,41,43,Granollers,'19,81057.20999999999
+Vallès Occidental,N,PIN,40,60,Santa Perpètua de Mogoda,'19,150000
+Barcelonès,S,REFE,13,3,"Hospitalet de Llobregat, l'",'19,110400
+Barcelonès,N,FPOS,13,492,"Hospitalet de Llobregat, l'",'19,187298.25
+Baix Llobregat,N,REEM,11,4,"Prat de Llobregat, el",'19,1248.24
+Vallès Occidental,N,FOQ,40,921,Terrassa,'19,1975918.2
+Baix Llobregat,S,REFE,11,2,Cornellà de Llobregat,'19,73600
+Vallès Occidental,N,FPOS,40,620,Sant Cugat del Vallès,'19,90768.84
+Baix Llobregat,N,30P,11,1,Cervelló,'19,5795.21
+Vallès Oriental,N,30P,41,1,Cardedeu,'19,3863.48
+Vallès Oriental,S,PSGJ,41,2,Mollet del Vallès,'19,9450
+Vallès Occidental,N,CIF,40,39,Terrassa,'19,8879.11
+Vallès Occidental,S,DPGJ,40,77,Terrassa,'19,19758

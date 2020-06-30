@@ -1,0 +1,85 @@
+---
+title: "Tidy data y tidyverse"
+author: "Marc Cabanas"
+date: "6/4/2020"
+output: html_document
+---
+*1 Introducción*
+Cargamos todas las librerias que utilizaremos:
+```{r}
+library(plyr)
+library(tidyverse)
+library(pxR)
+library(knitr)
+library(tinytex)
+library(data.table)
+library(ggthemes)
+library(ggrepel)
+```
+
+*2 Los datos en la realidad*
+```{r}
+censals <- read.csv2("CENSALS_CAT.csv", 
+                     sep = "\t", 
+                     fileEncoding = "latin1")
+head(censals)
+```
+*3 Tidy data: transformació de les dades*
+Hay 6 funciones básicas:
+-> Seleccionar las variables por su nombre mediante _select()_
+-> Seleccionar las variables por su valor _filter_()
+-> Reordenar las filas de una data.frame _arrange()_
+-> Crear nuevas variables a partir de ejecutar funciones osbre las variables existentes _mutate()_
+-> Agrupar los datos según el valor de algun factor por tal de resumirlos _group_by()_
+-> Resumir los valores de las variables a partir de al agrupación por algún factor _summarise()_
+
+Seleccionamos los datos que nos interesan:
+```{r}
+sub <- select(censals, provincia, codi, municipi, pob.2000, Immig.2000, Codi.Comarca, Comarca)
+head(sub)
+```
+*3.2 Filtrar y ordenar*
+Crearemos dos subgrupos que contengan los municipios con más de un 15% de población inmigrada y los que tengan un 0.5% o menos. Utilizamos filter y arrange:
+```{r}
+df.mes <- filter(sub, Immig.2000>15)
+df.mes <- arrange(df.mes, desc(Immig.2000))
+```
+*Ejercicio: 
+1. Una población del V. Oriental con una población inmigrante menor del 3%.
+2. Ordenarlos de mayor a menor % de pob inmigrada
+```{r}
+ex <- select(sub, municipi, Comarca, Immig.2000)
+ex <- filter(ex, Comarca=="Vallès Oriental")
+ex <- filter(ex, Immig.2000<3)
+ex <- arrange(ex, Immig.2000)
+ex
+```
+
+
+*3.4 Crear nuevas variables*
+```{r}
+sub <- mutate(sub, pob.im=round((sub$Immig.2000/100)*sub$pob.2000,0))
+head(sub)
+```
+*3.5 Agrupar y resumir*
+Datos agrupados por comarcas, con los porcentajes de poblacion inmigrante en cada una
+```{r}
+df.com <- sub%>%group_by(Comarca)%>%
+  dplyr::summarise(pob=sum(pob.2000), im=sum(pob.im))%>%
+  mutate(perc_im=(im/pob)*100)%>%
+  arrange(desc(perc_im))
+df.com
+```
+*3.6 Tibble*
+```{r}
+censals.t <- read_delim("CENSALS_CAT.csv",
+                        delim="\t",
+                        locale=locale(encoding = "ISO-8859-1",
+                                      decimal_mark = ","))
+censals.t
+```
+
+```{r}
+class(censals.t)
+```
+

@@ -1,0 +1,78 @@
+---
+title: "Gestión de datos_2"
+author: "Marc Cabanas"
+date: "6/4/2020"
+output: html_document
+---
+#Tablas de contingencia
+```{r}
+arrests <- read.csv("arrests.csv",
+                    sep = ",")
+head(arrests)
+```
+**Tablas de doble entrada**
+```{r}
+t <- table(arrests$released, arrests$colour) #con la función table()
+t <- xtabs(~released+colour, data=arrests) #con la función xtabs()
+t
+```
+Lo ponemos con porcentaje
+```{r}
+prop.table(t)
+```
+y multiplicamos por 100
+```{r}
+prop.table(t)*100
+```
+Y ahora creamos los porcentajes-columna
+```{r}
+prop.table(t,2)*100
+```
+
+Y para crear porcentajes-fila
+```{r}
+prop.table(t,1)*100
+```
+Para tener toda la información sin tener que pedirla una a una, hacemos lo siguiente, con la libreria gmodels
+```{r}
+library(gmodels)
+CrossTable(arrests$released, arrests$colour, format = "SPSS")
+```
+Lo representamos en una tabla
+```{r}
+s <- prop.table(t,2)*100
+mosaicplot(s)
+```
+
+**Tablas más complejas**
+a) tablas de triple entrada
+```{r}
+t2 <- table(arrests$released, arrests$colour, arrests$employed)
+t2 <- xtabs(~released+colour+employed, data = arrests)
+t2
+```
+Para obtener porcentajes-columna
+```{r}
+prop.table(t2,2)*100
+```
+```{r}
+prop.table(t2, margin = c(3, 2))*100
+```
+**Tablas planas**
+Lo hacemos con la función _ftable()_
+```{r}
+ftable(t2, col.vars=c("colour", "employed"))
+```
+
+```{r}
+ftable(100*prop.table(t2, margin = c(3,2)),
+       col.vars = c("colour","employed"))
+```
+Reducimos decimales con la función _round()_
+```{r}
+tf2 <- ftable(100*prop.table(t2, margin=c(3,2)),
+              col.vars = c("colour", "employed"))
+
+round(tf2, digits = 2)  #establecemos 2 decimales
+```
+
