@@ -1,0 +1,60 @@
+---
+title: "correlaciones_tfm"
+author: "Marc Cabanas"
+date: "7/8/2020"
+output:
+  html_document:
+    df_print: paged
+editor_options: 
+  chunk_output_type: console
+---
+Abrimos datos y librerias
+```{r setup, include=FALSE}
+data <- read.csv("meps_apa_total.csv", 
+                 sep = ";")
+rec <- subset(data,select = c(Group, Country, MEPs.MALE, MEPs.FEM, Ass..Male, Ass..Female))
+library(corrplot)
+
+```
+
+Ejecutamos pairs() para observar si existen correlaciones entre las variables
+```{r}
+pairs(rec)
+```
+
+Vemos si existen correlaciones entre ellas:
+```{r}
+x=cor(rec)
+x
+```
+
+y lo graficamos:
+```{r}
+corrplot(x, method="color")
+```
+
+
+**MODELOS**
+
+Establecemos diferentes modelos para observar la explicación de que un MEP (Hombre o mujer), contrate a un APA (hombre-mujer).
+
+El primer modelo habla de la posibilidad que un MEP hombre contrate a un APA hombre
+```{r}
+Man_asMan <- lm(rec$MEPs.MALE~rec$Ass..Male)
+summary(Man_asMan)
+```
+Modelo 2: MEP hombre contratando APA Mujer:
+```{r}
+model2 <- lm(rec$MEPs.MALE~rec$Ass..Female)
+summary(model2)
+```
+Modelo 3 -> MEP Mujer contratando APA Hombre
+```{r}
+summary(lm(rec$MEPs.FEM~rec$Ass..Male))
+```
+
+Modelo 4-> MEP Mujer contratando a APA Mujer
+```{r}
+summary(lm(rec$MEPs.FEM~rec$Ass..Female))
+```
+
